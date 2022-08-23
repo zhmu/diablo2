@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Leather Gloves" category="Gloves" level="normal" tc="3">
+  <durability max="12" />
+  <defense min="2" max="3" />
+ </type>
+
+ <type name="Heavy Gloves" category="Gloves" level="normal" tc="9">
+  <durability max="14" />
+  <defense min="5" max="6" />
+ </type>
+
+ <type name="Chain Gloves" category="Gloves" level="normal" tc="12">
+  <durability max="16" />
+  <require strength="25" />
+  <defense min="8" max="9" />
+ </type>
+
+ <type name="Light Gauntlets" category="Gloves" level="normal" tc="21">
+  <durability max="18" />
+  <require strength="45" />
+  <defense min="9" max="11" />
+ </type>
+
+ <type name="Gauntlets" category="Gloves" level="normal" tc="27">
+  <durability max="24" />
+  <require strength="60" />
+  <defense min="12" max="15" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Demonhide Gloves" category="Gloves" level="exceptional" tc="33">
+  <durability max="12" />
+  <require level="24" strength="20" />
+  <defense min="28" max="35" />
+ </type>
+
+ <type name="Sharkskin Gloves" category="Gloves" level="exceptional" tc="39">
+  <durability max="14" />
+  <require level="25" strength="20" />
+  <defense min="33" max="39" />
+ </type>
+
+ <type name="Heavy Bracers" category="Gloves" level="exceptional" tc="45">
+  <durability max="16" />
+  <require level="25" strength="58" />
+  <defense min="37" max="44" />
+ </type>
+
+ <type name="Battle Gauntlets" category="Gloves" level="exceptional" tc="51">
+  <durability max="18" />
+  <require level="25" strength="88" />
+  <defense min="39" max="47" />
+ </type>
+
+ <type name="War Gauntlets" category="Gloves" level="exceptional" tc="54">
+  <durability max="24" />
+  <require level="25" strength="110" />
+  <defense min="43" max="53" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Bramble Mitts" category="Gloves" level="elite" tc="57">
+  <durability max="12" />
+  <require level="42" strength="50" />
+  <defense min="54" max="62" />
+ </type>
+
+ <type name="Vampirebone Gloves" category="Gloves" level="elite" tc="63">
+  <durability max="14" />
+  <require level="47" strength="50" />
+  <defense min="56" max="65" />
+ </type>
+
+ <type name="Vambraces" category="Gloves" level="elite" tc="69">
+  <durability max="16" />
+  <require level="51" strength="106" />
+  <defense min="59" max="67" />
+ </type>
+
+ <type name="Crusader Gauntlets" category="Gloves" level="elite" tc="78">
+  <durability max="18" />
+  <require level="57" strength="151" />
+  <defense min="59" max="69" />
+ </type>
+
+ <type name="Ogre Gauntlets" category="Gloves" level="elite" tc="87">
+  <durability max="24" />
+  <require level="64" strength="185" />
+  <defense min="62" max="71" />
+ </type>
+</items>

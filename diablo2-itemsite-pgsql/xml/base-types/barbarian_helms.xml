@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Jawbone Cap" category="Helm" level="normal" tc="6">
+  <durability max="25" />
+  <require level="3" strength="25" />
+  <sockets amount="3" />
+  <defense min="10" max="15" />
+ </type>
+
+ <type name="Fanged Helm" category="Helm" level="normal" tc="9">
+  <durability max="35" />
+  <require level="6" strength="35" />
+  <sockets amount="3" />
+  <defense min="15" max="20" />
+ </type>
+
+ <type name="Horned Helm" category="Helm" level="normal" tc="18">
+  <durability max="45" />
+  <require level="12" strength="45" />
+  <sockets amount="3" />
+  <defense min="25" max="25" />
+ </type>
+
+ <type name="Assault Helmet" category="Helm" level="normal" tc="21">
+  <durability max="50" />
+  <require level="15" strength="55" />
+  <sockets amount="3" />
+  <defense min="30" max="35" />
+ </type>
+
+ <type name="Avenger Guard" category="Helm" level="normal" tc="24">
+  <durability max="55" />
+  <require level="18" strength="65" />
+  <sockets amount="3" />
+  <defense min="35" max="50" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Jawbone Visor" category="Helm" level="exceptional" tc="33">
+  <durability max="25" />
+  <require level="25" strength="58" />
+  <sockets amount="3" />
+  <defense min="55" max="68" />
+ </type>
+
+ <type name="Lion Helm" category="Helm" level="exceptional" tc="39">
+  <durability max="35" />
+  <require level="29" strength="73" />
+  <sockets amount="3" />
+  <defense min="63" max="75" />
+ </type>
+
+ <type name="Rage Mask" category="Helm" level="exceptional" tc="45">
+  <durability max="45" />
+  <require level="29" strength="88" />
+  <sockets amount="3" />
+  <defense min="78" max="90" />
+ </type>
+
+ <type name="Savage Helmet" category="Helm" level="exceptional" tc="51">
+  <durability max="50" />
+  <require level="32" strength="103" />
+  <sockets amount="3" />
+  <defense min="85" max="98" />
+ </type>
+
+ <type name="Slayer Guard" category="Helm" level="exceptional" tc="54">
+  <durability max="55" />
+  <require level="40" strength="118" />
+  <sockets amount="3" />
+  <defense min="93" max="120" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Carnage Helm" category="Helm" level="elite" tc="60">
+  <durability max="25" />
+  <require level="45" strength="106" />
+  <sockets amount="3" />
+  <defense min="102" max="147" />
+ </type>
+
+ <type name="Fury Visor" category="Helm" level="elite" tc="66">
+  <durability max="35" />
+  <require level="49" strength="129" />
+  <sockets amount="3" />
+  <defense min="105" max="150" />
+ </type>
+
+ <type name="Destroyer Helm" category="Helm" level="elite" tc="75">
+  <durability max="45" />
+  <require level="54" strength="151" />
+  <sockets amount="3" />
+  <defense min="111" max="156" />
+ </type>
+
+ <type name="Conqueror Crown" category="Helm" level="elite" tc="81">
+  <durability max="50" />
+  <require level="60" strength="174" />
+  <sockets amount="3" />
+  <defense min="114" max="159" />
+ </type>
+
+ <type name="Guardian Crown" category="Helm" level="elite" tc="87">
+  <durability max="55" />
+  <require level="65" strength="196" />
+  <sockets amount="3" />
+  <defense min="117" max="168" />
+ </type>
+</items>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Javelin" category="Javelin" level="normal" tc="3">
+  <stack max="60" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="6" throwmax="14" min="1" max="5" />
+ </type>
+
+ <type name="Pilum" category="Javelin" level="normal" tc="12">
+  <require dexterity="45" />
+  <stack max="50" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="7" throwmax="20" min="4" max="9" />
+ </type>
+
+ <type name="Short Spear" category="Javelin" level="normal" tc="15">
+  <require strength="40" dexterity="40" />
+  <stack max="40" />
+  <speed ama="f" asn="f" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage throwmin="10" throwmax="22" min="2" max="13" />
+ </type>
+
+ <type name="Glaive" category="Javelin" level="normal" tc="24">
+  <require strength="52" dexterity="35" />
+  <stack max="40" />
+  <speed ama="n" asn="n" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage throwmin="16" throwmax="22" min="5" max="17" />
+ </type>
+
+ <type name="Throwing Spear" category="Javelin" level="normal" tc="30">
+  <require dexterity="65" />
+  <stack max="80" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="12" throwmax="30" min="5" max="15" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="War Javelin" category="Javelin" level="exceptional" tc="30">
+  <require level="18" strength="25" dexterity="25" />
+  <stack max="60" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="14" throwmax="32" min="6" max="19" />
+ </type>
+
+ <type name="Great Pilum" category="Javelin" level="exceptional" tc="39">
+  <require level="25" strength="25" dexterity="88" />
+  <stack max="50" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="16" throwmax="42" min="11" max="26" />
+ </type>
+
+ <type name="Simbilan" category="Javelin" level="exceptional" tc="42">
+  <require level="25" strength="80" dexterity="80" />
+  <stack max="40" />
+  <speed ama="f" asn="f" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage throwmin="27" throwmax="50" min="8" max="32" />
+ </type>
+
+ <type name="Spiculum" category="Javelin" level="exceptional" tc="48">
+  <require level="25" strength="93" dexterity="73" />
+  <stack max="20" />
+  <speed ama="n" asn="n" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage throwmin="32" throwmax="60" min="13" max="38" />
+ </type>
+
+ <type name="Harpoon" category="Javelin" level="exceptional" tc="51">
+  <require level="25" strength="25" dexterity="118" />
+  <stack max="80" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="18" throwmax="54" min="13" max="35" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Hyperion Javelin" category="Javelin" level="elite" tc="54">
+  <require level="40" strength="98" dexterity="123" />
+  <stack max="100" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="28" throwmax="55" min="21" max="57" />
+ </type>
+
+ <type name="Stygian Pilum" category="Javelin" level="elite" tc="63">
+  <require level="46" strength="118" dexterity="112" />
+  <stack max="90" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="21" throwmax="75" min="14" max="64" />
+ </type>
+
+ <type name="Balrog Spear" category="Javelin" level="elite" tc="72">
+  <require level="53" strength="127" dexterity="95" />
+  <stack max="80" />
+  <speed ama="f" asn="f" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage throwmin="40" throwmax="62" min="33" max="63" />
+ </type>
+
+ <type name="Ghost Glaive" category="Javelin" level="elite" tc="81">
+  <require level="59" strength="89" dexterity="137" />
+  <stack max="75" />
+  <speed ama="n" asn="n" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage throwmin="30" throwmax="85" min="19" max="60" />
+ </type>
+
+ <type name="Winged Harpoon" category="Javelin" level="elite" tc="87">
+  <require level="65" strength="76" dexterity="145" />
+  <stack max="80" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage throwmin="11" throwmax="77" min="27" max="35" />
+ </type>
+</items>

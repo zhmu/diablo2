@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL, ONE HAND -->
+ <type name="Hand Axe" category="Axe" level="normal" tc="3">
+  <durability max="28" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="3" h1max="6" />
+ </type>
+
+ <type name="Axe" category="Axe" level="normal" tc="9">
+  <durability max="24" />
+  <require strength="32" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="4" h1max="11" />
+ </type>
+
+ <type name="Double Axe" category="Axe" level="normal" tc="15">
+  <durability max="24" />
+  <require strength="43" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="5" h1max="13" />
+ </type>
+
+ <type name="Military Pick" category="Axe" level="normal" tc="21">
+  <durability max="26" />
+  <require strength="49" dexterity="33" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="7" h1max="11" />
+ </type>
+
+ <type name="War Axe" category="Axe" level="normal" tc="27">
+  <durability max="26" />
+  <require strength="67" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="10" h1max="18" />
+ </type>
+
+ <!-- NORMAL, TWO HAND -->
+ <type name="Large Axe" category="Axe" level="normal" tc="6">
+  <durability max="30" />
+  <require strength="35" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="6" h2max="13" />
+ </type>
+
+ <type name="Broad Axe" category="Axe" level="normal" tc="12">
+  <durability max="35" />
+  <require strength="48" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="10" h2max="18" />
+ </type>
+
+ <type name="Battle Axe" category="Axe" level="normal" tc="18">
+  <durability max="40" />
+  <require strength="54" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="12" h2max="32" />
+ </type>
+
+ <type name="Great Axe" category="Axe" level="normal" tc="24">
+  <durability max="50" />
+  <require strength="63" dexterity="39" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="9" h2max="30" />
+ </type>
+
+ <type name="Giant Axe" category="Axe" level="normal" tc="27">
+  <durability max="50" />
+  <require strength="70" />
+  <range amount="4" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="22" h2max="45" />
+ </type>
+
+ <!-- EXCEPTIONAL, ONE HAND -->
+ <type name="Hatchet" category="Axe" level="exceptional" tc="33">
+  <durability max="28" />
+  <require level="19" strength="25" dexterity="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="10" h1max="21" />
+ </type>
+
+ <type name="Cleaver" category="Axe" level="exceptional" tc="36">
+  <durability max="24" />
+  <require level="22" strength="68" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="10" h1max="33" />
+ </type>
+
+ <type name="Twin Axe" category="Axe" level="exceptional" tc="39">
+  <durability max="24" />
+  <require level="25" strength="85" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="13" h1max="38" />
+ </type>
+
+ <type name="Crowbill" category="Axe" level="exceptional" tc="45">
+  <durability max="26" />
+  <require level="25" strength="94" dexterity="70" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="14" h1max="34" />
+ </type>
+
+ <type name="Naga" category="Axe" level="exceptional" tc="48">
+  <durability max="26" />
+  <require level="25" strength="121" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="s" />
+  <damage h1min="16" h1max="45" />
+ </type>
+
+ <!-- EXCEPTIONAL, TWO HAND -->
+ <type name="Military Axe" category="Axe" level="exceptional" tc="36">
+  <durability max="30" />
+  <require level="25" strength="73" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="14" h2max="34" />
+ </type>
+
+ <type name="Bearded Axe" category="Axe" level="exceptional" tc="39">
+  <durability max="35" />
+  <require level="25" strength="92" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="21" h2max="49" />
+ </type>
+
+ <type name="Tabar" category="Axe" level="exceptional" tc="42">
+  <durability max="40" />
+  <require level="25" strength="101" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="24" h2max="77" />
+ </type>
+
+ <type name="Gothic Axe" category="Axe" level="exceptional" tc="33">
+  <durability max="50" />
+  <require level="25" strength="115" dexterity="79" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="18" h2max="70" />
+ </type>
+
+ <type name="Ancient Axe" category="Axe" level="exceptional" tc="51">
+  <durability max="50" />
+  <require level="25" strength="125" />
+  <range amount="4" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="43" h2max="85" />
+ </type>
+
+ <!-- ELITE, ONE HAND -->
+ <type name="Tomahawk" category="Axe" level="elite" tc="54">
+  <durability max="28" />
+  <require level="40" strength="125" dexterity="67" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="33" h1max="58" />
+ </type>
+
+ <type name="Small Crescent" category="Axe" level="elite" tc="63">
+  <durability max="24" />
+  <require level="45" strength="115" dexterity="83" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="38" h1max="60" />
+ </type>
+
+ <type name="Ettin Axe" category="Axe" level="elite" tc="72">
+  <durability max="24" />
+  <require level="52" strength="145" dexterity="45" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="33" h1max="66" />
+ </type>
+
+ <type name="War Spike" category="Axe" level="elite" tc="81">
+  <durability max="26" />
+  <require level="59" strength="133" dexterity="45" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="30" h1max="48" />
+ </type>
+
+ <type name="Berserker Axe" category="Axe" level="elite" tc="87">
+  <durability max="26" />
+  <require level="64" strength="138" dexterity="59" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="s" />
+  <damage h1min="24" h1max="71" />
+ </type>
+
+ <!-- ELITE, TWO HAND -->
+ <type name="Feral Axe" category="Axe" level="elite" tc="57">
+  <durability max="30" />
+  <require level="42" strength="196" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="vf" />
+  <damage h2min="25" h2max="123" />
+ </type>
+
+ <type name="Silver-Edged Axe" category="Axe" level="elite" tc="66">
+  <durability max="35" />
+  <require level="48" strength="166" dexterity="65" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="62" h2max="110" />
+ </type>
+
+ <type name="Decapitator" category="Axe" level="elite" tc="75">
+  <durability max="40" />
+  <require level="54" strength="189" dexterity="33" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="49" h2max="137" />
+ </type>
+
+ <type name="Champion Axe" category="Axe" level="elite" tc="84">
+  <durability max="50" />
+  <require level="61" strength="167" dexterity="59" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="59" h2max="94" />
+ </type>
+
+ <type name="Glorious Axe" category="Axe" level="elite" tc="90">
+  <durability max="50" />
+  <require level="66" strength="164" dexterity="55" />
+  <range amount="4" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="60" h2max="124" />
+ </type>
+</items>

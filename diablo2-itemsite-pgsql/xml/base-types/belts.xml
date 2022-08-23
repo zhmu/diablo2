@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Sash" category="Belts" level="normal" tc="3">
+  <durability max="12" />
+  <boxes amount="8" />
+  <defense min="2" max="2" />
+ </type>
+
+ <type name="Light Belt" category="Belts" level="normal" tc="9">
+  <durability max="14" />
+  <boxes amount="8" />
+  <defense min="3" max="3" />
+ </type>
+
+ <type name="Belt" category="Belts" level="normal" tc="12">
+  <durability max="16" />
+  <require strength="25" />
+  <boxes amount="12" />
+  <defense min="5" max="5" />
+ </type>
+
+ <type name="Heavy Belt" category="Belts" level="normal" tc="21">
+  <durability max="18" />
+  <require strength="45" />
+  <boxes amount="12" />
+  <defense min="6" max="6" />
+ </type>
+
+ <type name="Plated Belt" category="Belts" level="normal" tc="27">
+  <durability max="24" />
+  <require strength="60" />
+  <boxes amount="16" />
+  <defense min="8" max="11" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Demonhide Sash" category="Belts" level="exceptional" tc="36">
+  <durability max="12" />
+  <require level="24" strength="20" />
+  <boxes amount="16" />
+  <defense min="29" max="34" />
+ </type>
+
+ <type name="Sharkskin Belt" category="Belts" level="exceptional" tc="39">
+  <durability max="14" />
+  <require level="25" strength="20" />
+  <boxes amount="16" />
+  <defense min="31" max="36" />
+ </type>
+
+ <type name="Mesh Belt" category="Belts" level="exceptional" tc="45">
+  <durability max="16" />
+  <require level="25" strength="58" />
+  <boxes amount="16" />
+  <defense min="35" max="40" />
+ </type>
+
+ <type name="Battle Belt" category="Belts" level="exceptional" tc="51">
+  <durability max="18" />
+  <require level="25" strength="88" />
+  <boxes amount="16" />
+  <defense min="37" max="42" />
+ </type>
+
+ <type name="War Belt" category="Belts" level="exceptional" tc="54">
+  <durability max="24" />
+  <require level="25" strength="110" />
+  <boxes amount="16" />
+  <defense min="41" max="52" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Spiderweb Sash" category="Belts" level="elite" tc="63">
+  <durability max="12" />
+  <require level="46" strength="50" />
+  <boxes amount="16" />
+  <defense min="55" max="62" />
+ </type>
+
+ <type name="Vampirefang Belt" category="Belts" level="elite" tc="69">
+  <durability max="14" />
+  <require level="51" strength="50" />
+  <boxes amount="16" />
+  <defense min="56" max="63" />
+ </type>
+
+ <type name="Mithril Coil" category="Belts" level="elite" tc="75">
+  <durability max="16" />
+  <require level="56" strength="106" />
+  <boxes amount="16" />
+  <defense min="58" max="65" />
+ </type>
+
+ <type name="Troll Belt" category="Belts" level="elite" tc="84">
+  <durability max="18" />
+  <require level="62" strength="151" />
+  <boxes amount="16" />
+  <defense min="59" max="66" />
+ </type>
+
+ <type name="Colossus Girdle" category="Belts" level="elite" tc="90">
+  <durability max="24" />
+  <require level="67" strength="185" />
+  <boxes amount="16" />
+  <defense min="61" max="71" />
+ </type>
+</items>

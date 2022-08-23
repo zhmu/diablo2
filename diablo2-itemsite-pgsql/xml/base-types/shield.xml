@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Buckler" category="Shield" level="normal" tc="3">
+  <durability max="12" />
+  <require strength="12" />
+  <sockets amount="1" />
+  <weight type="light" />
+  <defense min="4" max="6" />
+  <smite min="1" max="3" />
+  <block pal="30" ama="25" asn="25" bar="25" dru="20" nec="20" soc="20" />
+ </type>
+
+ <type name="Small Shield" category="Shield" level="normal" tc="6">
+  <durability max="16" />
+  <require strength="22" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="8" max="10" />
+  <smite min="2" max="3" />
+  <block pal="35" ama="30" asn="30" bar="30" dru="25" nec="25" soc="25" />
+ </type>
+
+ <type name="Large Shield" category="Shield" level="normal" tc="12">
+  <durability max="24" />
+  <require strength="34" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="12" max="14" />
+  <smite min="2" max="4" />
+  <block pal="42" ama="37" asn="37" bar="37" dru="32" nec="32" soc="32" />
+ </type>
+
+ <type name="Kite Shield" category="Shield" level="normal" tc="15">
+  <durability max="30" />
+  <require strength="47" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="16" max="18" />
+  <smite min="2" max="5" />
+  <block pal="38" ama="33" asn="33" bar="33" dru="28" nec="28" soc="28" />
+ </type>
+
+ <type name="Spiked Shield" category="Shield" level="normal" tc="12">
+  <durability max="40" />
+  <require strength="30" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="15" max="25" />
+  <smite min="5" max="9" />
+  <block pal="40" ama="35" asn="35" bar="35" dru="30" nec="30" soc="30" />
+ </type>
+
+ <type name="Tower Shield" category="Shield" level="normal" tc="24">
+  <durability max="60" />
+  <require strength="75" />
+  <sockets amount="3" />
+  <weight type="heavy" />
+  <defense min="22" max="25" />
+  <smite min="1" max="5" />
+  <block pal="54" ama="49" asn="49" bar="49" dru="44" nec="44" soc="44" />
+ </type>
+
+ <type name="Bone Shield" category="Shield" level="normal" tc="21">
+  <durability max="40" />
+  <require strength="25" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="10" max="30" />
+  <smite min="3" max="6" />
+  <block pal="50" ama="45" asn="45" bar="45" dru="40" nec="40" soc="40" />
+ </type>
+
+ <type name="Gothic Shield" category="Shield" level="normal" tc="30">
+  <durability max="40" />
+  <require strength="60" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="30" max="35" />
+  <smite min="2" max="6" />
+  <block pal="46" ama="41" asn="41" bar="41" dru="36" nec="36" soc="36" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Defender" category="Shield" level="exceptional" tc="36">
+  <durability max="12" />
+  <require level="22" strength="38" />
+  <sockets amount="1" />
+  <weight type="light" />
+  <defense min="41" max="49" />
+  <smite min="8" max="12" />
+  <block pal="40" ama="35" asn="35" bar="35" dru="30" nec="30" soc="30" />
+ </type>
+
+ <type name="Round Shield" category="Shield" level="exceptional" tc="39">
+  <durability max="16" />
+  <require level="25" strength="53" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="47" max="55" />
+  <smite min="7" max="14" />
+  <block pal="42" ama="37" asn="37" bar="37" dru="32" nec="32" soc="32" />
+ </type>
+
+ <type name="Scutum" category="Shield" level="exceptional" tc="42">
+  <durability max="24" />
+  <require level="25" strength="71" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="53" max="61" />
+  <smite min="11" max="15" />
+  <block pal="44" ama="39" asn="39" bar="39" dru="34" nec="34" soc="34" />
+ </type>
+
+ <type name="Dragon Shield" category="Shield" level="exceptional" tc="45">
+  <durability max="30" />
+  <require level="25" strength="91" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="59" max="67" />
+  <smite min="15" max="24" />
+  <block pal="48" ama="43" asn="43" bar="43" dru="38" nec="38" soc="38" />
+ </type>
+
+ <type name="Barbed Shield" category="Shield" level="exceptional" tc="42">
+  <durability max="40" />
+  <require level="25" strength="65" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="68" max="78" />
+  <smite min="18" max="35" />
+  <block pal="47" ama="42" asn="42" bar="42" dru="37" nec="37" soc="37" />
+ </type>
+
+ <type name="Pavise" category="Shield" level="exceptional" tc="51">
+  <durability max="60" />
+  <require level="25" strength="133" />
+  <sockets amount="3" />
+  <weight type="heavy" />
+  <defense min="68" max="78" />
+  <smite min="10" max="17" />
+  <block pal="54" ama="49" asn="49" bar="49" dru="44" nec="44" soc="44" />
+ </type>
+
+ <type name="Grim Shield" category="Shield" level="exceptional" tc="48">
+  <durability max="40" />
+  <require level="25" strength="58" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="50" max="151" />
+  <smite min="14" max="20" />
+  <block pal="50" ama="45" asn="45" bar="45" dru="40" nec="40" soc="40" />
+ </type>
+
+ <type name="Ancient Shield" category="Shield" level="exceptional" tc="57">
+  <durability max="40" />
+  <require level="25" strength="110" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="80" max="93" />
+  <smite min="12" max="16" />
+  <block pal="46" ama="41" asn="41" bar="41" dru="36" nec="36" soc="36" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Heater" category="Shield" level="elite" tc="60">
+  <durability max="88" />
+  <require level="43" strength="77" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="95" max="110" />
+  <smite min="16" max="30" />
+  <block pal="52" ama="47" asn="47" bar="47" dru="42" nec="42" soc="42" />
+ </type>
+
+ <type name="Luna" category="Shield" level="elite" tc="63">
+  <durability max="84" />
+  <require level="45" strength="100" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="108" max="123" />
+  <smite min="17" max="29" />
+  <block pal="50" ama="45" asn="45" bar="45" dru="40" nec="40" soc="40" />
+ </type>
+
+ <type name="Hyperion" category="Shield" level="elite" tc="66">
+  <durability max="82" />
+  <require level="48" strength="127" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="119" max="135" />
+  <smite min="14" max="32" />
+  <block pal="54" ama="49" asn="49" bar="49" dru="44" nec="44" soc="44" />
+ </type>
+
+ <type name="Monarch" category="Shield" level="elite" tc="72">
+  <durability max="86" />
+  <require level="54" strength="156" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="133" max="148" />
+  <smite min="12" max="34" />
+  <block pal="52" ama="47" asn="47" bar="47" dru="42" nec="42" soc="42" />
+ </type>
+
+ <type name="Blade Barrier" category="Shield" level="elite" tc="69">
+  <durability max="83" />
+  <require level="51" strength="118" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="147" max="163" />
+  <smite min="26" max="40" />
+  <block pal="50" ama="45" asn="45" bar="45" dru="40" nec="40" soc="40" />
+ </type>
+
+ <type name="Aegis" category="Shield" level="elite" tc="81">
+  <durability max="92" />
+  <require level="59" strength="219" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="145" max="161" />
+  <smite min="18" max="28" />
+  <block pal="54" ama="49" asn="49" bar="49" dru="44" nec="44" soc="44" />
+ </type>
+
+ <type name="Troll Nest" category="Shield" level="elite" tc="78">
+  <durability max="74" />
+  <require level="57" strength="106" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="158" max="173" />
+  <smite min="24" max="38" />
+  <block pal="50" ama="45" asn="45" bar="45" dru="40" nec="40" soc="40" />
+ </type>
+
+ <type name="Ward" category="Shield" level="elite" tc="84">
+  <durability max="100" />
+  <require level="63" strength="185" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="153" max="170" />
+  <smite min="11" max="35" />
+  <block pal="54" ama="49" asn="49" bar="49" dru="44" nec="44" soc="44" />
+ </type>
+</items>

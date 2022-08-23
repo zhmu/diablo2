@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Targe" category="Shield" level="normal" tc="6">
+  <durability max="20" />
+  <require level="3" strength="16" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="8" max="12" />
+  <smite min="2" max="6" />
+  <block pal="40" />
+ </type>
+
+ <type name="Rondache" category="Shield" level="normal" tc="9">
+  <durability max="30" />
+  <require level="6" strength="26" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="10" max="18" />
+  <smite min="2" max="8" />
+  <block pal="45" />
+ </type>
+
+ <type name="Heraldic Shield" category="Shield" level="normal" tc="18">
+  <durability max="40" />
+  <require level="12" strength="40" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="16" max="26" />
+  <smite min="3" max="9" />
+  <block pal="50" />
+ </type>
+
+ <type name="Aerin Shield" category="Shield" level="normal" tc="21">
+  <durability max="50" />
+  <require level="15" strength="50" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="26" max="36" />
+  <smite min="4" max="10" />
+  <block pal="52" />
+ </type>
+
+ <type name="Crown Shield" category="Shield" level="normal" tc="24">
+  <durability max="60" />
+  <require level="18" strength="65" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="30" max="40" />
+  <smite min="4" max="12" />
+  <block pal="55" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Akaran Targe" category="Shield" level="exceptional" tc="36">
+  <durability max="20" />
+  <require level="26" strength="44" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="101" max="125" />
+  <smite min="12" max="16" />
+  <block pal="40" />
+ </type>
+
+ <type name="Akaran Rondache" category="Shield" level="exceptional" tc="42">
+  <durability max="30" />
+  <require level="30" strength="59" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="113" max="137" />
+  <smite min="15" max="20" />
+  <block pal="45" />
+ </type>
+
+ <type name="Protector Shield" category="Shield" level="exceptional" tc="48">
+  <durability max="40" />
+  <require level="34" strength="69" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="129" max="153" />
+  <smite min="18" max="24" />
+  <block pal="50" />
+ </type>
+
+ <type name="Gilded Shield" category="Shield" level="exceptional" tc="51">
+  <durability max="50" />
+  <require level="38" strength="89" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="144" max="168" />
+  <smite min="20" max="28" />
+  <block pal="52" />
+ </type>
+
+ <type name="Royal Shield" category="Shield" level="exceptional" tc="57">
+  <durability max="60" />
+  <require level="41" strength="114" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="156" max="181" />
+  <smite min="24" max="32" />
+  <block pal="55" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Sacred Targe" category="Shield" level="elite" tc="63">
+  <durability max="45" />
+  <require level="47" strength="86" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="126" max="158" />
+  <smite min="22" max="70" />
+  <block pal="60" />
+ </type>
+
+ <type name="Sacred Rondache" category="Shield" level="elite" tc="72">
+  <durability max="68" />
+  <require level="52" strength="109" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="138" max="164" />
+  <smite min="35" max="58" />
+  <block pal="58" />
+ </type>
+
+ <type name="Kurast Shield" category="Shield" level="elite" tc="75">
+  <durability max="55" />
+  <require level="55" strength="124" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="154" max="172" />
+  <smite min="10" max="82" />
+  <block pal="55" />
+ </type>
+
+ <type name="Zakarum Shield" category="Shield" level="elite" tc="84">
+  <durability max="65" />
+  <require level="61" strength="142" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="169" max="193" />
+  <smite min="46" max="46" />
+  <block pal="52" />
+ </type>
+
+ <type name="Vortex Shield" category="Shield" level="elite" tc="90">
+  <durability max="90" />
+  <require level="66" strength="148" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="182" max="225" />
+  <smite min="5" max="87" />
+  <block pal="51" />
+ </type>
+</items>

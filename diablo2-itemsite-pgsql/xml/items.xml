@@ -1,0 +1,4026 @@
+<items>
+ <item name="Ginther's Rift" type="Dimensional Blade">
+  <require level="37" strength="85" dexterity="60" />
+  <property name="% Enhanced Damage" min="100" max="150" />
+  <property name="Magic Damage" min="50" max="120" />
+  <property name="Increased Attack Rate" val="30%" />
+  <property name="Magic Damage Reduced by" min="7" max="12" />
+  <property name="Repairs 1 durability every N seconds" val="5" />
+ </item>
+
+ <item name="Blackhorn's Face" type="Death Mask">
+  <require level="41" strength="55" />
+  <property name="% Enhanced Defense" min="180" max="220" />
+  <property name="Slows Target by" val="20%" />
+  <property name="Attacker Takes Lightning Damage of" val="25" />
+  <property name="Prevent Monster Heal" />
+  <property name="Lightning Absorb" val="+20" />
+  <property name="Lightning Resist" val="+15%" />
+ </item>
+
+ <item name="Dwarf Star" type="Ring">
+  <require level="45" />
+  <property name="Fire Absorb" val="15%" />
+  <property name="Heal Stamina Plus" val="15%" />
+  <property name="Maximum Stamina" val="+40" />
+  <property name="Life" val="+40" />
+  <property name="Extra Gold from Monsters" val="100%" />
+  <property name="Magic Damage Reduced by" min="12" max="15" />
+ </item>
+
+ <item name="Langer Briser" type="Arbalest">
+  <require level="32" strength="52" dexterity="61" />
+  <property name="% Enhanced Damage" min="170" max="200" />
+  <property name="Maximum Damage" min="10" max="30" />
+  <property name="Chance of Open Wounds" val="33%" />
+  <property name="Lightning Damage" min="1" max="212" />
+  <property name="Life" val="+30" />
+  <property name="Knockback" />
+  <property name="% Better Chance of Getting Magic Items" min="30" max="60" />
+ </item>
+
+ <item name="Skewer of Krinitz" type="Sabre">
+  <require level="10" strength="25" dexterity="25" />
+  <property name="Enhanced Damage" val="+50%" />
+  <property name="Damage" min="3" max="7" />
+  <property name="Ignore Target's Defense" />
+  <property name="Mana Stolen per Hit" val="7%" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Soulfeast Tine" type="War Fork">
+  <require level="35" strength="64" dexterity="76" />
+  <property name="% Enhanced Damage" min="150" max="190" />
+  <property name="Requirements" val="-20%" />
+  <property name="Life Stolen per Hit" val="7%" />
+  <property name="Mana Stolen per Hit" val="7%" />
+  <property name="Stamina Drain" val="20%" />
+ </item>
+
+ <item name="Stormstrike" type="Short Battle Bow">
+  <require level="25" strength="30" dexterity="40" />
+  <property name="% Enhanced Damage" min="70" max="90" />
+  <property name="Lightning Damage" min="1" max="30" />
+  <property name="Piercing Attack" />
+  <property name="Attack Rating" val="+28" />
+  <property name="Lightning Resist" val="+25%" />
+  <property name="Strength" val="+8" />
+ </item>
+
+ <item name="Rattlecage" type="Gothic Plate">
+  <require level="29" strength="70" />
+  <property name="Defense" val="+200" />
+  <property name="Chance of Crushing Blow" val="25%" />
+  <property name="Hit Causes Monster to Flee" val="40%" />
+  <property name="Attack Rating" val="+45" />
+ </item>
+
+ <item name="Boneflesh" type="Plate Mail">
+  <require level="26" strength="65" />
+  <property name="% Enhanced Defense" min="100" max="120" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Chance of Open Wounds" val="25%" />
+  <property name="Attack Rating" val="+35" />
+ </item>
+
+ <item name="Azurewrath" type="Crystal Sword">
+  <require level="13" strength="43" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Magic Damage" min="5" max="10" />
+  <property name="Cold Damage" min="3" max="6" />
+  <property name="Cold Duration" val="4" />
+  <property name="Deadly Strike" val="50%" />
+  <property name="Better Chance of Getting Magic Items" val="10%" />
+ </item>
+
+ <item name="Manald Heal" type="Ring">
+  <require level="15" />
+  <property name="% Mana Stolen per Hit" min="4" max="7" />
+  <property name="Replenish Life" min="5" max="8" />
+  <property name="Regenerate Mana" val="20%" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Ironstone" type="War Hammer">
+  <require level="27" strength="53" />
+  <property name="% Enhanced Damage" min="100" max="150" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="1" max="10" />
+  <property name="Attack Rating" min="100" max="150" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Bloodrise" type="Morning Star">
+  <require level="15" strength="36" />
+  <property name="Enhanced Damage" val="+120%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Open Wounds" val="25%" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Bonus to Attack Rating" val="50%" />
+  <property name="Sacrifice (Paladin only)" val="+3" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Hawkmail" type="Scale Mail">
+  <require level="15" strength="44" />
+  <property name="% Enhanced Defense" min="80" max="100" />
+  <property name="Faster Run/Walk" val="10%" />
+  <property name="Max Cold Resist" val="15%" />
+  <property name="Cold Resist" val="+15%" />
+  <property name="Cannot Be Frozen" />
+ </item>
+
+ <item name="Leadcrow" type="Light Crossbow">
+  <require level="9" strength="21" dexterity="27" />
+  <property name="Enhanced Damage" val="+70%" />
+  <property name="Deadly Strike" val="25%" />
+  <property name="Attack Rating" val="+40" />
+  <property name="Poison Resist" val="+30%" />
+  <property name="Life" val="+10" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Hellplague" type="Long Sword">
+  <require level="22" strength="55" dexterity="39" />
+  <property name="% Enhanced Damage" min="70" max="80" />
+  <property name="Fire Skills" val="+2" />
+  <property name="Fire Damage" min="25" max="75" />
+  <property name="Poison Damage over 6 Seconds" min="28" max="56" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Mana Stolen per Hit" val="5%" />
+ </item>
+
+ <item name="Kinemil's Awl" type="Giant Sword">
+  <require level="23" strength="56" dexterity="34" />
+  <property name="% Enhanced Damage" min="80" max="100" />
+  <property name="Attack Rating" min="100" max="150" />
+  <property name="Fire Damage" min="6" max="20-40" />
+  <property name="Mana" val="+20" />
+  <property name="Holy Fire (Paladin only)" val="+6" />
+ </item>
+
+ <item name="Dark Clan Crusher" type="Cudgel">
+  <require level="34" strength="25" />
+  <property name="Enhanced Damage" val="+195%" />
+  <property name="Damage to Demons" val="+200%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Attack Rating against Demons" val="+200" />
+  <property name="% Bonus to Attack Rating" min="20" max="25" />
+  <property name="Life after each Demon Kill" val="+15" />
+  <property name="Druid Skill Levels" val="+2" />
+ </item>
+
+ <item name="Bverrit Keep" type="Tower Shield">
+  <require level="19" strength="75" />
+  <property name="% Defense" min="80" max="120" />
+  <property name="Defense" val="+30" />
+  <property name="Increased Chance of Blocking" val="10%" />
+  <property name="Fire Resist" val="+75%" />
+  <property name="Strength" val="+5" />
+  <property name="Magic Damage Reduced by" val="5" />
+ </item>
+
+ <item name="Wall of the Eyeless" type="Bone Shield">
+  <require level="20" strength="25" />
+  <property name="% Enhanced Defense" min="30" max="40" />
+  <property name="Defense" val="+10" />
+  <property name="Mana after each Kill" val="+5" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Mana Stolen per Hit" val="3%" />
+  <property name="Poison Resist" val="+20%" />
+ </item>
+
+ <item name="The Jade Tan Do" type="Kris">
+  <require level="19" dexterity="45" />
+  <property name="Attack Rating" min="100" max="150" />
+  <property name="Poison Damage over 4 Seconds" val="+180" />
+  <property name="Poison Resist" val="+95%" />
+  <property name="Maximum Poison Resist" val="+20%" />
+  <property name="Cannot Be Frozen" />
+ </item>
+
+ <item name="The Meat Scraper" type="Lochaber Axe">
+  <require level="41" strength="80" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Chance of Open Wounds" val="50%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Life Stolen per Hit" val="10%" />
+  <property name="Better Chance of Getting Magic Items" val="25%" />
+  <property name="Masteries (Barbarian only)" val="+3" />
+ </item>
+
+ <item name="The Patriarch" type="Great Sword">
+  <require level="29" strength="100" dexterity="60" />
+  <property name="% Enhanced Damage" min="100" max="120" />
+  <property name="Hit Blinds Target" />
+  <property name="Extra Gold from Monsters" val="100%" />
+  <property name="Magic Damage Reduced by" val="3" />
+  <property name="Damage Reduced by" val="3" />
+ </item>
+
+ <item name="Coldkill" type="Hatchet">
+  <require level="36" strength="25" dexterity="25" />
+  <property name="% Enhanced Damage" min="150" max="190" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Chance to Cast Level 10 Ice Blast on Attack" val="10%" />
+  <property name="Chance to Cast Level 5 Frost Nova When Struck" val="10%" />
+  <property name="Cold Damage" val="40" />
+  <property name="Cold Duration" val="2" />
+  <property name="Maximum Cold Resist" val="15%" />
+  <property name="Cold Resist" val="+15%" />
+ </item>
+
+ <item name="Nagelring" type="Ring">
+  <require level="15" />
+  <property name="Magic Damage Reduced by" val="3" />
+  <property name="Attack Rating" min="50" max="75" />
+  <property name="Attacker Takes Damage of" val="3" />
+  <property name="% Better Chance of Getting Magic Items" min="15" max="30" />
+ </item>
+
+ <item name="Crescent Moon" type="Amulet">
+  <require level="60" />
+  <property name="Damage Taken Goes to Mana" val="10%" />
+  <property name="Mana" val="+45" />
+  <property name="% Life Stolen per Hit" min="3" max="6" />
+  <property name="% Mana Stolen per Hit" min="11" max="15" />
+  <property name="Magic Damage Reduced by" val="10" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Stone of Jordan" type="Ring">
+  <require level="29" />
+  <property name="All Skill Levels" val="1" />
+  <property name="Increase Maximum Mana" val="25%" />
+  <property name="Lightning Damage" min="1" max="12" />
+  <property name="Mana" val="+20" />
+ </item>
+
+ <item name="Atma's Scarab" type="Amulet">
+  <require level="60" />
+  <property name="Chance to Cast Level 2 Amplify Damage on Attack" val="5%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="Poison Damage over 4 Seconds" min="29" max="39" />
+  <property name="Poison Resist" val="+75%" />
+  <property name="Light Radius" val="+3" />
+  <property name="Attacker Takes Damage of" val="5" />
+ </item>
+
+ <item name="Raven Frost" type="Ring">
+  <require level="45" />
+  <property name="Attack Rating" min="150" max="250" />
+  <property name="Cold Damage" min="15" max="45" />
+  <property name="Cannot Be Frozen" />
+  <property name="Dexterity" min="15" max="20" />
+  <property name="Mana" val="+40" />
+  <property name="Cold Absorb" val="20%" />
+ </item>
+
+ <item name="Bul-Kathos' Wedding Band" type="Ring">
+  <require level="58" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Life" level_multiplier="0.5" />
+  <property name="% Life Stolen per Hit" min="3" max="5" />
+  <property name="Maximum Stamina" val="+50" />
+ </item>
+
+ <item name="Constricting Ring" type="Ring">
+  <require level="95" />
+  <property name="All Resistances" val="+100" />
+  <property name="Replenish Life" val="-30" />
+  <property name="Better Chance to Find Magic Items" val="100%" />
+  <property name="Maximum Resistances" val="+15" />
+ </item>
+
+ <item name="Nokozan Relic" type="Amulet">
+  <require level="10" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Maximum Fire Resist" val="+10" />
+  <property name="Fire Damage" min="3" max="6" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="The Eye of Etlich" type="Amulet">
+  <require level="15" />
+  <property name="Light Radius" min="1" max="5" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="% Life Stolen per Hit" min="3" max="7" />
+  <property name="Cold Damage" min="1-2" max="3-5" />
+  <property name="Seconds" min="2" max="12" />
+  <property name="Defense vs. Missile" min="10" max="40" />
+ </item>
+
+ <item name="The Mahim-Oak Curio" type="Amulet">
+  <require level="25" />
+  <property name="Defense" val="+10" />
+  <property name="Enhanced Defense" val="+10%" />
+  <property name="Bonus to Attack Rating" val="+10%" />
+  <property name="All Resistances" val="+10" />
+  <property name="Vitality" val="+10" />
+  <property name="Energy" val="+10" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Saracen's Chance" type="Amulet">
+  <require level="47" />
+  <property name="Chance to Cast Level 2 Iron Maiden When Struck" val="10%" />
+  <property name="All Resistances" min="15" max="25" />
+  <property name="Dexterity" val="+12" />
+  <property name="Energy" val="+12" />
+  <property name="Vitality" val="+12" />
+  <property name="Strength" val="+12" />
+ </item>
+
+ <item name="The Cat's Eye" type="Amulet">
+  <require level="50" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Defense vs. Missiles" val="+100" />
+  <property name="Defense" val="+100" />
+  <property name="Dexterity" val="+25" />
+ </item>
+
+ <item name="Soul Harvest" type="Scythe">
+  <require level="19" strength="41" dexterity="41" />
+  <property name="Enhanced Damage" val="+88%" />
+  <property name="Attack Rating" val="+45" />
+  <property name="Mana Stolen per Hit" val="10%" />
+  <property name="Chance of Open Wounds" val="30%" />
+  <property name="Energy" val="+5" />
+  <property name="All Resistances" val="+20" />
+ </item>
+
+ <item name="Venom Ward" type="Breast Plate">
+  <require level="20" strength="30" />
+  <property name="Enhanced Defense" val="+61%" />
+  <property name="Maximum Poison Resist" val="+15%" />
+  <property name="Poison Resist" val="+90%" />
+  <property name="Poison Length Reduced by" val="50%" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Goblin Toe" type="Light Plated Boots">
+  <require level="22" strength="50" />
+  <property name="Chance of Crushing Blow" val="25%" />
+  <property name="Enhanced Defense" val="+53%" />
+  <property name="Defense" val="+15" />
+  <property name="Damage Reduced by" val="1" />
+  <property name="Magic Damage Reduced by" val="1" />
+  <property name="Light Radius" val="-1" />
+ </item>
+
+ <item name="Rakescar" type="War Axe">
+  <require level="27" strength="67" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Enhanced Damage" val="+94%" />
+  <property name="Attack Rating" val="+50" />
+  <property name="Poison Damage over 3 Seconds" val="+38" />
+  <property name="Poison Resist" val="+50%" />
+ </item>
+
+ <item name="Wizendraw" type="Long Battle Bow">
+  <require level="26" strength="40" dexterity="50" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Fires Magic Arrows" />
+  <property name="Enhanced Damage" val="+80%" />
+  <property name="Attack Rating" val="+61" />
+  <property name="Energy" val="+15" />
+  <property name="Mana" val="+30" />
+  <property name="Cold Resist" val="+26%" />
+ </item>
+
+ <item name="Rusthandle" type="Grand Scepter">
+  <require level="18" strength="37" />
+  <property name="Paladin Skill Levels" val="+1" />
+  <property name="Enhanced Damage" val="+58%" />
+  <property name="Damage" min="3" max="7" />
+  <property name="Damage to Undead" val="+110%" />
+  <property name="Life Stolen per Hit" val="8%" />
+  <property name="Magic Damage Reduced by" val="1" />
+  <property name="Thorns (Paladin Only)" val="+3" />
+  <property name="Vengeance (Paladin Only)" val="+3" />
+ </item>
+
+ <item name="Goldskin" type="Full Plate Mail">
+  <require level="28" strength="80" />
+  <property name="Enhanced Defense" val="+120%" />
+  <property name="All Resistances" val="+35%" />
+  <property name="Attacker Takes Damage of" val="10" />
+  <property name="Extra Gold from Monsters" val="100%" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Torch of Iro" type="Wand">
+  <require level="5" />
+  <property name="Necromancer Skill Levels" val="+1" />
+  <property name="Fire Damage" min="5" max="9" />
+  <property name="Life Stolen per Hit" val="6%" />
+  <property name="Energy" val="+10" />
+  <property name="Regenerate Mana" val="5%" />
+  <property name="Light Radius" val="+3" />
+  <property name="Damage to Undead" val="150%" />
+ </item>
+
+ <item name="Thundergod's Vigor" type="War Belt">
+  <require level="47" strength="110" />
+  <property name="Chance to Cast Level 7 Fist of the Heavens When Struck" val="5%" />
+  <property name="Lightning Damage" min="1" max="50" />
+  <property name="Enhanced Defense" val="+191%" />
+  <property name="Strength" val="+20" />
+  <property name="Vitality" val="+20" />
+  <property name="Maximum Lightning Resist" val="+10%" />
+  <property name="Lightning Absorb" val="+20" />
+  <property name="Lightning Fury (Amazon only)" val="+3" />
+  <property name="Lightning Strike (Amazon Only)" val="+3" />
+ </item>
+
+ <item name="Sparking Mail" type="Chain Mail">
+  <require level="17" strength="48" />
+  <property name="Lightning Damage" min="1" max="20" />
+  <property name="Enhanced Damage" val="+79%" />
+  <property name="Lightning Resist" val="+30%" />
+  <property name="Attacker Takes Lightning Damage of" val="14" />
+ </item>
+
+ <item name="Visceratuant" type="Defender">
+  <require level="28" strength="38" />
+  <property name="Sorceress Skill Levels" val="+1" />
+  <property name="Faster Block Rate" val="30%" />
+  <property name="Increased Chance of Blocking" val="30%" />
+  <property name="Enhanced Damage" val="+145%" />
+  <property name="Attacker Takes Lightning Damage of" val="10" />
+ </item>
+
+ <item name="The Hand of Broc" type="Leather Gloves">
+  <require level="6" />
+  <property name="Mana Stolen per Hit" val="3%" />
+  <property name="Life Stolen per Hit" val="3%" />
+  <property name="Enhanced Defense" val="+18%" />
+  <property name="Defense" val="+10" />
+  <property name="Mana" val="+20" />
+  <property name="Poison Resist" val="+10%" />
+ </item>
+
+ <item name="Deathspade" type="Axe">
+  <require level="9" strength="32" />
+  <property name="Enhanced Damage" val="+70%" />
+  <property name="Minimum Damage" val="+8" />
+  <property name="Bonus to Attack Rating" val="15%" />
+  <property name="Hit Blinds Target" />
+  <property name="Mana After Each Kill" val="+4" />
+ </item>
+
+ <item name="Pelta Lunata" type="Buckler">
+  <require level="2" strength="12" />
+  <property name="Faster Block Rate" val="40%" />
+  <property name="Increased Chance of Blocking" val="20%" />
+  <property name="Enhanced Defense" val="+30%" />
+  <property name="Defense" val="+30" />
+  <property name="Strength" val="+2" />
+  <property name="Vitality" val="+10" />
+  <property name="Energy" val="+10" />
+ </item>
+
+ <item name="Razortine" type="Trident">
+  <require level="12" strength="38" dexterity="24" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Enhanced Damage" val="+35%" />
+  <property name="Target Defense" val="50%" />
+  <property name="Slows Target by" val="25%" />
+  <property name="Strength" val="+15" />
+  <property name="Dexterity" val="+8" />
+ </item>
+
+ <item name="Tearhaunch" type="Greaves">
+  <require level="29" strength="70" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Enhanced Defense" val="+80%" />
+  <property name="Defense" val="+35%" />
+  <property name="Strength" val="+5" />
+  <property name="Dexterity" val="+5" />
+  <property name="All Resistances" val="+10%" />
+  <property name="Vigor (Paladin only)" val="+2" />
+ </item>
+
+ <item name="The Grim Reaper" type="War Scythe">
+  <require level="29" strength="80" dexterity="80" />
+  <property name="Enhanced Damage" val="+20%" />
+  <property name="Minimum Damage" val="+15" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Deadly Strike" val="100%" />
+  <property name="Prevent Monster Heal" />
+ </item>
+
+ <item name="Snakecord" type="Light Belt">
+  <require level="12" />
+  <property name="Poison Damage over 3 Seconds" val="+12" />
+  <property name="Enhanced Defense" val="+21%" />
+  <property name="Defense" val="+10" />
+  <property name="Replenish Life" val="+5" />
+  <property name="Poison Resist" val="+25%" />
+  <property name="Poison Length Reduced by" val="50%" />
+ </item>
+
+ <item name="Woestave" type="Halberd">
+  <require level="28" strength="75" dexterity="47" />
+  <property name="Enhanced Damage" val="+20%" />
+  <property name="Chance of Open Wounds" val="50%" />
+  <property name="Prevent Monster Heal" />
+  <property name="Hit Blinds Target" val="+3" />
+  <property name="Freezes Target" />
+  <property name="Slows Target by" val="50%" />
+  <property name="Monster Defense per Hit" val="-50" />
+  <property name="Light Radius" val="-3" />
+ </item>
+
+ <item name="Endlesshail" type="Double Bow">
+  <require level="36" strength="58" dexterity="73" />
+  <property name="Enhanced Damage" val="+182%" />
+  <property name="Cold Damage" min="15" max="30" />
+  <property name="Defense vs. Missile" val="+50" />
+  <property name="Mana" val="+40" />
+  <property name="Cold Resist" val="+35%" />
+  <property name="Strafe (Amazon only)" val="+5" />
+ </item>
+
+ <item name="Bladebone" type="Double Axe">
+  <require level="15" strength="43" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Enhanced Damage" val="+45%" />
+  <property name="Damage to Undead" val="+100%" />
+  <property name="Attack Rating against Demons" val="+40" />
+  <property name="Fire Damage" min="8" max="12" />
+  <property name="Defense" val="+20" />
+ </item>
+
+ <item name="Blastbark" type="Long War Bow">
+  <require level="28" strength="50" dexterity="65" />
+  <property name="Amazon Skill Levels" val="+1" />
+  <property name="Enhanced Damage" val="+87%" />
+  <property name="Mana Stolen per Hit" val="3%" />
+  <property name="Strength" val="+5" />
+  <property name="Exploding Arrow (Amazon only)" val="+2" />
+ </item>
+
+ <item name="Warlord's Trust" type="Military Axe">
+  <require level="35" strength="73" />
+  <property name="Enhanced Damage" val="+175%" />
+  <property name="Defense" val="+75" />
+  <property name="Vitality" level_multiplier="0.5" />
+  <property name="Replenish Life" val="+20" />
+  <property name="All Resistances" val="+10" />
+  <property name="Repairs 1 durability every N seconds" val="4" />
+ </item>
+
+ <item name="Hotspur" type="Boots">
+  <require level="6" />
+  <property name="Fire Damage" min="3" max="6" />
+  <property name="Enhanced Defense" val="+16%" />
+  <property name="Defense" val="+6" />
+  <property name="Life" val="+15" />
+  <property name="Maximum Fire Resist" val="+15%" />
+  <property name="Fire Resist" val="+45%" />
+ </item>
+
+ <item name="Bladebuckle" type="Plated Belt">
+  <require level="29" strength="60" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Enhanced Defense" val="+92%" />
+  <property name="Defense" val="+30" />
+  <property name="Strength" val="+5" />
+  <property name="Dexterity" val="+10" />
+  <property name="Damage Reduced by" val="3" />
+  <property name="Attacker Takes Damage of" val="8" />
+ </item>
+
+ <item name="Bing Sz Wang" type="Dacian Falx">
+  <require level="43" strength="64" />
+  <property name="Chance to Cast Level 3 Frozen Orb on Attack" val="5%" />
+  <property name="Enhanced Damage" val="+147%" />
+  <property name="Cold Damage" min="50" max="140" />
+  <property name="Freezes Target" val="+2" />
+  <property name="Strength" val="+20" />
+  <property name="Requirements" val="-30%" />
+ </item>
+
+ <item name="Butcher's Pupil" type="Cleaver">
+  <require level="39" strength="68" />
+  <property name="Indestructible" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Enhanced Damage" val="+193%" />
+  <property name="Damage" min="30" max="50" />
+  <property name="Deadly Strike" val="35%" />
+  <property name="Chance of Open Wounds" val="25%" />
+ </item>
+
+ <item name="Raven Claw" type="Long Bow">
+  <require level="15" strength="22" dexterity="19" />
+  <property name="Fires Explosive Arrows or Bolts" />
+  <property name="Enhanced Damage" val="+69%" />
+  <property name="Bonus to Attack Rating" val="50%" />
+  <property name="Strength" val="+3" />
+  <property name="Dexterity" val="+3" />
+ </item>
+
+ <item name="The Iron Jang Bong" type="War Staff">
+  <require level="28" />
+  <property name="Sorceress Skill Levels" val="+2" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Bonus to Attack Rating" val="50%" />
+  <property name="Defense" val="+30" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Frost Nova (Sorceress only)" val="+3" />
+  <property name="Blaze (Sorceress only)" val="+2" />
+  <property name="Nova (Sorceress only)" val="+2" />
+ </item>
+
+ <item name="Wormskull" type="Bone Helm">
+  <require level="21" />
+  <property name="Necromancer Skill Levels" val="+1" />
+  <property name="Poison Damage over 8 Seconds" val="+80" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Mana" val="+10" />
+  <property name="Poison Resist" val="+25%" />
+ </item>
+
+ <item name="Lycander's Flank" type="Ceremonial Pike">
+  <require level="42" strength="115" dexterity="98" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="25" max="50" />
+  <property name="Amazon Skill Levels" val="+2" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="% Life Stolen per Hit" min="5" max="9" />
+  <property name="Strength" val="+20" />
+  <property name="Vitality" val="+20" />
+  <property name="Enhanced Defense" val="+20%" />
+  <property name="Javelin and Spear Skills (Amazon only)" val="+2" />
+ </item>
+
+ <item name="Arreat's Face" type="Slayer Guard">
+  <require level="42" strength="118" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="Barbarian Skill Levels" val="+2" />
+  <property name="% Life Stolen per Hit" min="3" max="6" />
+  <property name="All Resistances" val="+30" />
+  <property name="Strength" val="+20" />
+  <property name="Dexterity" val="+20" />
+  <property name="Combat Skills (Barbarian only)" val="+2" />
+ </item>
+
+ <item name="Homunculus" type="Hierophant Trophy">
+  <require level="42" strength="58" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Damage Taken Goes to Mana" val="25%" />
+  <property name="Increased Chance of Blocking" val="40%" />
+  <property name="Faster Block Rate" val="30%" />
+  <property name="Necromancer Skill Levels" val="+2" />
+  <property name="Energy" val="+20" />
+  <property name="Regenerate Mana" val="33%" />
+  <property name="All Resistances" val="+40" />
+  <property name="Curses Skills (Necromancer only)" val="+2" />
+ </item>
+
+ <item name="The Oculus" type="Swirling Crystal">
+  <require level="42" />
+  <property name="Sorceress Skill Levels" val="+3" />
+  <property name="Mana after each Kill" val="+5" />
+  <property name="All Resistances" val="+20" />
+  <property name="Chance to Cast Level 1 Teleport when Struck" val="25%" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="Vitality" val="+20" />
+  <property name="Energy" val="+20" />
+  <property name="Enhanced Defense" val="+20%" />
+  <property name="Better Chance of Getting Magic Items" val="50%" />
+ </item>
+
+ <item name="Bartuc's Cut-Throat" type="Greater Talons">
+  <require level="42" strength="79" dexterity="79" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="25" max="50" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="% Life Stolen per Hit" min="5" max="9" />
+  <property name="Strength" val="+20" />
+  <property name="Dexterity" val="+20" />
+  <property name="Assassin Skill Levels" val="+2" />
+  <property name="Martial Arts Skills (Assassin only)" val="+1" />
+ </item>
+
+ <item name="Herald Of Zakarum" type="Gilded Shield">
+  <require level="40" strength="104" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Increased Chance of Blocking" val="30%" />
+  <property name="Faster Block Rate" val="30%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="Strength" val="+20" />
+  <property name="Vitality" val="+20" />
+  <property name="All Resistances" val="+50" />
+  <property name="Paladin Skill Levels" val="+2" />
+  <property name="Combat Skills (Paladin only)" val="+2" />
+ </item>
+
+ <item name="Lycander's Aim" type="Ceremonial Bow">
+  <require level="43" strength="95" dexterity="118" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="25" max="50" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Amazon Skill Levels" val="+2" />
+  <property name="% Mana Stolen per Hit" min="5" max="8" />
+  <property name="Energy" val="+20" />
+  <property name="Dexterity" val="+20" />
+  <property name="Enhanced Defense" val="+20%" />
+  <property name="Bow And Crossbow Skills (Amazon only)" val="+2" />
+ </item>
+
+ <item name="Ialal's Mane" type="Totemic Mask">
+  <require level="42" strength="65" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="Druid Skills" val="+2" />
+  <property name="All Resistances" val="+30" />
+  <property name="Mana after each Kill" val="+5" />
+  <property name="Strength" val="+20" />
+  <property name="Shape Shifting Skills (Druid only)" val="+2" />
+ </item>
+
+ <item name="Titan's Revenge" type="Ceremonial Javelin">
+  <require level="42" strength="25" dexterity="109" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="25" max="50" />
+  <property name="Amazon Skill Levels" val="+2" />
+  <property name="% Life Stolen per Hit" min="5" max="9" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Strength" val="+20" />
+  <property name="Dexterity" val="+20" />
+  <property name="Replenishes Quantity" val="30" />
+  <property name="Increased Stack Size" val="60" />
+  <property name="Javelin and Spear Skills (Amazon only)" val="+2" />
+ </item>
+
+ <item name="Biggin's Bonnet" type="Cap">
+  <require level="3" />
+  <property name="Enhanced Damage" val="+30%" />
+  <property name="Defense" val="+14" />
+  <property name="Attack Rating" val="+30" />
+  <property name="Mana" val="+15" />
+  <property name="Life" val="+15" />
+ </item>
+
+ <item name="Tarnhelm" type="Skull Cap">
+  <require level="15" strength="15" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="% Better Chance of Getting Magic Items" min="25" max="50" />
+  <property name="Extra Gold from Monsters" val="75%" />
+ </item>
+
+ <item name="Coif of Glory" type="Helm">
+  <require level="14" strength="26" />
+  <property name="Defense" val="+10" />
+  <property name="Attacker Takes Lightning Damage of" val="7" />
+  <property name="Hit Blinds Target" />
+  <property name="Lightning Resist" val="+15%" />
+  <property name="Defense vs. Missiles" val="+100" />
+ </item>
+
+ <item name="Duskdeep" type="Full Helm">
+  <require level="17" strength="41" />
+  <property name="% Enhanced Defense" min="30" max="50" />
+  <property name="Defense" min="10" max="20" />
+  <property name="Damage Reduced by" val="7" />
+  <property name="All Resistances" val="+15" />
+  <property name="Maximum Damage" val="+8" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Howltusk" type="Great Helm">
+  <require level="25" strength="63" />
+  <property name="Damage taken Goes to Mana" val="35%" />
+  <property name="Enhanced Defense" val="+80%" />
+  <property name="Magic Damage Reduced by" val="2" />
+  <property name="Attacker Takes Damage of" val="3" />
+  <property name="Knockback" />
+  <property name="Hit Causes Monster to Flee" val="25%" />
+ </item>
+
+ <item name="The Face of Horror" type="Mask">
+  <require level="20" strength="23" />
+  <property name="Defense" val="+25" />
+  <property name="Damage to Undead" val="+50%" />
+  <property name="Hit Causes Monsters to Flee" val="50%" />
+  <property name="All Resistances" val="+10" />
+  <property name="Strength" val="+20" />
+ </item>
+
+ <item name="Undead Crown" type="Crown">
+  <require level="29" strength="55" />
+  <property name="% Enhanced Defense" min="30" max="60" />
+  <property name="Damage vs. Undead" val="+50%" />
+  <property name="Attack Rating vs. Undead" min="50" max="100" />
+  <property name="Half Freeze Duration" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Poison Resist" val="+50%" />
+  <property name="Defense" val="+40" />
+  <property name="Skeleton Mastery (Necromancer only)" val="+3" />
+ </item>
+
+ <item name="Greyform" type="Quilted Armor">
+  <require level="7" strength="12" />
+  <property name="Defense" val="+20" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Magic Damage Reduced by" val="3" />
+  <property name="Cold Resist" val="+20%" />
+  <property name="Fire Resist" val="+20%" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Blinkbat's Form" type="Leather Armor">
+  <require level="12" strength="15" />
+  <property name="Defense" val="+25" />
+  <property name="Defense vs. Missile" val="+50" />
+  <property name="Faster Run/Walk" val="10%" />
+  <property name="Faster Hit Recovery" val="40%" />
+  <property name="Fire Damage" min="3" max="6" />
+ </item>
+
+ <item name="The Centurion" type="Hard Leather Armor">
+  <require level="14" strength="20" />
+  <property name="Defense" val="+30" />
+  <property name="Replenish Life" val="+5" />
+  <property name="Attack Rating" val="+50" />
+  <property name="Mana" val="+15" />
+  <property name="Max Stamina" val="+15" />
+  <property name="Life" val="+15" />
+  <property name="Slower Stamina Drain" val="25%" />
+  <property name="Damage Reduced by" val="2" />
+ </item>
+
+ <item name="Twitchthroe" type="Studded Leather">
+  <require level="16" strength="27" />
+  <property name="Defense" val="+25" />
+  <property name="Increased chance of blocking" val="25%" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Darkglow" type="Ring Mail">
+  <require level="14" strength="36" />
+  <property name="% Enhanced Defense" min="70" max="100" />
+  <property name="Max Poison Resist" val="5%" />
+  <property name="Max Cold Resist" val="5%" />
+  <property name="Max Lightning Resist" val="5%" />
+  <property name="Max Fire Resist" val="5%" />
+  <property name="Defense vs. Melee" val="+50" />
+  <property name="Attack Rating" val="+20" />
+  <property name="All Resistances" val="+10" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="Iceblink" type="Splint Mail">
+  <require level="22" strength="51" />
+  <property name="% Enhanced Defense" min="70" max="80" />
+  <property name="Freezes Target" />
+  <property name="Cold Resist" val="+30%" />
+  <property name="Magic Damage Reduced by" val="1" />
+  <property name="Light Radius" val="+4" />
+ </item>
+
+ <item name="Heavenly Garb" type="Light Plate">
+  <require level="29" strength="41" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="Regenerate Mana" val="25%" />
+  <property name="All Resistances" val="+10" />
+  <property name="Energy" val="+15" />
+  <property name="Damage to Undead" val="+50%" />
+  <property name="Attack Rating against Undead" val="+100" />
+ </item>
+
+ <item name="Rockfleece" type="Field Plate">
+  <require level="28" strength="50" />
+  <property name="% Enhanced Defense" min="100" max="130" />
+  <property name="Requirements" val="-10%" />
+  <property name="Damage Reduced by" val="10%" />
+  <property name="Strength" val="+5" />
+  <property name="Damage Reduced by" val="5" />
+ </item>
+
+ <item name="Silks of the Victor" type="Ancient Armor">
+  <require level="28" strength="100" />
+  <property name="% Enhanced Defense" min="100" max="120" />
+  <property name="All Skills" val="+1" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Umbral Disk" type="Small Shield">
+  <require level="9" strength="22" />
+  <property name="% Enhanced Defense" min="40" max="50" />
+  <property name="Defense" val="+30" />
+  <property name="Increased Chance of Blocking" val="30%" />
+  <property name="Hit Blinds Target" />
+  <property name="Life" val="+20" />
+  <property name="Dexterity" val="+10" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Stormguild" type="Large Shield">
+  <require level="13" strength="34" />
+  <property name="% Enhanced Defense" min="50" max="60" />
+  <property name="Defense" val="+30" />
+  <property name="Increased Chance of Blocking" val="+30%" />
+  <property name="Lightning Resist" val="+25%" />
+  <property name="Lightning Damage" min="1" max="6" />
+  <property name="Attacker Takes Lightning Damage of" val="3" />
+  <property name="Magic Damage Reduced by" val="1" />
+ </item>
+
+ <item name="Steelclash" type="Kite Shield">
+  <require level="17" strength="47" />
+  <property name="% Enhanced Defense" min="60" max="100" />
+  <property name="Defense" val="+20" />
+  <property name="Increased Chance of Blocking" val="25%" />
+  <property name="Faster Block Rate" val="20%" />
+  <property name="All Resistances" val="+15" />
+  <property name="Paladin Skills" val="+1" />
+  <property name="Light Radius" val="+3" />
+  <property name="Damage Reduced by" val="3" />
+ </item>
+
+ <item name="Swordback Hold" type="Spiked Shield">
+  <require level="15" strength="30" />
+  <property name="% Enhance Defense" min="30" max="60" />
+  <property name="Defense" val="+10" />
+  <property name="Increased Chance of Blocking" val="20%" />
+  <property name="Chance of Open Wounds" val="50%" />
+  <property name="Attacker Takes Damage of" val="10" />
+ </item>
+
+ <item name="The Ward" type="Gothic Shield">
+  <require level="26" strength="60" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="Defense" val="+40" />
+  <property name="Increased Chance of Blocking" val="10%" />
+  <property name="All Resistances" min="30" max="50" />
+  <property name="Magic Damage Reduced by" val="2" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Bloodfist" type="Heavy Gloves">
+  <require level="9" />
+  <property name="% Enhanced Defense" min="10" max="20" />
+  <property name="Defense" val="+10" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Life" val="+40" />
+  <property name="Minimum Damage" val="+5" />
+ </item>
+
+ <item name="Chance Guard" type="Chain Gloves">
+  <require level="15" strength="25" />
+  <property name="% Enhanced Defense" min="20" max="30" />
+  <property name="Defense" val="+15" />
+  <property name="Attack Rating" val="+25" />
+  <property name="% Better Chance of Getting Magic Items" min="25" max="40" />
+  <property name="Extra Gold from Monsters" val="200%" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Magefist" type="Light Gauntlets">
+  <require level="23" strength="45" />
+  <property name="% Enhanced Defense" min="20" max="30" />
+  <property name="Defense" val="+10" />
+  <property name="Fire Skills" val="+1" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Regenerate Mana" val="25%" />
+  <property name="Fire Damage" min="1" max="6" />
+ </item>
+
+ <item name="Frostburn" type="Gauntlets">
+  <require level="29" strength="60" />
+  <property name="% Enhanced Defense" min="10" max="20" />
+  <property name="Defense" val="+30" />
+  <property name="Enhanced Damage" val="+5%" />
+  <property name="Maximum Mana" val="40%" />
+  <property name="Cold Damage" min="1" max="6" />
+  <property name="Cold Duration" val="2" />
+ </item>
+
+ <item name="Gorefoot" type="Heavy Boots">
+  <require level="9" strength="18" />
+  <property name="% Enhanced Defense" min="20" max="30" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Mana Stolen per Hit" val="2%" />
+  <property name="Attacker Takes Damage of" val="2" />
+  <property name="Defense" val="+12" />
+  <property name="Leap (Barbarian only)" val="+2" />
+ </item>
+
+ <item name="Treads of Cthon" type="Chain Boots">
+  <require level="15" strength="30" />
+  <property name="% Enhanced Defense" min="30" max="40" />
+  <property name="Defense" val="+12" />
+  <property name="Stamina Drain" val="50%" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Defense vs. Missile" val="+50" />
+  <property name="Life" val="+10" />
+ </item>
+
+ <item name="Lenymo" type="Sash">
+  <require level="7" />
+  <property name="Regenerate Mana" val="30%" />
+  <property name="All Resistances" val="+5" />
+  <property name="Mana" val="+15" />
+  <property name="Light Radius" val="+1" />
+ </item>
+
+ <item name="Nightsmoke" type="Belt">
+  <require level="20" strength="25" />
+  <property name="% Enhanced Defense" min="30" max="50" />
+  <property name="Defense" val="+15" />
+  <property name="Damage Taken Goes to Mana" val="50%" />
+  <property name="Damage Reduced by" val="2" />
+  <property name="All Resistances" val="+10" />
+  <property name="Mana" val="+20" />
+ </item>
+
+ <item name="Goldwrap" type="Heavy Belt">
+  <require level="27" strength="45" />
+  <property name="% Enhanced Defense" min="40" max="60" />
+  <property name="Defense" val="+25" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Better Chance of Getting Magic Items" val="30%" />
+  <property name="% Extra Gold from Monsters" min="50" max="80" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Peasant Crown" type="War Hat">
+  <require level="28" strength="20" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="All Skills" val="+1" />
+  <property name="Faster Run/Walk" val="15%" />
+  <property name="Replenish Life" min="6" max="12" />
+  <property name="Energy" val="+20" />
+  <property name="Vitality" val="+20" />
+ </item>
+
+ <item name="Rockstopper" type="Sallet">
+  <require level="31" strength="43" />
+  <property name="% Enhanced Defense" min="160" max="220" />
+  <property name="Damage Reduced by" val="10%" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Cold Resist" min="20" max="40" />
+  <property name="Fire Resist" min="20" max="50" />
+  <property name="Lightning Resist" min="20" max="40" />
+  <property name="Vitality" val="+15" />
+ </item>
+
+ <item name="Stealskull" type="Casque">
+  <require level="35" strength="59" />
+  <property name="% Enhanced Defense" min="200" max="240" />
+  <property name="Increased Attack speed" val="10%" />
+  <property name="Faster Hit Recovery" val="10%" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="% Better Chance of Getting Magic Items" min="30" max="50" />
+ </item>
+
+ <item name="Darksight Helm" type="Basinet">
+  <require level="38" strength="82" />
+  <property name="Defense" min="2" max="198" />
+  <property name="Chance to Cast Level 3 Dim Vision When Struck" val="6%" />
+  <property name="Charges: Cloak of Shadows (Level 5)" val="30" />
+  <property name="Cannot Be Frozen" />
+  <property name="Fire Resist" min="20" max="40" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Light Radius" val="-4" />
+ </item>
+
+ <item name="Valkyrie Wing" type="Winged Helm">
+  <require level="44" strength="115" />
+  <property name="% Defense" min="150" max="200" />
+  <property name="Amazon Skill Levels" min="1" max="2" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Mana After Each Kill" min="2" max="4" />
+ </item>
+
+ <item name="Crown of Thieves" type="Grand Crown">
+  <require level="49" strength="103" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="% Life Stolen per Hit" min="9" max="12" />
+  <property name="Fire Resist" val="+33%" />
+  <property name="Mana" val="+35" />
+  <property name="Life" val="+50" />
+  <property name="Dexterity" val="+25" />
+  <property name="% Extra Gold from Monsters" min="80" max="100" />
+ </item>
+
+ <item name="Vampire Gaze" type="Grim Helm">
+  <require level="41" strength="58" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="Cold Damage" min="6" max="22" />
+  <property name="Cold Duration" val="4" />
+  <property name="Stamina Drain" val="15%" />
+  <property name="% Life Stolen per Hit" min="6" max="8" />
+  <property name="% Mana Stolen per Hit" min="6" max="8" />
+  <property name="Damage Reduced by" min="15" max="20" />
+  <property name="Magic Damage Reduced by" min="10" max="15" />
+ </item>
+
+ <item name="The Spirit Shroud" type="Ghost Armor">
+  <require level="28" strength="38" />
+  <property name="Enhanced Defense" val="+150%" />
+  <property name="Cannot Be Frozen" />
+  <property name="All Skills" val="+1" />
+  <property name="Replenish Life" val="+10" />
+  <property name="Magic Damage Reduced by" min="7" max="11" />
+ </item>
+
+ <item name="Skin of the Vipermagi" type="Serpentskin Armor">
+  <require level="29" strength="43" />
+  <property name="Enhanced Defense" val="+120%" />
+  <property name="All Skills" val="+1" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="Magic Damage Reduced by" min="9" max="13" />
+  <property name="All Resistances" min="20" max="35" />
+ </item>
+
+ <item name="Skin of the Flayed One" type="Demonhide Armor">
+  <require level="31" strength="50" />
+  <property name="% Enhanced Defense" min="150" max="190" />
+  <property name="Seconds" min="10" max="20" />
+  <property name="% Life Stolen per Hit" min="5" max="7" />
+  <property name="Replenish Life" min="15" max="25" />
+  <property name="Attacker Takes Damage of" val="15" />
+ </item>
+
+ <item name="Iron Pelt" type="Trellised Armor">
+  <require level="33" strength="61" />
+  <property name="% Enhanced Defense" min="50" max="100" />
+  <property name="Defense" min="3" max="297" />
+  <property name="Damage Reduced by" min="15" max="20" />
+  <property name="Magic Damage Reduced by" min="10" max="16" />
+  <property name="Life" val="+25" />
+ </item>
+
+ <item name="Crow Caw" type="Tigulated Mail">
+  <require level="37" strength="86" />
+  <property name="% Enhanced Defense" min="150" max="180" />
+  <property name="Increased Attack Speed" val="15%" />
+  <property name="Faster Hit Recovery" val="15%" />
+  <property name="Chance of Open Wounds" val="35%" />
+  <property name="Dexterity" val="+15" />
+ </item>
+
+ <item name="Spirit Forge" type="Linked Mail">
+  <require level="35" strength="74" />
+  <property name="% Enhanced Defense" min="120" max="160" />
+  <property name="Life" level_multiplier="1.25" />
+  <property name="Fire Resist" val="+5%" />
+  <property name="Fire Damage" min="20" max="65" />
+  <property name="Strength" val="+15" />
+  <property name="Light Radius" val="+4" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Duriel's Shell" type="Cuirass">
+  <require level="41" strength="65" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="Defense" level_multiplier="1.25" />
+  <property name="Life" min="1" max="99" />
+  <property name="Resist Fire" val="+20%" />
+  <property name="Resist Lightning" val="+20%" />
+  <property name="Resist Poison" val="+20%" />
+  <property name="Resist Cold" val="+50%" />
+  <property name="Cannot Be Frozen" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Shaftstop" type="Mesh Armor">
+  <require level="38" strength="92" />
+  <property name="% Enhanced Defense" min="160" max="220" />
+  <property name="Damage Reduced by" val="30%" />
+  <property name="Defense vs. Missile" val="+250" />
+  <property name="Life" val="+60" />
+ </item>
+
+ <item name="Skullder's Ire" type="Russet Armor">
+  <require level="42" strength="97" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="Seconds" min="4" max="5" />
+  <property name="% Better Chance of Getting Magic Items" level_multiplier="1.25" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Magic Damage Reduced by" val="10" />
+ </item>
+
+ <item name="Que-Hegan's Wisdom" type="Mage Plate">
+  <require level="51" strength="55" />
+  <property name="% Enhanced Defense" min="140" max="160" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Mana After Each Kill" val="+3" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Magic Damage Reduced by" min="6" max="10" />
+  <property name="Energy" val="+15" />
+ </item>
+
+ <item name="Guardian Angel" type="Templar Coat">
+  <require level="45" strength="118" />
+  <property name="% Enhanced Defense" min="180" max="200" />
+  <property name="Increased Chance of Blocking" val="+20%" />
+  <property name="Faster Block Rate" val="+30%" />
+  <property name="Attack Rating Against Demons" level_multiplier="2.5" />
+  <property name="Paladin Skill Levels" val="+1" />
+  <property name="Light Radius" val="+4" />
+  <property name="Maximum Poison Resist" val="15%" />
+  <property name="Maximum Cold Resist" val="15%" />
+  <property name="Maximum Lightning Resist" val="15%" />
+  <property name="Maximum Fire Resist" val="15%" />
+ </item>
+
+ <item name="Toothrow" type="Sharktooth Armor">
+  <require level="48" strength="103" />
+  <property name="% Enhanced Defense" min="160" max="220" />
+  <property name="Defense" min="40" max="60" />
+  <property name="Chance of Open Wounds" val="40%" />
+  <property name="Fire Resist" val="+15%" />
+  <property name="Strength" val="+10" />
+  <property name="Attacker Takes Damage of" min="20" max="40" />
+ </item>
+
+ <item name="Atma's Wail" type="Embossed Plate">
+  <require level="51" strength="125" />
+  <property name="% Enhanced Defense" min="120" max="160" />
+  <property name="Defense" min="2" max="198" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Replenish Life" val="+10" />
+  <property name="Increase Maximum Mana" val="15%" />
+  <property name="Dexterity" val="+15" />
+  <property name="Better Chance of Getting Magic Items" val="+20%" />
+ </item>
+
+ <item name="Black Hades" type="Chaos Armor">
+  <require level="53" strength="140" />
+  <property name="% Enhanced Defense" min="140" max="200" />
+  <property name="% Damage to Demons" min="30" max="60" />
+  <property name="Attack Rating against Demons" min="200" max="250" />
+  <property name="Half Freeze Duration" />
+  <sockets amount="5" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Corpsemourn" type="Ornate Plate">
+  <require level="55" strength="170" />
+  <property name="% Enhanced Defense" min="150" max="180" />
+  <property name="Charges: Corpse Explosion (Level 5)" val="40" />
+  <property name="Fire Damage" min="12" max="36" />
+  <property name="Chance to Cast Level 2 Iron Maiden when Struck" val="6%" />
+  <property name="Cold Resist" val="+35%" />
+  <property name="Vitality" val="+10" />
+  <property name="Strength" val="+8" />
+ </item>
+
+ <item name="Moser's Blessed Circle" type="Round Shield">
+  <require level="31" strength="53" />
+  <property name="% Enhanced Defense" min="180" max="220" />
+  <property name="Increased Chance of Blocking" val="+25%" />
+  <property name="Faster Block Rate" val="30%" />
+  <property name="All Resistances" val="+25" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Stormchaser" type="Scutum">
+  <require level="35" strength="71" />
+  <property name="% Enhanced Defense" min="160" max="220" />
+  <property name="Increased Chance of Blocking" val="+20%" />
+  <property name="Chance to Cast Level 5 Tornado when Struck" val="4%" />
+  <property name="Chance to Cast Level 6 Blizzard when Struck" val="4%" />
+  <property name="Faster Block Rate" val="10%" />
+  <property name="Attack Rating" val="+150" />
+  <property name="Lightning Resist" val="+50%" />
+  <property name="Half Freeze Duration" />
+  <property name="Lightning Damage" min="1" max="60" />
+ </item>
+
+ <item name="Tiamat's Rebuke" type="Dragon Shield">
+  <require level="38" strength="91" />
+  <property name="% Enhanced Defense" min="140" max="200" />
+  <property name="Cold Damage" min="27" max="53" />
+  <property name="Cold Duration" val="3" />
+  <property name="Fire Damage" min="35" max="95" />
+  <property name="Lightning Damage" min="1" max="120" />
+  <property name="Chance to Cast Level 6 Hydra when Struck" val="3%" />
+  <property name="Chance to Cast Level 7 Nova when Struck" val="5%" />
+  <property name="Chance to Cast Level 9 Frost Nova when Struck" val="5%" />
+  <property name="All Resistances" min="25" max="35" />
+ </item>
+
+ <item name="Lance Guard" type="Barbed Shield">
+  <require level="35" strength="65" />
+  <property name="% Enhanced Defense" min="70" max="120" />
+  <property name="Damage Taken Goes to Mana" val="15%" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Deadly Strike" val="20%" />
+  <property name="Life" val="+50" />
+  <property name="Attacker Takes Damage of" val="47" />
+ </item>
+
+ <item name="Gerke's Sanctuary" type="Pavise">
+  <require level="44" strength="133" />
+  <property name="% Enhanced Defense" min="180" max="240" />
+  <property name="Increased Chance of Blocking" val="+30%" />
+  <property name="All Resistances" min="20" max="30" />
+  <property name="Replenish Life" val="+15" />
+  <property name="Damage Reduced by" min="11" max="16" />
+  <property name="Magic Damage Reduced by" min="14" max="18" />
+ </item>
+
+ <item name="Lidless Wall" type="Grim Shield">
+  <require level="41" strength="58" />
+  <property name="% Enhanced Defense" min="80" max="130" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Increase Maximum Mana" val="10%" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Mana After Each Kill" min="3" max="5" />
+  <property name="Energy" val="+10" />
+  <property name="Light Radius" val="+1" />
+ </item>
+
+ <item name="Radament's Sphere" type="Ancient Shield">
+  <require level="50" strength="110" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="Increased Chance of Blocking" val="+20%" />
+  <property name="Faster Block Rate" val="+20%" />
+  <property name="Chance To Cast Level 5 Poison Nova when Struck" val="5%" />
+  <property name="Charges: Poison Explosion (Level 6)" val="40" />
+  <property name="Poison Resist" val="+75%" />
+  <property name="Poison Damage over 4 Seconds" val="+80" />
+ </item>
+
+ <item name="Venom Grip" type="Demonhide Gloves">
+  <require level="29" strength="20" />
+  <property name="% Enhanced Defense" min="130" max="160" />
+  <property name="Defense" min="15" max="25" />
+  <property name="Chance of Crushing Blow" val="5%" />
+  <property name="Poison Damage over 4 Seconds" val="+60" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Maximum Poison Resist" val="5%" />
+  <property name="Poison Resist" val="+30%" />
+ </item>
+
+ <item name="Gravepalm" type="Sharkskin Gloves">
+  <require level="32" strength="20" />
+  <property name="% Enhanced Defense" min="140" max="180" />
+  <property name="% Damage to Undead" min="100" max="200" />
+  <property name="Attack Rating Against Undead" min="100" max="200" />
+  <property name="Energy" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Ghoulhide" type="Heavy Bracers">
+  <require level="36" strength="58" />
+  <property name="% Enhanced Defense" min="150" max="190" />
+  <property name="Attack Rating Against Undead" min="4" max="396" />
+  <property name="% Damage to Undead" min="2" max="198" />
+  <property name="Mana Stolen per Hit" val="4%" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Lava Gout" type="Battle Gauntlets">
+  <require level="42" strength="68" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Chance to Cast Level 10 Enchant on Striking" val="2%" />
+  <property name="Half Freeze Duration" />
+  <property name="Fire Damage" min="13" max="46" />
+  <property name="Increased Attack Speed" val="+20%" />
+  <property name="Fire Resist" val="+24%" />
+ </item>
+
+ <item name="Hellmouth" type="War Gauntlets">
+  <require level="47" strength="110" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Chance To Cast Level 12 Firestorm on Striking" val="4%" />
+  <property name="Chance To Cast Level 4 Meteor on Striking" val="2%" />
+  <property name="Fire Absorb" val="+15" />
+  <property name="Fire Damage" min="15" max="72" />
+ </item>
+
+ <item name="Infernostride" type="Demonhide Boots">
+  <require level="29" strength="20" />
+  <property name="% Enhanced Defense" min="120" max="150" />
+  <property name="Defense" val="+15" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Chance to Cast Level 8 Blaze when Struck" val="5%" />
+  <property name="Fire Resist" val="+30%" />
+  <property name="Maximum Fire Resist" val="10%" />
+  <property name="Fire Damage" min="12" max="33" />
+  <property name="% Extra Gold from Monsters" min="47" max="70" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Waterwalk" type="Sharkskin Boots">
+  <require level="32" strength="18" />
+  <property name="% Enhanced Defense" min="180" max="210" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Defense vs. Missile" val="+100" />
+  <property name="Dexterity" val="+15" />
+  <property name="Maximum Fire Resist" val="+5%" />
+  <property name="Heal Stamina" val="+50%" />
+  <property name="Maximum Stamina" val="+40" />
+  <property name="Life" min="45" max="65" />
+ </item>
+
+ <item name="Silkweave" type="Mesh Boots">
+  <require level="36" strength="65" />
+  <property name="% Enhanced Defense" min="150" max="190" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Mana after each Kill" val="+5" />
+  <property name="Increase Maximum Mana" val="10%" />
+  <property name="Defense vs. Missile" val="+200" />
+ </item>
+
+ <item name="War Traveller" type="Battle Boots">
+  <require level="42" strength="95" />
+  <property name="% Enhanced Defense" min="150" max="190" />
+  <property name="Faster Run/Walk" val="25%" />
+  <property name="Vitality" val="+10" />
+  <property name="Strength" val="+10" />
+  <property name="Damage" min="15" max="25" />
+  <property name="Slower Stamina Drain" val="40%" />
+  <property name="Attacker Takes Damage of" min="5" max="10" />
+  <property name="% Better Chance of Getting Magic Items" min="30" max="50" />
+ </item>
+
+ <item name="Gore Rider" type="War Boots">
+  <require level="48" strength="93" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Chance of Open Wounds" val="10%" />
+  <property name="Chance of Crushing Blow" val="15%" />
+  <property name="Deadly Strike" val="15%" />
+  <property name="Requirements" val="-25%" />
+  <property name="Maximum Stamina" val="+20" />
+ </item>
+
+ <item name="String of Ears" type="Demonhide Sash">
+  <require level="29" strength="20" />
+  <property name="% Enhanced Defense" min="150" max="180" />
+  <property name="Defense" val="+15" />
+  <property name="% Life Stolen per Hit" min="6" max="8" />
+  <property name="Damage Reduced By" min="10" max="15" />
+  <property name="Magic Damage Reduced" min="10" max="15" />
+ </item>
+
+ <item name="Razortail" type="Sharkskin Belt">
+  <require level="32" strength="20" />
+  <property name="% Enhanced Defense" min="120" max="150" />
+  <property name="Defense" val="+15" />
+  <property name="Maximum Damage" val="+10" />
+  <property name="Piercing Attack" val="33" />
+  <property name="Dexterity" val="+15" />
+  <property name="Attacker Takes Damage of" level_multiplier="1" />
+ </item>
+
+ <item name="Gloom's Trap" type="Mesh Belt">
+  <require level="36" strength="58" />
+  <property name="% Enhanced Defense" min="120" max="150" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Increase Maximum Mana" val="15%" />
+  <property name="Regenerate Mana" val="15%" />
+  <property name="Vitality" val="+15" />
+  <property name="Light Radius" val="-3" />
+ </item>
+
+ <item name="Snowclash" type="Battle Belt">
+  <require level="42" strength="88" />
+  <property name="% Enhanced Defense" min="130" max="170" />
+  <property name="Chance to Cast Level 7 Blizzard when Struck" val="5%" />
+  <property name="Cold Absorb" val="+15" />
+  <property name="Maximum Cold Resist" val="15%" />
+  <property name="Cold Damage" min="13" max="21" />
+  <property name="Chilling Armor (Sorceress only)" val="+2" />
+  <property name="Blizzard (Sorceress only)" val="+2" />
+  <property name="Glacial Spike (Sorceress only)" val="+3" />
+ </item>
+
+ <item name="Harlequin Crest" type="Shako">
+  <require level="52" strength="50" />
+  <property name="All Skills" val="+2" />
+  <property name="Life" level_multiplier="1.5" />
+  <property name="Mana" level_multiplier="1.5" />
+  <property name="Damage Reduced by" val="10%" />
+  <property name="Better Chance of Getting Magic Items" val="50%" />
+  <property name="Strength" val="+2" />
+  <property name="Dexterity" val="+2" />
+  <property name="Vitality" val="+2" />
+  <property name="Energy" val="+2" />
+ </item>
+
+ <item name="Veil of Steel" type="Spired Helm">
+  <require level="73" strength="192" />
+  <property name="Enhanced Defense" val="+60%" />
+  <property name="Defense" val="+140" />
+  <property name="All Resistances" val="+50" />
+  <property name="Strength" val="+15" />
+  <property name="Vitality" val="+15" />
+  <property name="Light Radius" val="-4" />
+ </item>
+
+ <item name="The Gladiator's Bane" type="Wire Fleece">
+  <require level="85" strength="111" />
+  <property name="% Enhanced Defense" min="150" max="200" />
+  <property name="Defense" val="+50" />
+  <property name="Cannot Be Frozen" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Poison Length Reduced by" val="50%" />
+  <property name="Attacker Takes Damage of" val="20" />
+  <property name="Damage Reduced by" min="15" max="20" />
+  <property name="Magic Damage Reduced by" min="15" max="20" />
+ </item>
+
+ <item name="Arkaine's Valor" type="Balrog Skin">
+  <require level="85" strength="165" />
+  <property name="Enhanced Defense" val="+200%" />
+  <property name="All Class Skill Levels" min="1" max="2" />
+  <property name="Vitality" level_multiplier="0.5" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Damage Reduced by" min="10" max="15" />
+ </item>
+
+ <item name="Blackoak Shield" type="Luna">
+  <require level="61" strength="100" />
+  <property name="% Enhanced Defense" min="160" max="200" />
+  <property name="Dexterity" level_multiplier="0.5" />
+  <property name="Cold Absorb" level_multiplier="0.625" />
+  <property name="Life" level_multiplier="1.25" />
+  <property name="Chance to Cast Level 5 Weaken when Struck" val="4%" />
+  <property name="Faster Block Rate" val="50%" />
+  <property name="Half Freeze Duration" />
+ </item>
+
+ <item name="Stormshield" type="Monarch">
+  <require level="73" strength="157" />
+  <property name="Defense" level_multiplier="3.75" />
+  <property name="Increased Chance of Blocking" val="+25%" />
+  <property name="Faster Block Rate" val="35%" />
+  <property name="Damage Reduced by" val="35%" />
+  <property name="Cold Resist" val="+60%" />
+  <property name="Lightning Resist" val="+25%" />
+  <property name="Strength" val="+30" />
+  <property name="Attacker Takes Lightning Damage of" val="10" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Nosferatu's Coil" type="Vampirefang Belt">
+  <require level="51" strength="50" />
+  <property name="Slows Target by" val="10%" />
+  <property name="Mana after each Kill" val="+2" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Strength" val="+15" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Light Radius" val="-3" />
+ </item>
+
+ <item name="The Gnasher" type="Hand Axe">
+  <require level="5" />
+  <property name="% Enhanced Damage" min="60" max="70" />
+  <property name="Chance of Crushing Blow" val="20%" />
+  <property name="Chance of Open Wounds" val="50%" />
+  <property name="Attack Rating" val="+30" />
+ </item>
+
+ <item name="Skull Splitter" type="Military Pick">
+  <require level="21" strength="49" dexterity="33" />
+  <property name="% Enhanced Damage" min="60" max="100" />
+  <property name="Lightning Damage" min="1" max="12-15" />
+  <property name="Attack Rating" min="50" max="100" />
+  <property name="Chance of Open Wounds" val="15%" />
+  <property name="Hit Blinds Target" val="+2" />
+  <property name="Regenerate Mana" val="20%" />
+ </item>
+
+ <item name="Axe of Fechmar" type="Large Axe">
+  <require level="8" strength="35" />
+  <property name="% Enhanced Damage" min="70" max="90" />
+  <property name="Freezes Target" val="+3" />
+  <property name="Cold Resist" val="+50%" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Goreshovel" type="Broad Axe">
+  <require level="14" strength="48" />
+  <property name="% Enhanced Damage" min="40" max="50" />
+  <property name="Maximum Damage" val="+9" />
+  <property name="Chance of Open Wounds*" val="60%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Strength" val="+25" />
+ </item>
+
+ <item name="The Chieftain" type="Battle Axe">
+  <require level="19" strength="54" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Lightning Damage" min="1" max="40" />
+  <property name="All Resistances" min="10" max="20" />
+  <property name="Mana after each Kill" val="+6" />
+ </item>
+
+ <item name="Brainhew" type="Great Axe">
+  <require level="25" strength="63" dexterity="39" />
+  <property name="% Enhanced Damage" min="50" max="80" />
+  <property name="Minimum Damage" val="+14" />
+  <property name="Fire Damage" min="15" max="35" />
+  <property name="% Mana Stolen per Hit" min="10" max="13" />
+  <property name="Mana" val="+25" />
+  <property name="Light Radius" val="+4" />
+ </item>
+
+ <item name="The Humongous" type="Giant Axe">
+  <require level="29" strength="84" />
+  <property name="% Enhanced Damage" min="80" max="120" />
+  <property name="damage" min="8" max="15-25" />
+  <property name="Chance of Crushing Blow" val="33%" />
+  <property name="Requirements" val="+20%" />
+  <property name="Strength" min="20" max="30" />
+ </item>
+
+ <item name="Pluckeye" type="Short Bow">
+  <require level="7" dexterity="15" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Attack Rating" val="+28" />
+  <property name="Mana Stolen per Hit" val="3%" />
+  <property name="Life" val="+10" />
+  <property name="Mana after each Kill" val="+2" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Witherstring" type="Hunter's Bow">
+  <require level="13" dexterity="28" />
+  <property name="% Enhanced Damage" min="40" max="50" />
+  <property name="Fires Magic Arrows" />
+  <property name="Damage" min="1" max="3" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Attack Rating" val="+50" />
+ </item>
+
+ <item name="Rogue's Bow" type="Composite Bow">
+  <require level="20" strength="25" dexterity="35" />
+  <property name="% Enhanced Damage" min="40" max="60" />
+  <property name="Damage to Undead" val="+100%" />
+  <property name="Deadly Strike" val="30%" />
+  <property name="Increased Attack Speed" val="50%" />
+  <property name="Attack Rating" val="+60" />
+  <property name="All Resistances" val="+10" />
+ </item>
+
+ <item name="Hellclap" type="Short War Bow">
+  <require level="27" strength="35" dexterity="55" />
+  <property name="% Enhanced Damage" min="70" max="90" />
+  <property name="Fire Damage" min="15" max="30-50" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Attack Rating" min="50" max="75" />
+  <property name="Fire Skills" val="+1" />
+  <property name="Fire Resist" val="+40%" />
+  <property name="Dexterity" val="+12" />
+ </item>
+
+ <item name="Ichorsting" type="Crossbow">
+  <require level="18" strength="40" dexterity="33" />
+  <property name="Enhanced Damage" val="+50%" />
+  <property name="Poison Damage over 3 Seconds" val="+30" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Piercing Attack" val="50" />
+  <property name="Attack Rating" val="+50" />
+  <property name="Dexterity" val="+20" />
+ </item>
+
+ <item name="Hellcast" type="Heavy Crossbow">
+  <require level="27" strength="60" dexterity="40" />
+  <property name="% Enhanced Damage" min="70" max="80" />
+  <property name="Fires Explosive Arrows or Bolts" />
+  <property name="Fire Damage" min="15" max="35" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Attack Rating" val="+70" />
+  <property name="Max Fire Resist" val="15%" />
+  <property name="Fire Resist" val="+15%" />
+ </item>
+
+ <item name="Doomslinger" type="Repeating Crossbow">
+  <require level="28" strength="40" dexterity="50" />
+  <property name="% Enhanced Damage" min="60" max="100" />
+  <property name="Piercing Attack" val="35" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Amazon Skill Levels" val="+1" />
+  <property name="Life" val="+15" />
+ </item>
+
+ <item name="Gull" type="Dagger">
+  <require level="4" />
+  <property name="damage" min="1" max="15" />
+  <property name="Better Chance of getting Magic Items" val="100%" />
+  <property name="Mana" val="-5" />
+ </item>
+
+ <item name="The Diggler" type="Dagger">
+  <require level="11" dexterity="25" />
+  <property name="Enhanced Damage" val="+50%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Cold Resist" val="+25%" />
+  <property name="Fire Resist" val="+25%" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Spectral Shard" type="Blade">
+  <require level="25" strength="35" dexterity="51" />
+  <property name="Faster Cast Rate" val="50%" />
+  <property name="Attack Rating" val="+55" />
+  <property name="All Resistances" val="+10" />
+  <property name="Mana" val="+50" />
+ </item>
+
+ <item name="Felloak" type="Club">
+  <require level="3" />
+  <property name="% Enhanced Damage" min="70" max="80" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Fire Damage" min="6" max="8" />
+  <property name="Knockback" />
+  <property name="Lightning Resist" val="+60%" />
+  <property name="Fire Resist" val="+20%" />
+ </item>
+
+ <item name="Stoutnail" type="Spiked Club">
+  <require level="5" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Vitality" val="+7" />
+  <property name="Attacker Takes Damage of" min="3" max="10" />
+  <property name="Magic Damage Reduced by" val="2" />
+ </item>
+
+ <item name="Crushflange" type="Mace">
+  <require level="9" strength="27" />
+  <property name="% Enhanced Damage" min="50" max="60" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Crushing Blow" val="33%" />
+  <property name="Knockback" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Strength" val="+15" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="The General's Tan Do Li Ga" type="Flail">
+  <require level="21" strength="41" dexterity="35" />
+  <property name="% Enhanced Damage" min="50" max="60" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Damage" min="1" max="20" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Slows Target by" val="50%" />
+  <property name="Defense" val="+25" />
+ </item>
+
+ <item name="Bonesnap" type="Maul">
+  <require level="24" strength="69" />
+  <property name="% Enhanced Damage" min="200" max="300" />
+  <property name="% Damage to Undead" min="50" max="200" />
+  <property name="Chance of Crushing Blow" val="40%" />
+  <property name="Cold Resist" val="+30%" />
+  <property name="Fire Resist" val="+30%" />
+ </item>
+
+ <item name="Steeldriver" type="Great Maul">
+  <require level="29" strength="50" />
+  <property name="% Enhanced Damage" min="150" max="250" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Requirements" val="-50%" />
+  <property name="Heal Stamina" val="+25%" />
+ </item>
+
+ <item name="Dimoak's Hew" type="Bardiche">
+  <require level="8" strength="40" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Dexterity" val="+15" />
+  <property name="Defense" val="-8" />
+ </item>
+
+ <item name="Steelgoad" type="Voulge">
+  <require level="14" strength="50" />
+  <property name="% Enhanced Damage" min="60" max="80" />
+  <property name="Deadly Strike" val="30%" />
+  <property name="Attack Rating" val="+30" />
+  <property name="All Resistances" val="+5" />
+  <property name="Hit Causes monster to Flee" val="75%" />
+ </item>
+
+ <item name="The Battlebranch" type="Poleaxe">
+  <require level="25" strength="62" />
+  <property name="% Enhanced Damage" min="50" max="70" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Attack Rating" min="50" max="100" />
+  <property name="Life Stolen per Hit" val="7%" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Knell Striker" type="Scepter">
+  <require level="5" strength="25" />
+  <property name="% Enhanced " min="70" max="80" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Crushing Blow" val="25%" />
+  <property name="Attack Rating" val="+35" />
+  <property name="Poison Resist" val="+20%" />
+  <property name="Fire Resist" val="+20%" />
+  <property name="Mana" val="+15" />
+ </item>
+
+ <item name="Stormeye" type="War Scepter">
+  <require level="30" strength="55" />
+  <property name="% Enhanced Damage" min="80" max="120" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Cold Damage" min="3" max="5" />
+  <property name="Cold Duration" val="3" />
+  <property name="Lightning Damage" min="1" max="6" />
+  <property name="Replenish Life" val="+10" />
+  <property name="Fist of the Heavens (Paladin only)" val="+1" />
+  <property name="Holy Shock (Paladin only)" val="+3" />
+  <property name="Resist Lightning (Paladin only)" min="4" max="5" />
+ </item>
+
+ <item name="The Dragon Chang" type="Spear">
+  <require level="8" />
+  <property name="Damage To Undead" val="+200%" />
+  <property name="Minimum Damage" val="+10" />
+  <property name="Fire Damage" min="3" max="6" />
+  <property name="Attack Rating" val="+35" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Bloodthief" type="Brandistock">
+  <require level="17" strength="40" dexterity="50" />
+  <property name="% Enhanced Damage" min="50" max="70" />
+  <property name="Chance of Open Wounds" val="35%" />
+  <property name="% Life stolen per Hit" min="8" max="12" />
+  <property name="Life" val="+26" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Lance of Yaggai" type="Spetum">
+  <require level="22" strength="54" dexterity="35" />
+  <property name="Lightning Damage" min="1" max="60" />
+  <property name="All Resistances" val="+15" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Attacker takes Damage of" val="8" />
+ </item>
+
+ <item name="The Tannr Gorerod" type="Pike">
+  <require level="27" strength="60" dexterity="45" />
+  <property name="% Enhanced Damage" min="80" max="100" />
+  <property name="Fire Damage" min="23" max="54" />
+  <property name="Attack Rating" val="+60" />
+  <property name="Fire Resist" val="+15%" />
+  <property name="Maximum Fire Resist" val="15%" />
+  <property name="Life" val="+30" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="Bane Ash" type="Short Staff">
+  <require level="5" />
+  <property name="% Enhanced Damage" min="50" max="60" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Mana" val="+30" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Fire Damage" min="4" max="6" />
+  <property name="Fire Bolt (Sorceress only)" val="+5" />
+  <property name="Warmth (Sorceress only)" val="+2" />
+ </item>
+
+ <item name="Serpent Lord" type="Long Staff">
+  <require level="9" />
+  <property name="% Enhanced Damage" min="30" max="40" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Poison Damage over 3 Seconds" val="+12" />
+  <property name="Mana Stolen per Hit" val="100%" />
+  <property name="Target Defense" val="50%" />
+  <property name="Mana" val="+10" />
+  <property name="Poison Resist" val="+50%" />
+  <property name="Light Radius" val="-1" />
+ </item>
+
+ <item name="Spire of Lazarus" type="Gnarled Staff">
+  <require level="18" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="1" max="28" />
+  <property name="Sorceress Skill Levels" val="+1" />
+  <property name="Lightning (Sorceress only)" val="+2" />
+  <property name="Chain Lightning (Sorceress only)" val="+1" />
+  <property name="Static Field (Sorceress only)" val="+3" />
+  <property name="Regenerate Mana" val="43%" />
+  <property name="Energy" val="+15" />
+  <property name="Damage Reduced by" val="5" />
+  <property name="Lightning Resist" val="+75%" />
+ </item>
+
+ <item name="The Salamander" type="Battle Staff">
+  <require level="21" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Fire Damage" min="15" max="32" />
+  <property name="Fire Resist" val="+30%" />
+  <property name="Fire Skills" val="+2" />
+  <property name="Warmth (Sorceress only)" val="+3" />
+  <property name="Fire Ball (Sorceress only)" val="+2" />
+  <property name="Fire Wall (Sorceress only)" val="+1" />
+ </item>
+
+ <item name="Rixot's Keen" type="Short Sword">
+  <require level="2" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Minimum Damage" val="+5" />
+  <property name="Chance of Crushing Blow" val="25%" />
+  <property name="Bonus to Attack Rating" val="20%" />
+  <property name="Defense" val="+25" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Blood Crescent" type="Scimitar">
+  <require level="7" dexterity="21" />
+  <property name="% Enhanced Damage" min="60" max="80" />
+  <property name="Chance of Open Wounds" val="33%" />
+  <property name="Increased Attack Speed" val="15%" />
+  <property name="Life Stolen per Hit" val="15%" />
+  <property name="All Resistances" val="+15" />
+  <property name="Life" val="+15" />
+  <property name="Light Radius" val="+4" />
+ </item>
+
+ <item name="Gleamscythe" type="Falchion">
+  <require level="13" strength="33" />
+  <property name="% Enhanced Damage" min="60" max="100" />
+  <property name="Cold Damage" min="3" max="5" />
+  <property name="Cold Duration" val="2" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Defense" val="+20" />
+  <property name="Mana" val="+30" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="Griswold's Edge" type="Broad Sword">
+  <require level="17" strength="48" />
+  <property name="% Enhanced Damage" min="80" max="120" />
+  <property name="Fire Damage" min="10-12" max="15-25" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Attack Rating" val="+100" />
+  <property name="Strength" val="+12" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Culwen's Point" type="War Sword">
+  <require level="29" strength="71" dexterity="45" />
+  <property name="% Enhanced Damage" min="70" max="80" />
+  <property name="all skill levels" val="+1" />
+  <property name="Poison Length Reduced by" val="50%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Attack Rating" val="+60" />
+ </item>
+
+ <item name="Shadowfang" type="Two-handed Sword">
+  <require level="12" strength="35" dexterity="27" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Cold Damage" min="10" max="30" />
+  <property name="Cold Duration" val="3" />
+  <property name="Mana Stolen per Hit" val="9%" />
+  <property name="Life Stolen per Hit" val="9%" />
+  <property name="Cold Resist" val="20%" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Soulflay" type="Claymore">
+  <require level="19" strength="47" />
+  <property name="% Enhanced Damage" min="70" max="100" />
+  <property name="Increased Attack Speed" val="+10%" />
+  <property name="Life Stolen per Hit" val="4%" />
+  <property name="% Mana Stolen per Hit" min="4" max="10" />
+  <property name="All Resistances" val="+5" />
+ </item>
+
+ <item name="Blacktongue" type="Bastard Sword">
+  <require level="26" strength="62" />
+  <property name="% Enhanced Damage" min="50" max="60" />
+  <property name="Poison Damage over 6 Seconds" val="+113" />
+  <property name="Prevent Monster Heal" />
+  <property name="Attack Rating" val="+50" />
+  <property name="Poison Resist" val="+50%" />
+ </item>
+
+ <item name="Ripsaw" type="Flamberge">
+  <require level="26" strength="70" dexterity="49" />
+  <property name="% Enhanced Damage" min="80" max="100" />
+  <property name="Maximum Damage" val="+15" />
+  <property name="Chance of Open Wounds" val="80%" />
+  <property name="Mana Stolen per Hit" val="6%" />
+ </item>
+
+ <item name="Maelstrom" type="Yew Wand">
+  <require level="14" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="1" max="9" />
+  <property name="Mana" val="+13" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="Lightning Resist" val="+40%" />
+  <property name="Iron Maiden (Necromancer only)" min="1" max="3" />
+  <property name="Amplify Damage (Necromancer only)" min="1" max="3" />
+  <property name="Terror (Necromancer only)" min="1" max="3" />
+  <property name="Corpse Explosion (Necromancer only)" min="1" max="3" />
+ </item>
+
+ <item name="Gravespine" type="Bone Wand">
+  <require level="20" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Necromancer Skill Levels" val="+2" />
+  <property name="Cold Damage" min="14" max="8" />
+  <property name="Cold Duration" val="3" />
+  <property name="Mana Stolen per Hit" val="5%" />
+  <property name="Mana" min="25" max="50" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Ume's Lament" type="Grim Wand">
+  <require level="28" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Necromancer Skill Levels" val="+2" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Mana" val="+40" />
+  <property name="Hit Causes Monster to Flee" val="64%" />
+  <property name="Decrepify (Necromancer only)" val="+2" />
+  <property name="Terror (Necromancer only)" val="+3" />
+ </item>
+
+ <item name="Islestrike" type="Twin Axe">
+  <require level="43" strength="85" />
+  <property name="% Enhanced Damage" min="170" max="190" />
+  <property name="Chance of Crushing Blow" val="25%" />
+  <property name="Druid Skills" val="+2" />
+  <property name="Defense vs. Missile" val="+50" />
+  <property name="Energy" val="+10" />
+  <property name="Vitality" val="+10" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+  <property name="Fury (Druid only)" val="+1" />
+  <property name="Maul (Druid only)" val="+1" />
+ </item>
+
+ <item name="Pompeii's Wrath" type="Crowbill">
+  <require level="45" strength="94" dexterity="70" />
+  <property name="% Enhanced Damage" min="140" max="170" />
+  <property name="Fire Damage" min="35" max="150" />
+  <property name="Slows Target by" val="50%" />
+  <property name="Chance to Cast Level 8 Volcano on Attack" val="4%" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Guardian Naga" type="Naga">
+  <require level="48" strength="121" />
+  <property name="% Enhanced Damage" min="150" max="180" />
+  <property name="Maximum Damage" val="+20" />
+  <property name="Poison Damage over 10 Seconds" val="+250" />
+  <property name="Chance to Cast Level 8 Poison Nova on Attack" val="5%" />
+  <property name="Poison Resist" val="+30%" />
+  <property name="Attacker Takes Damage of" val="15" />
+ </item>
+
+ <item name="Spellsteel" type="Bearded Axe">
+  <require level="39" strength="37" />
+  <property name="Enhanced Damage" val="+165%" />
+  <property name="Faster Cast Rate" val="10%" />
+  <property name="Requirements" val="-60%" />
+  <property name="Regenerate Mana" val="25%" />
+  <property name="Mana" val="+100" />
+  <property name="Charges: Firestorm (Level 12)" val="60" />
+  <property name="Charges: Holy Bolt (Level 20)" val="100" />
+  <property name="Charges: Decrepify (Level 3)" val="30" />
+  <property name="Charges: Teleport (Level 1)" val="20" />
+  <property name="Magic Damage Reduced by" min="12" max="15" />
+ </item>
+
+ <item name="Stormrider" type="Tabar">
+  <require level="41" strength="101" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="Damage" min="35" max="75" />
+  <property name="Lightning Damage" min="1" max="200" />
+  <property name="Chance to Cast Level 5 Charged Bolt when Struck" val="15%" />
+  <property name="Charged Bolt on Striking" min="19" max="31" />
+  <property name="Chance to Cast Level 10 Chain Lightning on Striking" val="5%" />
+  <property name="Attacker Takes Lightning Damage of" val="15" />
+ </item>
+
+ <item name="Boneslayer Blade" type="Gothic Axe">
+  <require level="42" strength="115" dexterity="79" />
+  <property name="% Enhanced Damage" min="180" max="220" />
+  <property name="Attack Rating Against Undead" min="5" max="495" />
+  <property name="% Damage to Undead" level_multiplier="2.5" />
+  <property name="Holy Bolt When Struck" min="16" max="20" />
+  <property name="Charges: Holy Bolt (Level 20)" val="200" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Bonus to Attack Rating" val="35%" />
+  <property name="Strength" val="+8" />
+ </item>
+
+ <item name="The Minotaur" type="Ancient Axe">
+  <require level="45" strength="125" />
+  <property name="% Enhanced Damage" min="140" max="200" />
+  <property name="Damage" min="20" max="30" />
+  <property name="Slows Target by" val="50%" />
+  <property name="Chance of Crushing Blow" val="30%" />
+  <property name="Hit Blinds Target" val="+2" />
+  <property name="Half Freeze Duration" />
+  <property name="Strength" min="15" max="20" />
+ </item>
+
+ <item name="Skystrike" type="Edge Bow">
+  <require level="28" strength="25" dexterity="43" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Lightning Damage" min="1" max="250" />
+  <property name="Chance to Cast Level 6 Meteor on Striking" val="2%" />
+  <property name="Increased Attack Rate" val="30%" />
+  <property name="Attack Rating" val="+100" />
+  <property name="Amazon Skill Levels" val="+1" />
+  <property name="Energy" val="+10" />
+ </item>
+
+ <item name="Riphook" type="Razor Bow">
+  <require level="31" strength="25" dexterity="62" />
+  <property name="% Enhanced Damage" min="180" max="220" />
+  <property name="Slows Target by" val="30%" />
+  <property name="Chance of Open Wounds" val="30%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="% Life Stolen per Hit" min="7" max="10" />
+  <property name="Mana" val="+35" />
+ </item>
+
+ <item name="Kuko Shakaku" type="Cedar Bow">
+  <require level="33" strength="53" dexterity="49" />
+  <property name="% Enhanced Damage" min="150" max="180" />
+  <property name="Fires Explosive Arrows or Bolts" />
+  <property name="Piercing Attack" val="50" />
+  <property name="Fire Damage" min="40" max="180" />
+  <property name="Immolation Arrow (Amazon only)" val="+3" />
+  <property name="Bow and Crossbow Skills (Amazon only)" val="+3" />
+ </item>
+
+ <item name="Witchwild String" type="Short Siege Bow">
+  <require level="39" strength="65" dexterity="80" />
+  <property name="% Enhanced Damage" min="150" max="170" />
+  <property name="Fires Magic Arrows" />
+  <property name="Chance to Cast Level 5 Amplify Damage on Attack" val="2%" />
+  <property name="% Deadly Strike" min="1" max="99" />
+  <property name="All Resistances" val="+40" />
+ </item>
+
+ <item name="Cliffkiller" type="Large Siege Bow">
+  <require level="41" strength="80" dexterity="95" />
+  <property name="% Enhanced Damage" min="190" max="230" />
+  <property name="Damage" min="5-10" max="20-30" />
+  <property name="Amazon Skill Levels" val="+2" />
+  <property name="Defense vs. Missile" val="+80" />
+  <property name="Life" val="+50" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Magewrath" type="Rune Bow">
+  <require level="43" strength="73" dexterity="103" />
+  <property name="% Enhanced Damage" min="120" max="150" />
+  <property name="Damage" min="20" max="50" />
+  <property name="Attack Rating" min="200" max="250" />
+  <property name="Amazon Skill Levels" val="+1" />
+  <property name="Hit Blinds Target" />
+  <property name="Mana Stolen per Hit" val="15%" />
+  <property name="Magic Damage Reduced by" min="9" max="13" />
+  <property name="Dexterity" val="+10" />
+  <property name="Guided Arrow (Amazon only)" val="+3" />
+ </item>
+
+ <item name="Goldstrike Arch" type="Gothic Bow">
+  <require level="46" strength="95" dexterity="118" />
+  <property name="% Enhanced Damage" min="200" max="250" />
+  <property name="% Damage to Demons" min="100" max="200" />
+  <property name="% Damage to Undead" min="100" max="200" />
+  <property name="Increased Attack Speed" val="50%" />
+  <property name="Chance To Cast Level (5-7) Fist Of Heavens on Attack" val="5%" />
+  <property name="Replenish Life" val="+12" />
+  <property name="% Bonus to Attack Rating" min="100" max="150" />
+ </item>
+
+ <item name="Pus Spitter" type="Siege Crossbow">
+  <require level="36" strength="32" dexterity="28" />
+  <property name="% Enhanced Damage" min="150" max="220" />
+  <property name="Poison Damage over 8 Seconds" val="+150" />
+  <property name="Requirements" val="-60%" />
+  <property name="Chance to Cast Level 6 Poison Nova when Struck" val="9%" />
+  <property name="Chance to Cast Level 1 Lower Resist on Striking" val="4%" />
+  <property name="Attack Rating" min="5" max="495" />
+  <property name="Increased Attack Speed" val="10%" />
+  <property name="Necromancer Skill Levels" val="+2" />
+  <property name="Maximum Poison Resist" val="10%" />
+  <property name="Poison Resist" val="+25%" />
+ </item>
+
+ <item name="Buriza-Do Kyanon" type="Ballista">
+  <require level="41" strength="110" dexterity="80" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Maximum Damage" level_multiplier="2.5" />
+  <property name="Cold Damage" min="32" max="196" />
+  <property name="Cold Duration" val="4" />
+  <property name="Piercing Attack" val="100" />
+  <property name="Freezes Target" val="+3" />
+  <property name="Defense" min="75" max="150" />
+  <property name="Dexterity" val="+35" />
+  <property name="Increased Attack Speed" val="80%" />
+ </item>
+
+ <item name="Demon Machine" type="Chu-Ko-Nu">
+  <require level="49" strength="80" dexterity="95" />
+  <property name="Enhanced Damage" val="+123%" />
+  <property name="Maximum Damage" val="+66" />
+  <property name="Fires Explosive Arrows or Bolts" />
+  <property name="Attack Rating" val="+632" />
+  <property name="Piercing Attack" val="66" />
+  <property name="Defense" val="+321" />
+  <property name="Mana" val="+36" />
+ </item>
+
+ <item name="Spineripper" type="Poignard">
+  <require level="32" strength="25" />
+  <property name="% Enhanced Damage" min="200" max="240" />
+  <property name="Damage" min="15" max="27" />
+  <property name="Increased Attack Speed" val="15%" />
+  <property name="Necromancer Skill Levels" val="+1" />
+  <property name="Prevent Monster Heal" />
+  <property name="Ignore Target's Defense" />
+  <property name="Life Stolen per Hit" val="8%" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Heart Carver" type="Rondel">
+  <require level="36" strength="25" dexterity="58" />
+  <property name="% Enhanced Damage" min="190" max="240" />
+  <property name="Damage" min="15" max="35" />
+  <property name="Deadly Strike" val="35%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Grim Ward (Barbarian only)" val="+4" />
+  <property name="Find Item (Barbarian only)" val="+4" />
+  <property name="Find Potion (Barbarian only)" val="+4" />
+ </item>
+
+ <item name="Blackbog's Sharp" type="Cinquedeas">
+  <require level="38" strength="25" dexterity="68" />
+  <property name="Poison Damage over 10 Seconds" val="488" />
+  <property name="Damage" min="15" max="45" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Slows Target by" val="50%" />
+  <property name="Defense" val="+50" />
+  <property name="Poison Nova (Necromancer only)" val="+4" />
+  <property name="Poison Explosion (Necromancer only)" val="+4" />
+  <property name="Poison Dagger (Necromancer only)" val="+5" />
+ </item>
+
+ <item name="Stormspike" type="Stiletto">
+  <require level="41" strength="47" dexterity="97" />
+  <property name="Enhanced Damage" val="+150%" />
+  <property name="Lightning Damage" min="1" max="120" />
+  <property name="Chance to Cast Level 3 Charged Bolt when Struck" val="25%" />
+  <property name="% Lightning Resist" level_multiplier="1" />
+  <property name="Attacker Takes Lightning Damage of" val="20" />
+ </item>
+
+ <item name="Fleshrender" type="Barbed Club">
+  <require level="38" strength="30" />
+  <property name="% Enhanced Damage" min="130" max="200" />
+  <property name="Damage" min="35" max="50" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Deadly Strike" val="20%" />
+  <property name="Chance of Crushing Blow" val="20%" />
+  <property name="Chance of Open Wounds" val="25%" />
+  <property name="Druid Skills" val="+1" />
+  <property name="Shape Shifting Skills (Druid only)" val="+2" />
+  <property name="Prevent Monster Heal" />
+ </item>
+
+ <item name="Sureshril Frost" type="Flanged Mace">
+  <require level="39" strength="61" />
+  <property name="% Enhanced Damage" min="150" max="180" />
+  <property name="Damage" min="5" max="10" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Cold Damage" min="63" max="112" />
+  <property name="Freezes Target" val="+3" />
+  <property name="Charges: Frozen Orb (Level 9)" val="50" />
+  <property name="Cannot Be Frozen" />
+ </item>
+
+ <item name="Moonfall" type="Jagged Star">
+  <require level="42" strength="74" />
+  <property name="% Enhanced Damage" min="120" max="150" />
+  <property name="Damage" min="10" max="15" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Fire Damage" min="55" max="115" />
+  <property name="Chance to Cast Level 6 Meteor on Striking" val="5%" />
+  <property name="Charges: Meteor (Level 11)" val="60" />
+  <property name="Magic Damage Reduced by" min="9" max="12" />
+ </item>
+
+ <item name="Baezil's Vortex" type="Knout">
+  <require level="45" strength="82" dexterity="73" />
+  <property name="% Enhanced Damage" min="160" max="200" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="1" max="150" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Chance to Cast Level 8 Nova on Attack" val="5%" />
+  <property name="Charges: Nova (Level 15)" val="80" />
+  <property name="Lightning Resist" val="+25%" />
+  <property name="Mana" val="+100" />
+ </item>
+
+ <item name="Earthshaker" type="Battle Hammer">
+  <require level="43" strength="100" />
+  <property name="Enhanced Damage" val="180%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance to Cast Level 7 Fissure on Attack" val="5%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Hit Blinds Target" />
+  <property name="Knockback" />
+  <property name="Elemental Skills (Druid only)" val="+3" />
+ </item>
+
+ <item name="Bloodtree Stump" type="War Club">
+  <require level="48" strength="124" />
+  <property name="% Enhanced Damage" min="180" max="220" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Crushing Blow" val="50%" />
+  <property name="All Resistances" val="+20" />
+  <property name="Strength" val="+25" />
+  <property name="Masteries (Barbarian only)" val="+2" />
+  <property name="Mace Masteries (Barbarian only)" val="+3" />
+ </item>
+
+ <item name="The Gavel of Pain" type="Martel de Fer">
+  <require level="45" strength="169" />
+  <property name="% Enhanced Damage" min="130" max="160" />
+  <property name="Damage" min="12" max="30" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance to Cast Level 1 Iron Maiden when Struck" val="5%" />
+  <property name="Chance to Cast Level 1 Amplify Damage on Attack" val="5%" />
+  <property name="Charges: Amplify Damage (Level 8)" val="3" />
+  <property name="Attacker Takes Damage of" val="26" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Blackleach Blade" type="Bill">
+  <require level="42" strength="50" />
+  <property name="% Enhanced Damage" min="100" max="140" />
+  <property name="Maximum Damage" level_multiplier="1.25" />
+  <property name="Chance to Cast Level 5 Weaken on Attack" val="5%" />
+  <property name="Requirements" val="-25%" />
+  <property name="Light Radius" val="-2" />
+  <property name="Life Stolen per Hit" val="8%" />
+ </item>
+
+ <item name="Athena's Wrath" type="Battle Scythe">
+  <require level="42" strength="82" dexterity="82" />
+  <property name="% Enhanced Damage" min="150" max="180" />
+  <property name="Maximum Damage" min="1" max="99" />
+  <property name="Life" min="1" max="99" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Druid Skill Levels" min="1" max="3" />
+  <property name="Dexterity" val="+15" />
+ </item>
+
+ <item name="Pierre Tombale Couant" type="Partizan">
+  <require level="43" strength="113" dexterity="67" />
+  <property name="% Enhanced Damage" min="160" max="220" />
+  <property name="Damage" min="12" max="20" />
+  <property name="Deadly Strike" val="55%" />
+  <property name="Attack Rating" min="100" max="200" />
+  <property name="Barbarian Skill Levels" val="+3" />
+  <property name="Mana Stolen per Hit" val="6%" />
+  <property name="Faster Hit Recovery" val="30%" />
+ </item>
+
+ <item name="Husoldal Evo" type="Bec-De-Corbin">
+  <require level="44" strength="133" dexterity="91" />
+  <property name="% Enhanced Damage" min="160" max="200" />
+  <property name="Damage" min="20" max="32" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Attack Rating" min="200" max="250" />
+  <property name="Prevent Monster Heal" />
+  <property name="Replenish Life" val="+20" />
+ </item>
+
+ <item name="Grim's Burning Dead" type="Grim Scythe">
+  <require level="45" strength="70" dexterity="70" />
+  <property name="% Enhanced Damage" min="140" max="180" />
+  <property name="Fire Damage" min="131" max="232" />
+  <property name="Necromancer Skill Levels" val="+3" />
+  <property name="Target Defense" val="50%" />
+  <property name="Enhanced Defense" val="+20%" />
+  <property name="Attack Rating" min="200" max="250" />
+  <property name="Fire Resist" val="+45%" />
+  <property name="Requirements" val="-50%" />
+  <property name="Attacker Takes Damage of" val="8" />
+ </item>
+
+ <item name="Zakarum's Hand" type="Rune Scepter">
+  <require level="37" strength="58" />
+  <property name="% Enhanced Damage" min="180" max="220" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Chance to Cast Level 5 Blizzard on Attack" val="6%" />
+  <property name="Mana Stolen per Hit" val="8%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Regenerate Mana" val="10%" />
+  <property name="Heal Stamina Plus" val="15%" />
+  <property name="Holy Shock (Paladin only)" val="+2" />
+  <property name="Holy Freeze (Paladin only)" val="+2" />
+ </item>
+
+ <item name="The Fetid Sprinkler" type="Holy Water Sprinkler">
+  <require level="38" strength="76" />
+  <property name="% Enhanced Damage" min="160" max="190" />
+  <property name="Damage" min="15" max="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Paladin Skill Levels" val="+2" />
+  <property name="Chance to Cast Level 1 Confuse on Attack" val="10%" />
+  <property name="Chance to Cast Level 1 Decrepify on Attack" val="5%" />
+  <property name="Poison Damage over 4 Seconds" val="+160" />
+  <property name="Attack Rating" min="150" max="200" />
+ </item>
+
+ <item name="Hand of Blessed Light" type="Divine Scepter">
+  <require level="42" strength="103" />
+  <property name="% Enhanced Damage" min="130" max="160" />
+  <property name="Damage" min="20" max="45" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Paladin Skill Levels" val="+2" />
+  <property name="Bonus to Attack Rating" val="100%" />
+  <property name="Regenerate Mana" val="15%" />
+  <property name="Defense" val="+50" />
+  <property name="Chance to Cast Level 4 Fist Of Heavens on Striking" val="5%" />
+  <property name="Fist Of The Heavens (Paladin only)" val="+2" />
+  <property name="Holy Bolt (Paladin only)" val="+4" />
+  <property name="Light Radius" val="+4" />
+ </item>
+
+ <item name="The Impaler" type="War Spear">
+  <require level="31" strength="25" dexterity="25" />
+  <property name="% Enhanced Damage" min="140" max="170" />
+  <property name="Chance of Open Wounds" val="40%" />
+  <property name="Increased Attack Speed" val="+20%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Attack Rating" val="+150" />
+  <property name="Prevent Monster Heal" />
+  <property name="Impale (Amazon only)" val="+5" />
+  <property name="Power Strike (Amazon only)" val="+3" />
+ </item>
+
+ <item name="Kelpie Snare" type="Fuscina">
+  <require level="33" strength="77" dexterity="25" />
+  <property name="% Enhanced Damage" min="140" max="180" />
+  <property name="Damage" min="30" max="50" />
+  <property name="Slows Target by" val="75%" />
+  <property name="Life" level_multiplier="1.25" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Hone Sundan" type="Yari">
+  <require level="37" strength="101" />
+  <property name="% Enhanced Damage" min="160" max="200" />
+  <property name="Damage" min="20" max="40" />
+  <property name="Chance of Crushing Blow" val="45%" />
+  <property name="Repairs 1 durability every N seconds" val="10" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Spire of Honor" type="Lance">
+  <require level="39" strength="110" dexterity="88" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="20" max="40" />
+  <property name="% Damage Demons" level_multiplier="1.5" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Replenish Life" val="+20" />
+  <property name="Bonus to Attack Rating" val="+25%" />
+  <property name="Enhanced Defense" val="+25%" />
+  <property name="Combat Skills (Paladin only)" val="+3" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="Razorswitch" type="Jo Staff">
+  <require level="28" strength="18" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="Magic Damage Reduced by" val="15" />
+  <property name="All Resistances" val="+50" />
+  <property name="Mana" val="+175" />
+  <property name="Life" val="+80" />
+  <property name="Attacker Takes Damage of" val="15" />
+ </item>
+
+ <item name="Ribcracker" type="Quarterstaff">
+  <require level="31" strength="25" />
+  <property name="% Enhanced Damage" min="200" max="300" />
+  <property name="Damage" min="30" max="65" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Crushing Blow" val="50%" />
+  <property name="Increased Attack Speed" val="50%" />
+  <property name="Faster Hit Recovery" val="50%" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="Defense" val="+100" />
+  <property name="Dexterity" val="+15" />
+ </item>
+
+ <item name="Chromatic Ire" type="Cedar Staff">
+  <require level="35" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Sorceress Skill Levels" val="+3" />
+  <property name="Increase Maximum Life" min="20" max="25" />
+  <property name="All Resistances" min="20" max="40" />
+  <property name="Attacker Takes Lightning Damage of" val="20" />
+  <property name="Cold Mastery (Sorceress only)" val="+1" />
+  <property name="Lightning Mastery (Sorceress only)" val="+1" />
+  <property name="Fire Mastery (Sorceress only)" val="+1" />
+ </item>
+
+ <item name="Warpspear" type="Gothic Staff">
+  <require level="39" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Defense vs. Missiles" val="+250" />
+  <property name="Sorceress Skill Levels" val="+3" />
+  <property name="Energy Shield (Sorceress only)" val="+3" />
+  <property name="Telekinesis (Sorceress only)" val="+3" />
+  <property name="Teleport (Sorceress only)" val="+3" />
+ </item>
+
+ <item name="Skull Collector" type="Rune Staff">
+  <require level="41" strength="25" />
+  <property name="Damage To Undead" val="150%" />
+  <property name="Mana after Each Kill" val="+20" />
+  <property name="Increase Maximum Mana" val="20%" />
+  <property name="% Better Chance of Getting Magic Items" min="1" max="99" />
+  <property name="All Skill Levels" val="+2" />
+ </item>
+
+ <item name="Bloodletter" type="Gladius">
+  <require level="30" strength="25" />
+  <property name="Damage" min="12" max="45" />
+  <property name="Attack Rating" val="+90" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Slower Stamina Drain" val="10%" />
+  <property name="Life Stolen per Hit" val="8%" />
+  <property name="Whirlwind (Barbarian only)" min="1" max="3" />
+  <property name="Sword Mastery (Barbarian only)" min="2" max="4" />
+ </item>
+
+ <item name="Coldsteel Eye" type="Cutlass">
+  <require level="31" strength="25" dexterity="52" />
+  <property name="% Enhanced Damage" min="200" max="250" />
+  <property name="Chance of Deadly Strike" val="50%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Mana Stolen per Hit" val="6%" />
+  <property name="Slows Target by" val="30%" />
+  <property name="Hit Blinds Target" />
+ </item>
+
+ <item name="Hexfire" type="Shamshir">
+  <require level="33" strength="58" dexterity="58" />
+  <property name="% Enhanced Damage" min="140" max="160" />
+  <property name="Damage" min="35" max="40" />
+  <property name="Fire Skills" val="+3" />
+  <property name="Charges: Hydra (Level 6)" val="36" />
+  <property name="Ignore Target's Defense" />
+  <property name="Fire Resist" val="+25%" />
+  <property name="Maximum Fire Resist" val="10%" />
+ </item>
+
+ <item name="Blade of Ali Baba" type="Tulwar">
+  <require level="35" strength="70" dexterity="42" />
+  <property name="% Enhanced Damage" min="60" max="120" />
+  <property name="% Extra Gold from Monsters" level_multiplier="2.5" />
+  <property name="% Better Chance of Getting Magic Items" min="1" max="99" />
+  <property name="Mana" val="+15" />
+  <property name="Dexterity" min="5" max="15" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Headstriker" type="Battle Sword">
+  <require level="39" strength="92" dexterity="43" />
+  <property name="Enhanced Damage" val="150%" />
+  <property name="Maximum Damage" level_multiplier="1" />
+  <property name="Deadly Strike" level_multiplier="0.75" />
+  <property name="Prevent Monster Heal" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Plague Bearer" type="Rune Sword">
+  <require level="41" strength="103" dexterity="79" />
+  <property name="Enhanced Damage" val="150%" />
+  <property name="Damage" min="10" max="45" />
+  <property name="Poison Damage over 8 Seconds" val="+300" />
+  <property name="Chance to Cast Level 4 Poison Nova on Striking" val="5%" />
+  <property name="Poison Resist" val="+45%" />
+  <property name="Rabies (Druid only)" val="+5" />
+ </item>
+
+ <item name="The Atlantean" type="Ancient Sword">
+  <require level="42" strength="127" dexterity="88" />
+  <property name="% Enhanced Damage" min="200" max="250" />
+  <property name="Paladin Skill Levels" val="+2" />
+  <property name="Bonus to Attack Rating" val="50%" />
+  <property name="Defense" val="+75" />
+  <property name="Vitality" val="+8" />
+  <property name="Dexterity" val="+12" />
+  <property name="Strength" val="+16" />
+ </item>
+
+ <item name="Crainte Vomir" type="Espandon">
+  <require level="42" strength="73" dexterity="61" />
+  <property name="% Enhanced Damage" min="160" max="200" />
+  <property name="Increased Attack Speed" val="50%" />
+  <property name="Slows Target by" val="35%" />
+  <property name="Monster Defense per Hit" val="-70" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Damage Reduced by" val="10%" />
+ </item>
+
+ <item name="The Vile Husk" type="Tusk Sword">
+  <require level="44" strength="104" dexterity="71" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="% Damage To Undead" level_multiplier="7.5" />
+  <property name="Attack Rating against Undead" level_multiplier="10" />
+  <property name="Poison Damage over 6 Seconds" val="+250" />
+  <property name="Chance to Cast Level 1 Amplify Damage on Attack" val="6%" />
+  <property name="Poison Resist" val="+50%" />
+ </item>
+
+ <item name="Cloudcrack" type="Gothic Sword">
+  <require level="45" strength="113" dexterity="20" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Chance to Cast Level 7 Fist of The Heavens on Attack" val="6%" />
+  <property name="Lightning Damage" min="1" max="240" />
+  <property name="Maximum Lightning Resist" val="10%" />
+  <property name="Defense" val="+30" />
+  <property name="Attacker Takes Lightning Damage of" val="15" />
+  <property name="Defensive Auras (Paladin only)" val="+2" />
+  <property name="Offensive Auras (Paladin only)" val="+2" />
+  <property name="Light Radius" val="+2" />
+ </item>
+
+ <item name="Todesfaelle Flamme" type="Zweihander">
+  <require level="46" strength="125" dexterity="94" />
+  <property name="% Enhanced Damage" min="120" max="160" />
+  <property name="Fire Damage" min="50" max="200" />
+  <property name="Chance To Cast Level 6 Fire Ball on Attack" val="10%" />
+  <property name="Charges: Fire Wall (Level 10)" val="20" />
+  <property name="Charges: Enchant (Level 10)" val="45" />
+  <property name="Fire Absorb" val="+10" />
+  <property name="Fire Resist" val="+40%" />
+ </item>
+
+ <item name="Swordguard" type="Executioner Sword">
+  <require level="48" strength="85" dexterity="55" />
+  <property name="% Enhanced Damage" min="170" max="180" />
+  <property name="Defense" min="5" max="495" />
+  <property name="Damage taken Goes to Mana" val="30%" />
+  <property name="Requirements" val="-50%" />
+  <property name="All Resistances" min="10" max="20" />
+  <property name="Faster Hit Recovery" val="20%" />
+  <property name="Increased Chance of Blocking" val="20%" />
+  <property name="Defense vs. Missile" val="+100" />
+  <property name="Defense vs. Melee" val="+200" />
+ </item>
+
+ <item name="Death Bit" type="Battle Dart">
+  <require level="44" strength="25" dexterity="52" />
+  <property name="% Enhanced Damage" min="130" max="180" />
+  <property name="Deadly Strike" val="40%" />
+  <property name="Attack Rating" min="200" max="450" />
+  <property name="% Life Stolen per Hit" min="7" max="9" />
+  <property name="% Mana Stolen per Hit" min="4" max="6" />
+ </item>
+
+ <item name="The Scalper" type="Francisca">
+  <require level="57" strength="80" dexterity="25" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Chance of Open Wounds" val="33%" />
+  <property name="Mana after Each Kill" val="+4" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Bonus to Attack Rating" val="25%" />
+  <property name="% Life Stolen per Hit" min="4" max="6" />
+ </item>
+
+ <item name="Suicide Branch" type="Burnt Wand">
+  <require level="33" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="All Skills" val="+1" />
+  <property name="Faster Cast Rate" val="50%" />
+  <property name="Increase Maximum Mana" val="10%" />
+  <property name="All Resistances" val="+10" />
+  <property name="Life" val="+40" />
+  <property name="Attacker Takes Damage of" val="25" />
+ </item>
+
+ <item name="Carin Shard" type="Petrified Wand">
+  <require level="35" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Mana" level_multiplier="1.25" />
+  <property name="Life " level_multiplier="1.25" />
+  <property name="Necromancer Skill Levels" val="+1" />
+  <property name="Summoning Skills (Necromancer only)" val="+2" />
+  <property name="Faster Cast Rate" val="10%" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Replenish Life" val="+5" />
+ </item>
+
+ <item name="Arm Of King Leoric" type="Tomb Wand">
+  <require level="36" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance to Cast Level 2 Bone Prison when Struck" val="10%" />
+  <property name="Chance to Cast Level 10 Bone Spirit when Struck" val="5%" />
+  <property name="Mana" level_multiplier="1.25" />
+  <property name="Faster Cast Rate" val="10%" />
+  <property name="Terror (Necromancer only)" val="+2" />
+  <property name="Raise Skeletal Mage (Necromancer only)" val="+2" />
+  <property name="Skeleton Mastery (Necromancer only)" val="+3" />
+  <property name="Raise Skeleton (Necromancer only)" val="+3" />
+  <property name="Summoning Skills (Necromancer only)" val="+2" />
+  <property name="Poison And Bone Skills (Necromancer only)" val="+2" />
+ </item>
+
+ <item name="Blackhand Key" type="Grave Wand">
+  <require level="41" strength="25" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Necromancer Skill Levels" val="+2" />
+  <property name="Curses (Necromancer only)" val="+1" />
+  <property name="Damage Taken Goes to Mana" val="20%" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="Fire Resist" val="+37%" />
+  <property name="Life" val="+50" />
+  <property name="Charges: Grim Ward (Level 13)" val="30" />
+  <property name="Light Radius" val="-2" />
+ </item>
+
+ <item name="Messerschmidt's Reaver" type="Champion Axe">
+  <require level="70" strength="167" dexterity="59" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="Maximum Damage" level_multiplier="2.5" />
+  <property name="Fire Damage" min="20" max="240" />
+  <property name="Bonus to Attack Rating" val="100%" />
+  <property name="Energy" val="+15" />
+  <property name="Vitality" val="+15" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Hellslayer" type="Decapitator">
+  <require level="66" strength="189" dexterity="33" />
+  <property name="Enhanced Damage" val="+100%" />
+  <property name="% Enhanced Maximum Damage" min="3" max="297" />
+  <property name="Fire Damage" min="150" max="250" />
+  <property name="Strength" level_multiplier="0.5" />
+  <property name="Vitality" level_multiplier="0.5" />
+  <property name="Fire Ball on Attack" min="19" max="20" />
+  <property name="Life" val="+25" />
+ </item>
+
+ <item name="Eaglehorn" type="Crusader Bow">
+  <require level="69" strength="97" dexterity="121" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="% Enhanced Maximum Damage" level_multiplier="2" />
+  <property name="Amazon Skill Levels" val="+1" />
+  <property name="Attack Rating" level_multiplier="6" />
+  <property name="Dexterity" val="+25" />
+  <property name="Ignore Target's Defense" />
+ </item>
+
+ <item name="Windforce" type="Hydra Bow">
+  <require level="74" strength="134" dexterity="167" />
+  <property name="Enhanced Damage" val="+250%" />
+  <property name="Maximum Damage" level_multiplier="3.125" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="% Mana Stolen per Hit" min="6" max="8" />
+  <property name="Heal Stamina Plus" val="30%" />
+  <property name="Strength" val="+10" />
+  <property name="Dexterity" val="+5" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Baranar's Star" type="Devil Star">
+  <require level="65" strength="153" dexterity="44" />
+  <property name="Enhanced Damage" val="200%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Fire Damage" min="1" max="200" />
+  <property name="Lightning Damage" min="1" max="200" />
+  <property name="Cold Damage" min="1" max="200" />
+  <property name="Increased Attack Speed" val="50%" />
+  <property name="Bonus to Attack Rating" val="200%" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="The Cranium Basher" type="Thunder Maul">
+  <require level="87" strength="253" />
+  <property name="% Enhanced Damage" min="200" max="240" />
+  <property name="Damage" min="20" max="20" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance of Crushing Blow" val="75%" />
+  <property name="Chance to Cast Level 1 Amplify Damage on Attack" val="4%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="All Resistances" val="+25" />
+  <property name="Strength" val="+25" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Schaefer's Hammer" type="Legendary Mallet">
+  <require level="79" strength="189" />
+  <property name="% Enhanced Damage" min="100" max="130" />
+  <property name="Maximum Damage" min="2" max="198" />
+  <property name="Lightning Damage" min="50" max="200" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Chance to Cast Level 10 Static Field on Attack" val="20%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Attack Rating" min="8" max="792" />
+  <property name="Lightning Resist" val="+75%" />
+  <property name="Life" val="+50" />
+  <property name="Light Radius" val="+1" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Lightsabre" type="Phase Blade">
+  <require level="58" strength="25" dexterity="136" />
+  <property name="% Enhanced Damage" min="150" max="200" />
+  <property name="Damage" min="10" max="30" />
+  <property name="Magic Damage" min="60" max="120" />
+  <property name="Lightning Damage" min="1" max="200" />
+  <property name="% Mana Stolen per Hit" min="5" max="8" />
+  <property name="Chance to Cast Level (8-16) Chain Lightning on Attack" val="5%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Ignore Target's Defense" />
+  <property name="Lightning Absorb" val="25%" />
+  <property name="Light Radius" val="+7" />
+ </item>
+
+ <item name="Doombringer" type="Champion Sword">
+  <require level="69" strength="163" dexterity="103" />
+  <property name="% Enhanced Damage" min="180" max="250" />
+  <property name="Damage" min="30" max="100" />
+  <property name="Chance to Cast Level 3 Weaken on Attack" val="8%" />
+  <property name="Bonus to Attack Rating" val="40%" />
+  <property name="Increase Maximum Life" val="20%" />
+  <property name="% Life Stolen per Hit" min="5" max="7" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="The Grandfather" type="Colossus Blade">
+  <require level="81" strength="108" dexterity="110" />
+  <property name="% Enhanced Damage" min="150" max="250" />
+  <property name="Maximum Damage" level_multiplier="2.5" />
+  <property name="Bonus to Attack Rating" val="+50%" />
+  <property name="Life" val="+80" />
+  <property name="Dexterity" val="+20" />
+  <property name="Strength" val="+20" />
+  <property name="Vitality" val="+20" />
+  <property name="Energy" val="+20" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Stormspire" type="Giant Thresher">
+  <require level="70" strength="188" dexterity="140" />
+  <property name="% Enhanced Damage" min="150" max="250" />
+  <property name="Lightning Damage" min="1" max="237" />
+  <property name="Chance to Cast Level 31 Charged Bolt when Struck" val="2%" />
+  <property name="Chance to Cast Level 5 Chain Lightning when Struck" val="5%" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Lightning Resist" val="+50%" />
+  <property name="Strength" val="+10" />
+  <property name="Attacker Takes Lightning Damage of" val="27" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Wizardspike" type="Bone Knife">
+  <require level="61" strength="38" dexterity="75" />
+  <property name="Mana" level_multiplier="2" />
+  <property name="Faster Cast Rate" val="50%" />
+  <property name="Regenerate Mana" val="15%" />
+  <property name="Increase Maximum Mana" val="15%" />
+  <property name="All Resistances" val="+75" />
+  <property name="Indestructible" />
+ </item>
+
+ <item name="Angelic Mantle" type="Ring Mail">
+  <set name="Angelic Raiment" />
+  <require level="12" strength="36" />
+  <property name="Enhanced Defense" val="+40%" />
+  <property name="Damage Reduced by" val="3" />
+ </item>
+
+ <item name="Angelic Sickle" type="Sabre">
+  <set name="Angelic Raiment" />
+  <require level="12" strength="25" dexterity="25" />
+  <property name="Damage to Undead" val="350%" />
+  <property name="Attack Rating" val="+75" />
+ </item>
+
+ <item name="Angelic Halo" type="Ring">
+  <set name="Angelic Raiment" />
+  <require level="12" />
+  <property name="Replenish Life" val="+6" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Angelic Wings" type="Amulet">
+  <set name="Angelic Raiment" />
+  <require level="12" />
+  <property name="Damage Taken Goes to Mana" val="20%" />
+  <property name="Light Radius" val="+3" />
+ </item>
+
+ <item name="Arcanna's Deathwand" type="War Staff">
+  <set name="Arcanna's Tricks" />
+  <require level="15" />
+  <property name="Sorceress Skill Levels" val="+1" />
+  <property name="Deadly Strike" val="25%" />
+  <property name="Damage to Undead" val="150%" />
+ </item>
+
+ <item name="Arcanna's Head" type="Skull Cap">
+  <set name="Arcanna's Tricks" />
+  <require level="15" strength="15" />
+  <property name="Replenish Life" val="+4" />
+  <property name="Attacker Takes Damage of" val="2" />
+ </item>
+
+ <item name="Arcanna's Flesh" type="Light Plate">
+  <set name="Arcanna's Tricks" />
+  <require level="15" strength="41" />
+  <property name="Light Radius" val="+2" />
+  <property name="Damage Reduced by" val="3" />
+ </item>
+
+ <item name="Arcanna's Sign" type="Amulet">
+  <set name="Arcanna's Tricks" />
+  <require level="15" />
+  <property name="Regenerate Mana" val="20%" />
+  <property name="Mana" val="+15" />
+ </item>
+
+ <item name="Arctic Furs" type="Quilted Armor">
+  <set name="Arctic Gear" />
+  <require level="2" />
+  <property name="% Enhanced Defense" min="275" max="325" />
+  <property name="All Resistances" val="+10" />
+ </item>
+
+ <item name="Arctic Binding" type="Light Belt">
+  <set name="Arctic Gear" />
+  <require level="2" />
+  <property name="Cold Resist" val="40%" />
+  <property name="Defense" val="+30" />
+ </item>
+
+ <item name="Arctic Mitts" type="Light Gauntlets">
+  <set name="Arctic Gear" />
+  <require level="3" strength="45" />
+  <property name="Life" val="+20" />
+  <property name="Increased Attack Speed" val="10%" />
+ </item>
+
+ <item name="Arctic Horn" type="Short War Bow">
+  <set name="Arctic Gear" />
+  <require level="2" strength="35" dexterity="55" />
+  <property name="Enhanced Damage" val="+50%" />
+  <property name="Bonus To Attack Rating" val="20%" />
+ </item>
+
+ <item name="Berserker's Headgear" type="Helm">
+  <set name="Berserker's Arsenal" />
+  <require level="3" strength="51" />
+  <property name="Defense" val="+15" />
+  <property name="Fire Resist" val="25%" />
+ </item>
+
+ <item name="Beserker's Hatchet" type="Double Axe">
+  <set name="Berserker's Arsenal" />
+  <require level="3" strength="43" />
+  <property name="Bonus to Attack Rating" val="30%" />
+  <property name="Mana Stolen per Hit" val="5%" />
+ </item>
+
+ <item name="Berserker's Hauberk" type="Splint Mail">
+  <set name="Berserker's Arsenal" />
+  <require level="3" strength="51" />
+  <property name="Barbarian Skill Levels" val="+1" />
+  <property name="Magic Damage Reduced by" val="2" />
+ </item>
+
+ <item name="Cathan's Visage" type="Mask">
+  <set name="Cathan's Traps" />
+  <require level="11" strength="23" />
+  <property name="Cold Resist" val="25%" />
+  <property name="Mana" val="+20" />
+ </item>
+
+ <item name="Cathan's Mesh" type="Chain Mail">
+  <set name="Cathan's Traps" />
+  <require level="11" strength="24" />
+  <property name="Defense" val="+15" />
+  <property name="Requirements" val="-50%" />
+ </item>
+
+ <item name="Cathan's Rule" type="Battle Staff">
+  <set name="Cathan's Traps" />
+  <require level="11" />
+  <property name="Fire Skills" val="+1" />
+  <property name="Maximum Fire Damage" val="+10" />
+  <property name="Damage to Undead" val="150%" />
+ </item>
+
+ <item name="Cathan's Sigil" type="Amulet">
+  <set name="Cathan's Traps" />
+  <require level="11" />
+  <property name="Attacker Takes Lightning Damage of" val="5" />
+  <property name="Faster Hit Recovery" val="10%" />
+ </item>
+
+ <item name="Cathan's Seal" type="Ring">
+  <set name="Cathan's Traps" />
+  <require level="11" />
+  <property name="Life Stolen per Hit" val="6%" />
+  <property name="Damage Reduced by" val="2" />
+ </item>
+
+ <item name="Civerb's Cudgel" type="Grand Scepter">
+  <set name="Civerb's Vestments" />
+  <require level="9" strength="37" />
+  <property name="Maximum Damage" level_multiplier="1" />
+  <property name="Maximum Damage" min="17" max="23" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Attack Rating" val="+75" />
+ </item>
+
+ <item name="Civerb's Icon" type="Amulet">
+  <set name="Civerb's Vestments" />
+  <require level="9" />
+  <property name="Replenish Life" val="+4" />
+  <property name="Regenerate Mana" val="40%" />
+ </item>
+
+ <item name="Civerb's Ward" type="Large Shield">
+  <set name="Civerb's Vestments" />
+  <require level="9" strength="34" />
+  <property name="Defense" val="+15" />
+  <property name="Increased Block" val="+15%" />
+ </item>
+
+ <item name="Cleglaw's Tooth" type="Long Sword">
+  <set name="Cleglaw's Brace" />
+  <require level="4" strength="55" dexterity="39" />
+  <property name="Deadly Strike" val="50%" />
+  <property name="Bonus to Attack Rating" val="30%" />
+ </item>
+
+ <item name="Cleglaw's Pincers" type="Chain Gloves">
+  <set name="Cleglaw's Brace" />
+  <require level="4" strength="25" />
+  <property name="Slows Target by" val="25%" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Cleglaw's Claw" type="Small Shield">
+  <set name="Cleglaw's Brace" />
+  <require level="4" strength="22" />
+  <property name="Poison Length Reduced by" val="75%" />
+  <property name="Defense" val="+17" />
+ </item>
+
+ <item name="Death's Touch" type="War Sword">
+  <set name="Death's Disguise" />
+  <require level="6" strength="71" dexterity="45" />
+  <property name="Enhanced Damage" val="+25%" />
+  <property name="Life Stolen per Hit" val="4%" />
+ </item>
+
+ <item name="Death's Hand" type="Leather Gloves">
+  <set name="Death's Disguise" />
+  <require level="6" />
+  <property name="Poison Length Reduced by" val="75%" />
+  <property name="Poison Resist" val="50%" />
+ </item>
+
+ <item name="Death's Guard" type="Sash">
+  <set name="Death's Disguise" />
+  <require level="6" />
+  <property name="Cannot be Frozen" />
+  <property name="Defense" val="+20" />
+ </item>
+
+ <item name="Hsarus' Iron Fist" type="Buckler">
+  <set name="Hsaru's Defense" />
+  <require level="3" strength="12" />
+  <property name="Damage Reduced by" val="2" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Hsarus' Iron Stay" type="Belt">
+  <set name="Hsaru's Defense" />
+  <require level="3" strength="25" />
+  <property name="Cold Resist" val="20%" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Hsarus' Iron Heel" type="Chain Boots">
+  <set name="Hsaru's Defense" />
+  <require level="3" strength="30" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Fire Resist" val="25%" />
+ </item>
+
+ <item name="Infernal Cranium" type="Cap">
+  <set name="Infernal Tools" />
+  <require level="5" />
+  <property name="Damage Taken Goes to Mana" val="20%" />
+  <property name="All Resistances" val="+10" />
+ </item>
+
+ <item name="Infernal Sign" type="Heavy Belt">
+  <set name="Infernal Tools" />
+  <require level="5" strength="45" />
+  <property name="Defense" val="+25" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Infernal Torch" type="Grim Wand">
+  <set name="Infernal Tools" />
+  <require level="5" />
+  <property name="Necromancer Skill Levels" val="+1" />
+  <property name="Min Damage" val="+8" />
+  <property name="Damage to Undead" val="150%" />
+ </item>
+
+ <item name="Iratha's Coil" type="Crown">
+  <set name="Iratha's Finery" />
+  <require level="15" strength="55" />
+  <property name="Lightning Resist" val="+30%" />
+  <property name="Fire Resist" val="+30%" />
+ </item>
+
+ <item name="Iratha's Collar" type="Amulet">
+  <set name="Iratha's Finery" />
+  <require level="15" />
+  <property name="Poison Length Reduced by" val="75%" />
+  <property name="Poison Resist" val="30%" />
+ </item>
+
+ <item name="Iratha's Cord" type="Heavy Belt">
+  <set name="Iratha's Finery" />
+  <require level="15" strength="45" />
+  <property name="Defense" val="+25" />
+  <property name="Minimum Damage" val="+5" />
+ </item>
+
+ <item name="Iratha's Cuff" type="Light Gauntlets">
+  <set name="Iratha's Finery" />
+  <require level="15" strength="45" />
+  <property name="Half Freeze Duration" />
+  <property name="Cold Resist" val="30%" />
+ </item>
+
+ <item name="Isenhart's Lightbrand" type="Broad Sword">
+  <set name="Isenhart's Armory" />
+  <require level="8" strength="48" />
+  <property name="Minimum Damage" val="+10" />
+  <property name="Increased Attack Speed" val="20%" />
+ </item>
+
+ <item name="Isenhart's Horns" type="Full Helm">
+  <set name="Isenhart's Armory" />
+  <require level="8" strength="41" />
+  <property name="Damage Reduced by" val="2" />
+  <property name="Dexterity" val="+6" />
+ </item>
+
+ <item name="Isenhart's Case" type="Breast Plate">
+  <set name="Isenhart's Armory" />
+  <require level="8" strength="30" />
+  <property name="Magic Damage Reduced by" val="2" />
+  <property name="Defense" val="+40" />
+ </item>
+
+ <item name="Isenhart's Parry" type="Gothic Shield">
+  <set name="Isenhart's Armory" />
+  <require level="8" strength="60" />
+  <property name="Attacker Takes Lightning Damage of" val="4" />
+  <property name="Defense" val="+40" />
+ </item>
+
+ <item name="Milabrega's Diadem" type="Crown">
+  <set name="Milabrega's Regalia" />
+  <require level="17" strength="55" />
+  <property name="Mana" val="+15" />
+  <property name="Life" val="+15" />
+ </item>
+
+ <item name="Milabrega's Robe" type="Ancient Armor">
+  <set name="Milabrega's Regalia" />
+  <require level="17" strength="100" />
+  <property name="Damage Reduced by" val="2" />
+  <property name="Attacker Takes Damage of" val="3" />
+ </item>
+
+ <item name="Milabrega's Orb" type="Kite Shield">
+  <set name="Milabrega's Regalia" />
+  <require level="17" strength="47" />
+  <property name="Defense" val="+25" />
+  <property name="Better Chance of Getting Magic Items" val="20%" />
+ </item>
+
+ <item name="Milabrega's Rod" type="War Scepter">
+  <set name="Milabrega's Regalia" />
+  <require level="17" strength="55" />
+  <property name="Enhanced Damage" val="+50%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Paladin Skills" val="+1" />
+  <property name="Light Radious" val="+2" />
+ </item>
+
+ <item name="Sigon's Visor" type="Great Helm">
+  <set name="Sigon's Complete Steel" />
+  <require level="6" strength="53" />
+  <property name="Defense" val="+25" />
+  <property name="Mana" val="+30" />
+ </item>
+
+ <item name="Sigon's Shelter" type="Gothic Plate">
+  <set name="Sigon's Complete Steel" />
+  <require level="6" strength="70" />
+  <property name="Enhanced Defense" val="+25%" />
+  <property name="Lightning Resist" val="30%" />
+ </item>
+
+ <item name="Sigon's Sabot" type="Greaves">
+  <set name="Sigon's Complete Steel" />
+  <require level="5" strength="70" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Cold Resist" val="40%" />
+ </item>
+
+ <item name="Sigon's Guard" type="Tower Shield">
+  <set name="Sigon's Complete Steel" />
+  <require level="6" strength="75" />
+  <property name="All Skills" val="+1" />
+  <property name="Increased Block" val="+20%" />
+ </item>
+
+ <item name="Sigon's Wrap" type="Plated Belt">
+  <set name="Sigon's Complete Steel" />
+  <require level="6" strength="60" />
+  <property name="Fire Resist" val="20%" />
+  <property name="Life" val="+20" />
+ </item>
+
+ <item name="Sigon's Gage" type="Gauntlets">
+  <set name="Sigon's Complete Steel" />
+  <require level="6" strength="60" />
+  <property name="Attack Rating" val="+20" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Tancred's Skull" type="Bone Helm">
+  <set name="Tancred's Battlegear" />
+  <require level="20" strength="25" />
+  <property name="Enhanced Damage" val="+10%" />
+  <property name="Attack Rating" val="+40" />
+ </item>
+
+ <item name="Tancred's Spine" type="Full Plate Mail">
+  <set name="Tancred's Battlegear" />
+  <require level="20" strength="80" />
+  <property name="Life" val="+40" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Tancred's Hobnails" type="Boots">
+  <set name="Tancred's Battlegear" />
+  <require level="20" />
+  <property name="Heal Stamina Plus" val="25%" />
+  <property name="Dexterity" val="+10" />
+ </item>
+
+ <item name="Tancred's Crowbill" type="Military Pick">
+  <set name="Tancred's Battlegear" />
+  <require level="20" strength="49" dexterity="33" />
+  <property name="Enhanced Damage" val="+80%" />
+  <property name="Attack Rating" val="+75" />
+ </item>
+
+ <item name="Tancred's Weird" type="Amulet">
+  <set name="Tancred's Battlegear" />
+  <require level="20" />
+  <property name="Damage Reduced by" val="2" />
+  <property name="Magic Damage Reduced by" val="1" />
+ </item>
+
+ <item name="Vidala's Barb" type="Long Battle Bow">
+  <set name="Vidala's Rig" />
+  <require level="14" strength="40" dexterity="50" />
+  <property name="Lightning Damage" min="1" max="20" />
+ </item>
+
+ <item name="Vidala's Ambush" type="Leather Armor">
+  <set name="Vidala's Rig" />
+  <require level="14" strength="15" />
+  <property name="Defense" val="+50" />
+  <property name="Dexterity" val="+11" />
+ </item>
+
+ <item name="Vidala's Fetlock" type="Light Plated Boots">
+  <set name="Vidala's Rig" />
+  <require level="14" strength="50" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Maximum Stamina" val="+150" />
+ </item>
+
+ <item name="Vidala's Snare" type="Amulet">
+  <set name="Vidala's Rig" />
+  <require level="14" />
+  <property name="Cold Resist" val="20%" />
+  <property name="Life" val="+15" />
+ </item>
+
+ <item name="Aldur's Stony Gaze" type="Hunter's Guise">
+  <set name="Aldur's Watchtower" />
+  <require level="36" strength="56" />
+  <property name="Defense" val="+90" />
+  <property name="Faster Hit Recovery" val="24%" />
+  <property name="Light Radius" val="+5" />
+  <property name="Regenerate Mana" val="17%" />
+  <property name="Cold Resist" val="+25%" />
+ </item>
+
+ <item name="Aldur's Advance" type="Battle Boots">
+  <set name="Aldur's Watchtower" />
+  <require level="45" strength="95" />
+  <property name="Indestructible" />
+  <property name="Faster Run/Walk" val="40%" />
+  <property name="Maximum Stamina" val="+180" />
+  <property name="Damage Taken Goes to Mana" val="10%" />
+  <property name="Heal Stamina Plus" val="32%" />
+  <property name="Life" val="+50" />
+ </item>
+
+ <item name="Aldur's Deception" type="Shadow Plate">
+  <set name="Aldur's Watchtower" />
+  <require level="76" strength="115" />
+  <property name="Defense" val="+300" />
+  <property name="Requirements" val="-50%" />
+  <property name="Lightning Resist" val="+30%" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+20" />
+  <property name="Elemental Skills (Druid only)" val="+1" />
+  <property name="Shape Shifting Skills (Druid only)" val="+1" />
+ </item>
+
+ <item name="Aldur's Rhythm" type="Jagged Star">
+  <set name="Aldur's Watchtower" />
+  <require level="42" strength="74" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="Damage to Demons" val="+200%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="50" max="75" />
+  <property name="Increased Attack Speed" val="30%" />
+  <property name="Life Stolen per Hit" val="10%" />
+  <property name="Mana Stolen per Hit" val="5%" />
+ </item>
+
+ <item name="Bul-Kathos' Sacred Charge" type="Colossus Blade">
+  <set name="Bul-Kathos' Children" />
+  <require level="63" strength="189" dexterity="110" />
+  <property name="Chance of Crushing Blow" val="35%" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="All Resistances" val="+20" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Knockback" />
+ </item>
+
+ <item name="Bul-Kathos' Tribal Guardian" type="Mythical Sword">
+  <set name="Bul-Kathos' Children" />
+  <require level="66" strength="147" dexterity="124" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="Poison Damage over 2 Seconds" val="+50" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Strength" val="+20" />
+  <property name="Increased Attack Speed" val="20%" />
+ </item>
+
+ <item name="Cow King's Horns" type="War Hat">
+  <set name="Cow King's Leathers" />
+  <require level="25" strength="20" />
+  <property name="Damage Takes Goes to Mana" val="35%" />
+  <property name="Half Freeze Duration" />
+  <property name="Defense" val="+75" />
+  <property name="Attacker Takes Damage of" val="10" />
+ </item>
+
+ <item name="Cow King's Hide" type="Studded Leather">
+  <set name="Cow King's Leathers" />
+  <require level="18" strength="27" />
+  <property name="Chance to Cast Level 5 Chain Lightning When Struck" val="18%" />
+  <property name="Enhanced Defense" val="+60%" />
+  <property name="All Resistances" val="+18" />
+  <property name="Life" val="+30" />
+ </item>
+
+ <item name="Cow King's Hooves" type="Heavy Boots">
+  <set name="Cow King's Leathers" />
+  <require level="13" strength="18" />
+  <property name="Defense" min="25" max="35" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Fire Damage" min="25" max="35" />
+  <property name="Dexterity" val="+20" />
+  <property name="Better Chance of Getting Magic Items" val="25%" />
+ </item>
+
+ <item name="Telling of Beads" type="Amulet">
+  <set name="The Disciple" />
+  <require level="30" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Poison Resist" min="35" max="50" />
+  <property name="Cold Resist" val="+18%" />
+  <property name="Attacker Takes Damage of" min="8" max="10" />
+ </item>
+
+ <item name="Laying of Hands" type="Bramble Mitts">
+  <set name="The Disciple" />
+  <require level="63" strength="50" />
+  <property name="Defense" val="+25" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Damage to Demons" val="+350%" />
+  <property name="Fire Resist" val="+50%" />
+  <property name="Chance to Cast Level 3 Holy Bolt on Attack" val="10%" />
+ </item>
+
+ <item name="Dark Adherent" type="Dusk Shroud">
+  <set name="The Disciple" />
+  <require level="43" strength="77" />
+  <property name="Defense" min="305" max="415" />
+  <property name="Fire Resist" val="+24%" />
+  <property name="Chance of Casting Level 3 Nova When Struck" val="25%" />
+  <property name="Poison Damage over 2 Seconds" min="4" max="6" />
+ </item>
+
+ <item name="Rite of Passage" type="Demonhide Boots">
+  <set name="The Disciple" />
+  <require level="29" strength="20" />
+  <property name="Defense" val="+25" />
+  <property name="Faster Run/Walk" val="30%" />
+  <property name="Maximum Stamina" min="15" max="25" />
+  <property name="Half Freeze Duration" />
+ </item>
+
+ <item name="Credendum" type="Mithril Coil">
+  <set name="The Disciple" />
+  <require level="65" strength="106" />
+  <property name="Defense" val="+50" />
+  <property name="All Resistances" val="+15" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Griswold's Heart" type="Ornate Plate">
+  <set name="Griswold's Legacy" />
+  <require level="45" strength="102" />
+  <property name="Defense" val="+500" />
+  <property name="Requirements" val="-40%" />
+  <property name="Strength" val="+20" />
+  <property name="Defensive Aura Skills (Paladin only)" val="+2" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Griswold's Valor" type="Corona">
+  <set name="Griswold's Legacy" />
+  <require level="69" strength="105" />
+  <property name="% Enhanced Defense" min="50" max="70" />
+  <property name="Requirements" val="-40%" />
+  <property name="All Resistances" val="+5" />
+  <property name="% Better Chance of Getting Magic Items" min="20" max="30" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Griswold's Redemption" type="Caduceus">
+  <set name="Griswold's Legacy" />
+  <require level="53" strength="59" dexterity="42" />
+  <property name="Enhanced Damage" val="+175%" />
+  <property name="Damage to Undead" val="350%" />
+  <property name="Requirements" val="-20%" />
+  <property name="Increased Attack Speed" val="40%" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Griswold's Honor" type="Vortex Shield">
+  <set name="Griswold's Legacy" />
+  <require level="68" strength="148" />
+  <property name="Faster Block Rate" val="65%" />
+  <property name="Defense" val="+108" />
+  <sockets amount="5" />
+ </item>
+
+ <item name="Haemosu's Adament" type="Cuirass">
+  <set name="Heaven's Brethren" />
+  <require level="44" strength="52" />
+  <property name="Defense" val="+500" />
+  <property name="Damage vs. Melee" val="+40" />
+  <property name="Damage vs. Missile" val="+35" />
+  <property name="Requirements" val="-20%" />
+  <property name="Life" val="+75" />
+ </item>
+
+ <item name="Dangoon's Teaching" type="Reinforced Mace">
+  <set name="Heaven's Brethren" />
+  <require level="68" strength="145" dexterity="46" />
+  <property name="+ 1.5-148.5 Maximum Damage" level_multiplier="1.5" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Chance to Cast Level 3 Frost Nova on Attack" val="10%" />
+  <property name="Fire Damage" min="20" max="30" />
+ </item>
+
+ <item name="Taebaek's Glory" type="Ward">
+  <set name="Heaven's Brethren" />
+  <require level="81" strength="185" />
+  <property name="Defense" val="+50" />
+  <property name="Increased Chance of Blocking" val="+25%" />
+  <property name="Lightning Resist" val="+30%" />
+  <property name="Indestructible" />
+  <property name="Faster Block Rate" val="30%" />
+  <property name="Mana" val="+100" />
+  <property name="Attacker Takes Damage of" val="30" />
+ </item>
+
+ <item name="Ondal's Almighty" type="Spired Helm">
+  <set name="Heaven's Brethren" />
+  <require level="69" strength="116" />
+  <property name="Chance to Cast Level 3 Weaken on Attack" val="10%" />
+  <property name="Faster Hit Recovery" val="24%" />
+  <property name="Requirements" val="-40%" />
+  <property name="Defense" val="+50" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Hwanin's Splendor" type="Grand Crown">
+  <set name="Hwanin's Majesty" />
+  <require level="45" strength="103" />
+  <property name="Enhanced Defense" val="+100%" />
+  <property name="Replenish Life" val="+20" />
+  <property name="Magic Damage Reduced by" val="10" />
+  <property name="Cold Resist" val="+37%" />
+ </item>
+
+ <item name="Hwanin's Justice" type="Bill">
+  <set name="Hwanin's Majesty" />
+  <require level="28" strength="95" />
+  <property name="Enhanced Defense" val="+200%" />
+  <property name="Lightning Damage" min="5" max="25" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Attack Rating" val="+330" />
+  <property name="Indestructible" />
+  <property name="Chance to Cast Level 3 Ice Blast on Striking" val="10%" />
+ </item>
+
+ <item name="Hwanin's Refuge" type="Tigulated Mail">
+  <set name="Hwanin's Majesty" />
+  <require level="30" strength="86" />
+  <property name="Defense" val="+200" />
+  <property name="Chance to Cast Level 3 Static Field When Struck" val="10%" />
+  <property name="Poison Resist" val="+27%" />
+  <property name="Life" val="+100" />
+ </item>
+
+ <item name="Hwanin's Blessing" type="Belt">
+  <set name="Hwanin's Majesty" />
+  <require level="35" strength="25" />
+  <property name="Defense" level_multiplier="1.5" />
+  <property name="Lightning Damage" min="3" max="33" />
+  <property name="Prevent Monster Heal" />
+  <property name="Damage Taken Goes to Mana" val="12%" />
+ </item>
+
+ <item name="Immortal King's Will" type="Avenger Guard">
+  <set name="Immortal King" />
+  <require level="47" strength="65" />
+  <property name="Light Radius" val="+4" />
+  <property name="Defense" val="+125" />
+  <property name="Extra Gold from Monsters" val="37%" />
+  <property name="% Better Chance of Finding Magic Items" min="25" max="40" />
+  <property name="Warcries Skills (Barbarian only)" val="+2" />
+ </item>
+
+ <item name="Immortal King's Stone Crusher" type="Ogre Maul">
+  <set name="Immortal King" />
+  <require level="76" strength="225" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="Damage to Demons" val="+200%" />
+  <property name="Damage to Undead" val="+150%" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Indestructible" />
+  <property name="% Chance of Crushing Blow" min="35" max="40" />
+ </item>
+
+ <item name="Immortal King's Soul Cage" type="Sacred Armor">
+  <set name="Immortal King" />
+  <require level="76" strength="232" />
+  <property name="Defense" val="+400" />
+  <property name="Chance to Cast Level 5 Enchant when Struck" val="5%" />
+  <property name="Poison Resist" val="+50%" />
+  <property name="Combat Skills (Barbarian only)" val="+2" />
+ </item>
+
+ <item name="Immortal King's Detail" type="War Belt">
+  <set name="Immortal King" />
+  <require level="29" strength="110" />
+  <property name="Defense" val="+36" />
+  <property name="Lightning Resist" val="+31%" />
+  <property name="Fire Resist" val="+28%" />
+  <property name="Strength" val="+25" />
+ </item>
+
+ <item name="Immortal King's Forge" type="War Gauntlets">
+  <set name="Immortal King" />
+  <require level="30" strength="110" />
+  <property name="Chance to Cast Level 4 Charged Bolt when Struck" val="12%" />
+  <property name="Defense" val="+65" />
+  <property name="Dexterity" val="+20" />
+  <property name="Strength" val="+20" />
+ </item>
+
+ <item name="Immortal King's Pillar" type="War Boots">
+  <set name="Immortal King" />
+  <require level="31" strength="125" />
+  <property name="Defense" val="+75" />
+  <property name="Faster Run/Walk" val="40%" />
+  <property name="Attack Rating" val="+110" />
+  <property name="Life" val="+44" />
+ </item>
+
+ <item name="M'avina's True Sight" type="Diadem">
+  <set name="M'avina's Battle Hymn" />
+  <require level="64" />
+  <property name="Defense" val="+150" />
+  <property name="Replenish Life" val="+10" />
+  <property name="Mana" val="+25" />
+  <property name="Increased Attack Speed" val="30%" />
+ </item>
+
+ <item name="M'avina's Caster" type="Grand Matron Bow">
+  <set name="M'avina's Battle Hymn" />
+  <require level="70" strength="108" dexterity="52" />
+  <property name="Enhanced Damage" val="+188%" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Attack Rating" val="+50" />
+  <property name="Chance to Cast Level 3 Nova When Struck" val="10%" />
+ </item>
+
+ <item name="M'avina's Embrace" type="Kraken Shell">
+  <set name="M'avina's Battle Hymn" />
+  <require level="70" strength="122" />
+  <property name="Requirements" val="-30%" />
+  <property name="Chance to Cast Level 3 Glacial Spike When Struck" val="10%" />
+  <property name="Magic Damage Reduced by" min="5" max="12" />
+  <property name="Defense" min="4" max="396" />
+  <property name="Passive and Magic Skills (Amazon only)" val="+2" />
+  <property name="Defense" val="+350" />
+ </item>
+
+ <item name="M'avina's Icy Clutch" type="Battle Gauntlets">
+  <set name="M'avina's Battle Hymn" />
+  <require level="32" strength="88" />
+  <property name="Defense" min="45" max="50" />
+  <property name="Cold Damage" min="6" max="18" />
+  <property name="Half Freeze Duration" />
+  <property name="Extra Gold from Monsters" val="56%" />
+  <property name="Strength" val="+10" />
+  <property name="Dexterity" val="+15" />
+ </item>
+
+ <item name="M'avina's Tenet" type="Sharkskin Belt">
+  <set name="M'avina's Battle Hymn" />
+  <require level="45" strength="20" />
+  <property name="Defense" val="+50" />
+  <property name="Faster Run/Walk" val="20%" />
+  <property name="Light Radius" val="+5" />
+  <property name="Mana Stolen per Hit" val="5%" />
+ </item>
+
+ <item name="Natalya's Totem" type="Grim Helm">
+  <set name="Natalya's Odium" />
+  <require level="59" strength="58" />
+  <property name="Defense" val="+135" />
+  <property name="Magic Damage Reduced by" val="3" />
+  <property name="All Resistances" val="+10" />
+  <property name="Dexterity" val="+25" />
+  <property name="Strength" val="+10" />
+ </item>
+
+ <item name="Natalya's Mark" type="Scissors Suwayyah">
+  <set name="Natalya's Odium" />
+  <require level="79" strength="118" dexterity="118" />
+  <property name="Enhanced Damage" val="+200%" />
+  <property name="Damage to Undead" val="+200%" />
+  <property name="Damage to Demons" val="+200%" />
+  <property name="Fire Damage" min="12" max="17" />
+  <property name="Ignore Target's Defense" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Cold Damage" val="+50" />
+ </item>
+
+ <item name="Natalya's Shadow" type="Loricated Mail">
+  <set name="Natalya's Odium" />
+  <require level="73" strength="149" />
+  <property name="Life" level_multiplier="1" />
+  <property name="Poison Length Reduced by" val="75%" />
+  <property name="Poison Resist" val="+25%" />
+  <property name="Defense" val="+150" />
+  <property name="Shadow Disciplines Skills (Assasin only)" val="+2" />
+ </item>
+
+ <item name="Natalya's Soul" type="Mesh Boots">
+  <set name="Natalya's Odium" />
+  <require level="25" strength="65" />
+  <property name="Defense" val="+75" />
+  <property name="Faster Run/Walk" val="40%" />
+  <property name="Heal Stamina" level_multiplier="0.25" />
+  <property name="Cold Resist" val="+15%" />
+  <property name="Lightning Resist" val="+15%" />
+ </item>
+
+ <item name="Naj's Circlet" type="Circlet">
+  <set name="Naj's Ancient Vestige" />
+  <require level="28" />
+  <property name="Defense" val="+75" />
+  <property name="Fire Damage" min="25" max="35" />
+  <property name="Light Radius" val="+5" />
+  <property name="Chance to Cast Level 5 Chain Lightening When Struck" val="12%" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Naj's Light Plate" type="Hellforge Plate">
+  <set name="Naj's Ancient Vestige" />
+  <require level="71" strength="79" />
+  <property name="Defense" val="+300" />
+  <property name="Requirements" val="-60%" />
+  <property name="Damage Taken Goes to Mana" val="45%" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="All Resistances" val="+25" />
+  <property name="Life" val="+65" />
+ </item>
+
+ <item name="Naj's Puzzler" type="Elder Staff">
+  <set name="Naj's Ancient Vestige" />
+  <require level="78" strength="44" dexterity="37" />
+  <property name="Enhanced Damage" val="+150%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Lightning Damage" min="6" max="45" />
+  <property name="Faster Cast Rate" val="30%" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Mana" val="+70" />
+  <property name="Energy" val="+35" />
+ </item>
+
+ <item name="Guillaume's Face" type="Winged Helm">
+  <set name="Orphan's Call" />
+  <require level="34" strength="115" />
+  <property name="Enhanced Defense" val="+120%" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Deadly Strike" val="15%" />
+  <property name="Chance of Crushing Blow" val="35%" />
+  <property name="Strength" val="+15" />
+ </item>
+
+ <item name="Whitstan's Guard" type="Round Shield">
+  <set name="Orphan's Call" />
+  <require level="29" strength="53" />
+  <property name="Enhanced Defense" val="+175%" />
+  <property name="Half Freeze Duration" />
+  <property name="Faster Block Rate" val="40%" />
+  <property name="Increased Chance of Blocking" val="+55%" />
+  <property name="Light Radius" val="+5" />
+ </item>
+
+ <item name="Magnus' Skin" type="Sharkskin Gloves">
+  <set name="Orphan's Call" />
+  <require level="37" strength="20" />
+  <property name="Enhanced Defense" val="+50%" />
+  <property name="Increased Attack Speed" val="20%" />
+  <property name="Attack Rating" val="+100" />
+  <property name="Light Radius" val="+3" />
+  <property name="Fire Resist" val="+15%" />
+ </item>
+
+ <item name="Wilhelm's Pride" type="Battle Belt">
+  <set name="Orphan's Call" />
+  <require level="42" strength="88" />
+  <property name="Enhanced Defense" val="+75%" />
+  <property name="Life Stolen per Hit" val="5%" />
+  <property name="Cold Resist" val="+10%" />
+ </item>
+
+ <item name="Sander's Paragon" type="Cap">
+  <set name="Sander's Folly" />
+  <require level="25" />
+  <property name="Defense" min="1" max="99" />
+  <property name="Attacker Takes Damage of" val="8" />
+  <property name="Chance of Getting Better Magic Items" val="35%" />
+ </item>
+
+ <item name="Sander's Superstition" type="Bone Wand">
+  <set name="Sander's Folly" />
+  <require level="25" />
+  <property name="Enhanced Damage" val="+75%" />
+  <property name="Damage to Undead" val="150%" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Mana" val="+25" />
+  <property name="Mana Steal" val="8%" />
+  <property name="Cold Damage" min="25" max="75" />
+ </item>
+
+ <item name="Sander's Taboo" type="Heavy Gloves">
+  <set name="Sander's Folly" />
+  <require level="28" />
+  <property name="Poison Damage over 3 Seconds" min="9" max="11" />
+  <property name="Defense" min="20" max="25" />
+  <property name="Life" val="+40" />
+  <property name="Increased Attack Speed" val="20%" />
+ </item>
+
+ <item name="Sander's Riprap" type="Heavy Boots">
+  <set name="Sander's Folly" />
+  <require level="20" strength="18" />
+  <property name="Faster Run/Walk" val="40%" />
+  <property name="Attack Rating" val="+100" />
+  <property name="Dexterity" val="+10" />
+  <property name="Strength" val="+5" />
+ </item>
+
+ <item name="Sazabi's Mental Sheath" type="Basinet">
+  <set name="Sazabi's Grand Tribute" />
+  <require level="43" strength="82" />
+  <property name="All Skill Levels" val="+1" />
+  <property name="Lightning Resist" min="15" max="20" />
+  <property name="Fire Resist" min="15" max="20" />
+  <property name="Defense" val="+100" />
+ </item>
+
+ <item name="Sazabi's Cobalt Redeemer" type="Cryptic Sword">
+  <set name="Sazabi's Grand Tribute" />
+  <require level="73" strength="99" dexterity="109" />
+  <property name="Enhanced Damage" val="+150%" />
+  <property name="Damage to Demons" val="418%" />
+  <property name="Cold Damage" min="25" max="35" />
+  <property name="Increased Attack Speed" val="40%" />
+  <property name="Indestructible" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+5" />
+ </item>
+
+ <item name="Sazabi's Ghost Liberator" type="Balrog Skin">
+  <set name="Sazabi's Grand Tribute" />
+  <require level="67" strength="165" />
+  <property name="Defense" val="+400" />
+  <property name="Faster Hit Recovery" val="30%" />
+  <property name="Attack Rating Against Demons" val="+300" />
+  <property name="Life" min="50" max="75" />
+  <property name="Strength" val="+25" />
+ </item>
+
+ <item name="Tal Rasha's Lidless Eye" type="Swirling Crystal">
+  <set name="Tal Rasha's Wrappings" />
+  <require level="65" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Mana" val="+77" />
+  <property name="Life" val="+57" />
+  <property name="Energy" val="+10" />
+  <property name="Lightning Mastery (Sorceress only)" val="+1" />
+  <property name="Fire Mastery (Sorceress only)" val="+2" />
+  <property name="Cold Mastery" val="+1" />
+ </item>
+
+ <item name="Tal Rasha's Horadric Crest" type="Death Mask">
+  <set name="Tal Rasha's Wrappings" />
+  <require level="66" strength="65" />
+  <property name="Life Stolen per Hit" val="10%" />
+  <property name="Mana Stolen per Hit" val="10%" />
+  <property name="All Resistances" val="+15" />
+  <property name="Defense" val="+45" />
+  <property name="Mana" val="+30" />
+  <property name="Life" val="+60" />
+ </item>
+
+ <item name="Tal Rasha's Guardianship" type="Lacquered Plate">
+  <set name="Tal Rasha's Wrappings" />
+  <require level="71" strength="84" />
+  <property name="Defense" val="+400" />
+  <property name="Requirements" val="-60%" />
+  <property name="Magic Damage Reduced by" val="15" />
+  <property name="Cold Resist" val="+40%" />
+  <property name="Lightning Resist" val="+40%" />
+  <property name="Fire Resist" val="+40%" />
+  <property name="Better Chance of Getting Magic Items" val="88%" />
+ </item>
+
+ <item name="Tal Rasha's Fine-Spun Cloth" type="Mesh Belt">
+  <set name="Tal Rasha's Wrappings" />
+  <require level="53" strength="47" />
+  <property name="Requirements" val="-20%" />
+  <property name="Damage Taken Goes to Mana" val="37%" />
+  <property name="Mana" val="+30" />
+  <property name="Dexterity" val="+20" />
+  <property name="% Better Chance of Getting Magic Items" min="10" max="15" />
+ </item>
+
+ <item name="Tal Rasha's Adjudication" type="Amulet">
+  <set name="Tal Rasha's Wrappings" />
+  <require level="67" />
+  <property name="Sorceress Skill Levels" val="+2" />
+  <property name="Lightning Resist" val="+33%" />
+  <property name="Lightning Damage" min="3" max="32" />
+  <property name="Mana" val="+42" />
+  <property name="Life" val="+50" />
+ </item>
+
+ <item name="Trang-Oul's Guise" type="Bone Visage">
+  <set name="Trang-Oul's Avatar" />
+  <require level="65" strength="108" />
+  <property name="Faster Hit Recovery" val="24%" />
+  <property name="Replenish Life" val="+5" />
+  <property name="Defense" min="80" max="100" />
+  <property name="Mana" val="+150" />
+  <property name="Attacker Takes Damage of" val="20" />
+ </item>
+
+ <item name="Trang-Oul's Scales" type="Chaos Armor">
+  <set name="Trang-Oul's Avatar" />
+  <require level="49" strength="84" />
+  <property name="Enhanced Defense" val="+150%" />
+  <property name="Requirements" val="-40%" />
+  <property name="Faster Run/Walk" val="40%" />
+  <property name="Poison Resist" val="+40%" />
+  <property name="Defense vs. Missiles" val="+100" />
+  <property name="Summoning Skills (Necromancer only)" val="+2" />
+ </item>
+
+ <item name="Trang-Oul's Wing" type="Cantor Trophy">
+  <set name="Trang-Oul's Avatar" />
+  <require level="54" strength="50" />
+  <property name="Defense" val="+125" />
+  <property name="Increased Chance of Blocking" val="+30%" />
+  <property name="Poison Resist" val="+40%" />
+  <property name="Fire Resist" min="38" max="45" />
+  <property name="Dexterity" val="+15" />
+  <property name="Strength" val="+25" />
+  <property name="Poison and Bone Skills (Necromancer only)" val="+2" />
+ </item>
+
+ <item name="Trang-Oul's Girth" type="Troll Belt">
+  <set name="Trang-Oul's Avatar" />
+  <require level="62" strength="91" />
+  <property name="Defense" min="75" max="100" />
+  <property name="Requirements" val="-40%" />
+  <property name="Cannot Be Frozen" />
+  <property name="Replenish Life" val="+5" />
+  <property name="Mana" min="25" max="50" />
+  <property name="Maximum Stamina" val="+30" />
+  <property name="Life" val="+66" />
+ </item>
+
+ <item name="Trang-Oul's Claws" type="Heavy Bracers">
+  <set name="Trang-Oul's Avatar" />
+  <require level="45" strength="58" />
+  <property name="Faster Cast Rate" val="20%" />
+  <property name="Cold Resist" val="+30%" />
+  <property name="Defense" val="+30" />
+  <property name="Curses (Necromancer only)" val="+2" />
+ </item>
+
+</items>

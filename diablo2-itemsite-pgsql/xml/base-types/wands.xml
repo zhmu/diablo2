@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Wand" category="Wands" level="normal" tc="3">
+  <durability max="15" />
+  <sockets amount="1" />
+  <speed necr="f" />
+  <damage h1min="2" h1max="4" />
+ </type>
+
+ <type name="Yew Wand" category="Wands" level="normal" tc="12">
+  <durability max="15" />
+  <sockets amount="1" />
+  <speed necr="n" />
+  <damage h1min="2" h1max="8" />
+ </type>
+
+ <type name="Bone Wand" category="Wands" level="normal" tc="18">
+  <durability max="15" />
+  <sockets amount="2" />
+  <speed necr="vf" />
+  <damage h1min="3" h1max="7" />
+ </type>
+
+ <type name="Grim Wand" category="Wands" level="normal" tc="27">
+  <durability max="15" />
+  <sockets amount="2" />
+  <speed necr="f" />
+  <damage h1min="5" h1max="11" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Burnt Wand" category="Wands" level="exceptional" tc="33">
+  <durability max="15" />
+  <require level="19" strength="25" />
+  <sockets amount="1" />
+  <speed necr="f" />
+  <damage h1min="8" h1max="18" />
+ </type>
+
+ <type name="Petrified Wand" category="Wands" level="exceptional" tc="39">
+  <durability max="15" />
+  <require level="25" strength="25" />
+  <sockets amount="2" />
+  <speed necr="n" />
+  <damage h1min="8" h1max="24" />
+ </type>
+
+ <type name="Tomb Wand" category="Wands" level="exceptional" tc="45">
+  <durability max="15" />
+  <require level="25" strength="25" />
+  <sockets amount="2" />
+  <speed necr="vf" />
+  <damage h1min="10" h1max="22" />
+ </type>
+
+ <type name="Grave Wand" category="Wands" level="exceptional" tc="51">
+  <durability max="15" />
+  <require level="25" strength="25" />
+  <sockets amount="2" />
+  <speed necr="f" />
+  <damage h1min="13" h1max="29" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Polished Wand" category="Wands" level="elite" tc="57">
+  <durability max="22" />
+  <require level="41" strength="25" />
+  <sockets amount="2" />
+  <speed necr="f" />
+  <damage h1min="18" h1max="33" />
+ </type>
+
+ <type name="Ghost Wand" category="Wands" level="elite" tc="66">
+  <durability max="14" />
+  <require level="48" strength="25" />
+  <sockets amount="2" />
+  <speed necr="n" />
+  <damage h1min="20" h1max="42" />
+ </type>
+
+ <type name="Lich Wand" category="Wands" level="elite" tc="75">
+  <durability max="17" />
+  <require level="56" strength="25" />
+  <sockets amount="2" />
+  <speed necr="vf" />
+  <damage h1min="10" h1max="31" />
+ </type>
+
+ <type name="Unearthed Wand" category="Wands" level="elite" tc="87">
+  <durability max="18" />
+  <require level="64" strength="25" />
+  <sockets amount="2" />
+  <speed necr="f" />
+  <damage h1min="22" h1max="28" />
+ </type>
+
+</items>

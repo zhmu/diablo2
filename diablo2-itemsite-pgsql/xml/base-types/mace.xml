@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL, ONE HAND -->
+ <type name="Club" category="Mace" level="normal" tc="3">
+  <durability max="24" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="1" h1max="6" />
+ </type>
+
+ <type name="Spiked Club" category="Mace" level="normal" tc="6">
+  <durability max="36" />
+  <range amount="2" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="5" h1max="8" />
+ </type>
+
+ <type name="Mace" category="Mace" level="normal" tc="9">
+  <durability max="60" />
+  <require strength="27" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="3" h1max="10" />
+ </type>
+
+ <type name="Morning Star" category="Mace" level="normal" tc="15">
+  <durability max="72" />
+  <require strength="36" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="7" h1max="16" />
+ </type>
+
+ <type name="Flail" category="Mace" level="normal" tc="21">
+  <durability max="30" />
+  <require strength="41" dexterity="35" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="vf" asn="f" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="1" h1max="24" />
+ </type>
+
+ <type name="War Hammer" category="Mace" level="normal" tc="27">
+  <durability max="55" />
+  <require strength="53" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="19" h1max="29" />
+ </type>
+
+ <!-- NORMAL, TWO HAND -->
+ <type name="Maul" category="Mace" level="normal" tc="21">
+  <durability max="60" />
+  <require strength="69" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="30" h2max="43" />
+ </type>
+
+ <type name="Great Maul" category="Mace" level="normal" tc="33">
+  <durability max="60" />
+  <require strength="99" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="vs" asn="vs" bar="vs" dru="n" nec="s" pal="s" sor="n" />
+  <damage h2min="38" h2max="58" />
+ </type>
+
+ <!-- EXCEPTIONAL, ONE HAND -->
+ <type name="Cudgel" category="Mace" level="exceptional" tc="30">
+  <durability max="24" />
+  <require level="18" strength="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="6" h1max="21" />
+ </type>
+
+ <type name="Barbed Club" category="Mace" level="exceptional" tc="33">
+  <durability max="36" />
+  <require level="20" strength="20" />
+  <range amount="2" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="13" h1max="25" />
+ </type>
+
+ <type name="Flanged Mace" category="Mace" level="exceptional" tc="36">
+  <durability max="60" />
+  <require level="23" strength="61" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="15" h1max="23" />
+ </type>
+
+ <type name="Jagged Star" category="Mace" level="exceptional" tc="39">
+  <durability max="72" />
+  <require level="25" strength="74" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="20" h1max="31" />
+ </type>
+
+ <type name="Knout" category="Mace" level="exceptional" tc="45">
+  <durability max="30" />
+  <require level="25" strength="82" dexterity="73" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="13" h1max="35" />
+ </type>
+
+ <type name="Battle Hammer" category="Mace" level="exceptional" tc="48">
+  <durability max="55" />
+  <require level="25" strength="100" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="s" asn="n" bar="s" dru="s" nec="s" pal="n" sor="s" />
+  <damage h1min="35" h1max="58" />
+ </type>
+
+ <!-- EXCEPTIONAL, TWO HAND -->
+ <type name="War Club" category="Mace" level="exceptional" tc="45">
+  <durability max="60" />
+  <require level="25" strength="124" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="53" h2max="78" />
+ </type>
+
+ <type name="Martel de Fer" category="Mace" level="exceptional" tc="54">
+  <durability max="60" />
+  <require level="25" strength="169" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="vs" asn="vs" bar="vs" dru="n" nec="s" pal="s" sor="n" />
+  <damage h2min="61" h2max="99" />
+ </type>
+
+ <!-- ELITE, ONE HAND -->
+ <type name="Truncheon" category="Mace" level="elite" tc="54">
+  <durability max="29" />
+  <require level="39" strength="88" dexterity="43" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="35" h1max="43" />
+ </type>
+
+ <type name="Tyrant Club" category="Mace" level="elite" tc="57">
+  <durability max="45" />
+  <require level="42" strength="133" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="32" h1max="58" />
+ </type>
+
+ <type name="Reinforced Mace" category="Mace" level="elite" tc="63">
+  <durability max="60" />
+  <require level="47" strength="145" dexterity="46" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="41" h1max="49" />
+ </type>
+
+ <type name="Devil Star" category="Mace" level="elite" tc="72">
+  <durability max="72" />
+  <require level="52" strength="153" dexterity="44" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="43" h1max="53" />
+ </type>
+
+ <type name="Scourge" category="Mace" level="elite" tc="78">
+  <durability max="65" />
+  <require level="57" strength="125" dexterity="77" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="3" h1max="80" />
+ </type>
+
+ <type name="Legendary Mallet" category="Mace" level="elite" tc="84">
+  <durability max="65" />
+  <require level="61" strength="189" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="s" asn="n" bar="s" dru="s" nec="s" pal="n" sor="s" />
+  <damage h1min="50" h1max="61" />
+ </type>
+
+ <!-- ELITE, TWO HAND -->
+ <type name="Ogre Maul" category="Mace" level="elite" tc="69">
+  <durability max="60" />
+  <require level="51" strength="225" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="77" h2max="106" />
+ </type>
+
+ <type name="Thunder Maul" category="Mace" level="elite" tc="87">
+  <durability max="60" />
+  <require level="65" strength="253" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="vs" asn="vs" bar="vs" dru="n" nec="s" pal="s" sor="n" />
+  <damage h2min="33" h2max="180" />
+ </type>
+</items>

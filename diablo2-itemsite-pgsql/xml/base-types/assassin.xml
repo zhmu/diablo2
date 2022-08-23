@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Katar" category="Assassin" level="normal" tc="3">
+  <durability max="48" />
+  <sockets amount="2" />
+  <require strength="20" dexterity="20" />
+  <speed asa="vf" />
+  <damage h1min="4" h1max="7" />
+ </type>
+
+ <type name="Wrist Blade" category="Assassin" level="normal" tc="9">
+  <durability max="52" />
+  <sockets amount="2" />
+  <require strength="33" dexterity="33" />
+  <speed asa="vf" />
+  <damage h1min="5" h1max="9" />
+ </type>
+
+ <type name="Hatchet Hands" category="Assassin" level="normal" tc="12">
+  <durability max="56" />
+  <sockets amount="2" />
+  <require strength="37" dexterity="37" />
+  <speed asa="f" />
+  <damage h1min="2" h1max="15" />
+ </type>
+
+ <type name="Cestus" category="Assassin" level="normal" tc="15">
+  <durability max="72" />
+  <sockets amount="2" />
+  <require strength="42" dexterity="42" />
+  <speed asa="vf" />
+  <damage h1min="7" h1max="15" />
+ </type>
+
+ <type name="Claws" category="Assassin" level="normal" tc="18">
+  <durability max="64" />
+  <sockets amount="3" />
+  <require strength="46" dexterity="46" />
+  <speed asa="vf" />
+  <damage h1min="8" h1max="15" />
+ </type>
+
+ <type name="Blade Talons" category="Assassin" level="normal" tc="21">
+  <durability max="69" />
+  <sockets amount="3" />
+  <require strength="50" dexterity="50" />
+  <speed asa="vf" />
+  <damage h1min="10" h1max="14" />
+ </type>
+
+ <type name="Scissors Katar" category="Assassin" level="normal" tc="24">
+  <durability max="68" />
+  <sockets amount="3" />
+  <require strength="55" dexterity="55" />
+  <speed asa="vf" />
+  <damage h1min="9" h1max="17" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Quhab" category="Assassin" level="exceptional" tc="30">
+  <durability max="48" />
+  <sockets amount="3" />
+  <require level="21" strength="57" dexterity="57" />
+  <speed asa="vf" />
+  <damage h1min="11" h1max="24" />
+ </type>
+
+ <type name="Wrist Spike" category="Assassin" level="exceptional" tc="33">
+  <durability max="56" />
+  <sockets amount="2" />
+  <require level="24" strength="66" dexterity="66" />
+  <speed asa="vf" />
+  <damage h1min="13" h1max="27" />
+ </type>
+
+ <type name="Fascia" category="Assassin" level="exceptional" tc="36">
+  <durability max="64" />
+  <sockets amount="2" />
+  <require level="27" strength="69" dexterity="69" />
+  <speed asa="f" />
+  <damage h1min="8" h1max="37" />
+ </type>
+
+ <type name="Hand Scythe" category="Assassin" level="exceptional" tc="42">
+  <durability max="72" />
+  <sockets amount="2" />
+  <require level="30" strength="73" dexterity="73" />
+  <speed asa="vf" />
+  <damage h1min="16" h1max="37" />
+ </type>
+
+ <type name="Greater Claws" category="Assassin" level="exceptional" tc="45">
+  <durability max="52" />
+  <sockets amount="3" />
+  <require level="33" strength="79" dexterity="79" />
+  <speed asa="vf" />
+  <damage h1min="21" h1max="35" />
+ </type>
+
+ <type name="Greater Talons" category="Assassin" level="exceptional" tc="51">
+  <durability max="69" />
+  <sockets amount="3" />
+  <require level="37" strength="79" dexterity="79" />
+  <speed asa="vf" />
+  <damage h1min="21" h1max="35" />
+ </type>
+
+ <type name="Scissors Quhab" category="Assassin" level="exceptional" tc="54">
+  <durability max="68" />
+  <sockets amount="3" />
+  <require level="40" strength="82" dexterity="82" />
+  <speed asa="vf" />
+  <damage h1min="19" h1max="40" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Suwayyah" category="Assassin" level="elite" tc="60">
+  <durability max="48" />
+  <sockets amount="3" />
+  <require level="44" strength="99" dexterity="99" />
+  <speed asa="vf" />
+  <damage h1min="39" h1max="52" />
+ </type>
+
+ <type name="Wrist Sword" category="Assassin" level="elite" tc="63">
+  <durability max="56" />
+  <sockets amount="2" />
+  <require level="46" strength="105" dexterity="105" />
+  <speed asa="vf" />
+  <damage h1min="34" h1max="45" />
+ </type>
+
+ <type name="War Fist" category="Assassin" level="elite" tc="69">
+  <durability max="64" />
+  <sockets amount="2" />
+  <require level="51" strength="108" dexterity="108" />
+  <speed asa="f" />
+  <damage h1min="44" h1max="53" />
+ </type>
+
+ <type name="Battle Cestus" category="Assassin" level="elite" tc="75">
+  <durability max="72" />
+  <sockets amount="2" />
+  <require level="54" strength="110" dexterity="110" />
+  <speed asa="vf" />
+  <damage h1min="36" h1max="42" />
+ </type>
+
+ <type name="Feral Claws" category="Assassin" level="elite" tc="78">
+  <durability max="52" />
+  <sockets amount="3" />
+  <require level="58" strength="113" dexterity="113" />
+  <speed asa="vf" />
+  <damage h1min="22" h1max="53" />
+ </type>
+
+ <type name="Runic Talons" category="Assassin" level="elite" tc="81">
+  <durability max="69" />
+  <sockets amount="3" />
+  <require level="60" strength="115" dexterity="115" />
+  <speed asa="vf" />
+  <damage h1min="24" h1max="44" />
+ </type>
+
+ <type name="Scissors Suwayyah" category="Assassin" level="elite" tc="87">
+  <durability max="68" />
+  <sockets amount="3" />
+  <require level="64" strength="118" dexterity="118" />
+  <speed asa="vf" />
+  <damage h1min="40" h1max="51" />
+ </type>
+
+</items>

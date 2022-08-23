@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL, BOWS -->
+ <type name="Stag Bow" category="Amazon" level="normal" tc="18">
+  <sockets amount="5" />
+  <require level="14" strength="30" dexterity="45" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="7" h2max="12" />
+ </type>
+
+ <type name="Reflex Bow" category="Amazon" level="normal" tc="27">
+  <sockets amount="5" />
+  <require level="20" strength="35" dexterity="60" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="9" h2max="19" />
+ </type>
+
+ <!-- NORMAL, SPEARS/JAVELINS -->
+ <type name="Maiden Spear" category="Amazon" level="normal" tc="18">
+  <durability max="28" />
+  <sockets amount="6" />
+  <require level="14" strength="54" dexterity="40" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h1min="18" h1max="24" />
+ </type>
+
+ <type name="Maiden Pike" category="Amazon" level="normal" tc="27">
+  <durability max="25" />
+  <sockets amount="6" />
+  <require level="20" strength="63" dexterity="52" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h2min="23" h2max="55" />
+ </type>
+
+ <type name="Maiden Javelin" category="Amazon" level="normal" tc="24">
+  <require level="17" strength="33" dexterity="47" />
+  <class type="Javelin" />
+  <stack max="80" />
+  <speed ama="vf" />
+  <damage throwmin="6" throwmax="22" h1min="8" h1max="14" />
+ </type>
+
+ <!-- EXCEPTIONAL, BOWS -->
+ <type name="Ashwood Bow" category="Amazon" level="exceptional" tc="39">
+  <sockets amount="5" />
+  <require level="29" strength="56" dexterity="77" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="16" h2max="29" />
+ </type>
+
+ <type name="Ceremonial Bow" category="Amazon" level="exceptional" tc="36">
+  <sockets amount="5" />
+  <require level="35" strength="73" dexterity="110" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="19" h2max="41" />
+ </type>
+
+ <!-- EXCEPTIONAL, SPEARS/JAVELINS -->
+ <type name="Ceremonial Spear" category="Amazon" level="exceptional" tc="45">
+  <durability max="28" />
+  <sockets amount="6" />
+  <require level="32" strength="101" dexterity="80" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h2min="34" h2max="51" />
+ </type>
+
+ <type name="Ceremonial Pike" category="Amazon" level="exceptional" tc="51">
+  <durability max="25" />
+  <sockets amount="6" />
+  <require level="38" strength="115" dexterity="98" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h2min="42" h2max="101" />
+ </type>
+
+ <type name="Ceremonial Javelin" category="Amazon" level="exceptional" tc="36">
+  <require level="26" strength="25" dexterity="109" />
+  <class type="Javelin" />
+  <stack max="80" />
+  <speed ama="vf" />
+  <damage throwmin="18" throwmax="54" h1min="18" h1max="35" />
+ </type>
+
+ <!-- ELITE, BOWS -->
+ <type name="Matriarchal Bow" category="Amazon" level="elite" tc="54">
+  <sockets amount="5" />
+  <require level="39" strength="87" dexterity="187" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="20" h2max="47" />
+ </type>
+
+ <type name="Grand Matron Bow" category="Amazon" level="elite" tc="78">
+  <sockets amount="5" />
+  <require level="58" strength="108" dexterity="152" />
+  <class type="Bow" />
+  <speed ama="f" />
+  <damage h2min="14" h2max="72" />
+ </type>
+
+ <!-- ELITE, SPEARS/JAVELINS -->
+ <type name="Matriarchal Spear" category="Amazon" level="elite" tc="63">
+  <durability max="28" />
+  <sockets amount="6" />
+  <require level="45" strength="114" dexterity="142" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h2min="65" h2max="95" />
+ </type>
+
+ <type name="Matriarchal Pike" category="Amazon" level="elite" tc="81">
+  <durability max="25" />
+  <sockets amount="6" />
+  <require level="60" strength="132" dexterity="149" />
+  <class type="Spear" />
+  <speed ama="n" />
+  <damage h2min="37" h2max="153" />
+ </type>
+
+ <type name="Matriarchal Javelin" category="Amazon" level="elite" tc="66">
+  <require level="48" strength="107" dexterity="151" />
+  <class type="Javelin" />
+  <stack max="80" />
+  <speed ama="vf" />
+  <damage throwmin="35" throwmax="66" h1min="30" h1max="54" />
+ </type>
+</items>

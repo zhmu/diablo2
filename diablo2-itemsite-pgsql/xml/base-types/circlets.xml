@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<items>
+ <type name="Circlet" category="Helm" level="normal" tc="24">
+  <durability max="35" />
+  <require level="16" />
+  <sockets amount="2" />
+  <defense min="20" max="30" />
+ </type>
+
+ <type name="Coronet" category="Helm" level="normal" tc="54">
+  <durability max="30" />
+  <require level="39" />
+  <sockets amount="2" />
+  <defense min="30" max="40" />
+ </type>
+
+ <type name="Tiara" category="Helm" level="normal" tc="72">
+  <durability max="25" />
+  <require level="52" />
+  <sockets amount="3" />
+  <defense min="40" max="50" />
+ </type>
+
+ <type name="Diadem" category="Helm" level="normal" tc="87">
+  <durability max="20" />
+  <require level="64" />
+  <sockets amount="3" />
+  <defense min="50" max="60" />
+ </type>
+</items>

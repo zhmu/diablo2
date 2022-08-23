@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Quilted Armor" category="Armor" level="normal" tc="3">
+  <durability max="20" />
+  <require strength="12" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="8" max="11" />
+ </type>
+
+ <type name="Leather Armor" category="Armor" level="normal" tc="3">
+  <durability max="24" />
+  <require strength="15" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="14" max="17" />
+ </type>
+
+ <type name="Hard Leather Armor" category="Armor" level="normal" tc="6">
+  <durability max="28" />
+  <require strength="20" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="21" max="24" />
+ </type>
+
+ <type name="Studded Leather" category="Armor" level="normal" tc="9">
+  <durability max="32" />
+  <require strength="27" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="32" max="35" />
+ </type>
+
+ <type name="Ring Mail" category="Armor" level="normal" tc="12">
+  <durability max="36" />
+  <require strength="44" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="45" max="48" />
+ </type>
+
+ <type name="Scale Mail" category="Armor" level="normal" tc="15">
+  <durability max="36" />
+  <require strength="44" />
+  <sockets amount="2" />
+  <weight type="heavy" />
+  <defense min="57" max="60" />
+ </type>
+
+ <type name="Breast Plate" category="Armor" level="normal" tc="18">
+  <durability max="50" />
+  <require strength="30" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="65" max="68" />
+ </type>
+
+ <type name="Chain Mail" category="Armor" level="normal" tc="15">
+  <durability max="45" />
+  <require strength="48" />
+  <sockets amount="2" />
+  <weight type="medium" />
+  <defense min="72" max="75" />
+ </type>
+
+ <type name="Splint Mail" category="Armor" level="normal" tc="21">
+  <durability max="30" />
+  <require strength="51" />
+  <sockets amount="2" />
+  <weight type="medium" />
+  <defense min="90" max="95" />
+ </type>
+
+ <type name="Light Plate" category="Armor" level="normal" tc="36">
+  <durability max="60" />
+  <require strength="41" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="90" max="107" />
+ </type>
+
+ <type name="Field Plate" category="Armor" level="normal" tc="30">
+  <durability max="48" />
+  <require strength="55" />
+  <sockets amount="2" />
+  <weight type="medium" />
+  <defense min="101" max="105" />
+ </type>
+
+ <type name="Plate Mail" category="Armor" level="normal" tc="24">
+  <durability max="60" />
+  <require strength="65" />
+  <sockets amount="2" />
+  <weight type="heavy" />
+  <defense min="108" max="116" />
+ </type>
+
+ <type name="Gothic Plate" category="Armor" level="normal" tc="33">
+  <durability max="55" />
+  <require strength="70" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="128" max="135" />
+ </type>
+
+ <type name="Full Plate Mail" category="Armor" level="normal" tc="39">
+  <durability max="70" />
+  <require strength="80" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="150" max="161" />
+ </type>
+
+ <type name="Ancient Armor" category="Armor" level="normal" tc="42">
+  <durability max="60" />
+  <require strength="100" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="218" max="233" />
+ </type>
+
+ <!-- exceptional -->
+
+ <type name="Ghost Armor" category="Armor" level="exceptional" tc="36">
+  <durability max="20" />
+  <require level="22" strength="38" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="102" max="117" />
+ </type>
+
+ <type name="Serpentskin Armor" category="Armor" level="exceptional" tc="36">
+  <durability max="24" />
+  <require level="24" strength="43" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="111" max="126" />
+ </type>
+
+ <type name="Demonhide Armor" category="Armor" level="exceptional" tc="39">
+  <durability max="28" />
+  <require level="25" strength="50" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="122" max="136" />
+ </type>
+
+ <type name="Trellised Armor" category="Armor" level="exceptional" tc="42">
+  <durability max="32" />
+  <require level="25" strength="61" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="138" max="153" />
+ </type>
+
+ <type name="Linked Mail" category="Armor" level="exceptional" tc="42">
+  <durability max="26" />
+  <require level="25" strength="74" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="158" max="172" />
+ </type>
+
+ <type name="Tigulated Mail" category="Armor" level="exceptional" tc="45">
+  <durability max="36" />
+  <require level="25" strength="86" />
+  <sockets amount="3" />
+  <weight type="heavy" />
+  <defense min="176" max="190" />
+ </type>
+
+ <type name="Cuirass" category="Armor" level="exceptional" tc="48">
+  <durability max="50" />
+  <require level="25" strength="65" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="188" max="202" />
+ </type>
+
+ <type name="Mesh Armor" category="Armor" level="exceptional" tc="45">
+  <durability max="45" />
+  <require level="25" strength="92" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="198" max="213" />
+ </type>
+
+ <type name="Russet Armor" category="Armor" level="exceptional" tc="51">
+  <durability max="30" />
+  <require level="25" strength="97" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="225" max="243" />
+ </type>
+
+ <type name="Mage Plate" category="Armor" level="exceptional" tc="60">
+  <durability max="60" />
+  <require level="25" strength="55" />
+  <sockets amount="3" />
+  <weight type="light" />
+  <defense min="225" max="261" />
+ </type>
+
+ <type name="Sharktooth Armor" category="Armor" level="exceptional" tc="57">
+  <durability max="48" />
+  <require level="25" strength="103" />
+  <sockets amount="3" />
+  <weight type="medium" />
+  <defense min="242" max="258" />
+ </type>
+
+ <type name="Templar Coat" category="Armor" level="exceptional" tc="54">
+  <durability max="60" />
+  <require level="25" strength="118" />
+  <sockets amount="3" />
+  <weight type="heavy" />
+  <defense min="252" max="274" />
+ </type>
+
+ <type name="Embossed Plate" category="Armor" level="exceptional" tc="60">
+  <durability max="55" />
+  <require level="25" strength="125" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="282" max="303" />
+ </type>
+
+ <type name="Chaos Armor" category="Armor" level="exceptional" tc="63">
+  <durability max="70" />
+  <require level="25" strength="140" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="315" max="342" />
+ </type>
+
+ <type name="Ornate Plate" category="Armor" level="exceptional" tc="66">
+  <durability max="60" />
+  <require level="25" strength="170" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="417" max="450" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Dusk Shroud" category="Armor" level="elite" tc="66">
+  <durability max="20" />
+  <require level="49" strength="77" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="361" max="467" />
+ </type>
+
+ <type name="Wyrmhide" category="Armor" level="elite" tc="69">
+  <durability max="24" />
+  <require level="50" strength="84" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="364" max="470" />
+ </type>
+
+ <type name="Scarab Husk" category="Armor" level="elite" tc="69">
+  <durability max="28" />
+  <require level="51" strength="95" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="369" max="474" />
+ </type>
+
+ <type name="Wire Fleece" category="Armor" level="elite" tc="72">
+  <durability max="32" />
+  <require level="53" strength="111" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="375" max="481" />
+ </type>
+
+ <type name="Diamond Mail" category="Armor" level="elite" tc="72">
+  <durability max="26" />
+  <require level="54" strength="131" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="375" max="489" />
+ </type>
+
+ <type name="Loricated Mail" category="Armor" level="elite" tc="75">
+  <durability max="36" />
+  <require level="55" strength="149" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="390" max="496" />
+ </type>
+
+ <type name="Great Hauberk" category="Armor" level="elite" tc="75">
+  <durability max="50" />
+  <require level="56" strength="118" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="395" max="501" />
+ </type>
+
+ <type name="Boneweave" category="Armor" level="elite" tc="63">
+  <durability max="45" />
+  <require level="47" strength="158" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="399" max="505" />
+ </type>
+
+ <type name="Balrog Skin" category="Armor" level="elite" tc="78">
+  <durability max="30" />
+  <require level="57" strength="165" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="410" max="517" />
+ </type>
+
+ <type name="Archon Plate" category="Armor" level="elite" tc="84">
+  <durability max="60" />
+  <require level="63" strength="103" />
+  <sockets amount="4" />
+  <weight type="light" />
+  <defense min="410" max="524" />
+ </type>
+
+ <type name="Kraken Shell" category="Armor" level="elite" tc="81">
+  <durability max="48" />
+  <require level="61" strength="174" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="417" max="523" />
+ </type>
+
+ <type name="Hellforge Plate" category="Armor" level="elite" tc="78">
+  <durability max="60" />
+  <require level="59" strength="196" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="421" max="530" />
+ </type>
+
+ <type name="Lacquered Plate" category="Armor" level="elite" tc="84">
+  <durability max="55" />
+  <require level="62" strength="208" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="433" max="541" />
+ </type>
+
+ <type name="Shadow Plate" category="Armor" level="elite" tc="87">
+  <durability max="70" />
+  <require level="64" strength="230" />
+  <sockets amount="4" />
+  <weight type="heavy" />
+  <defense min="446" max="557" />
+ </type>
+
+ <type name="Sacred Armor" category="Armor" level="elite" tc="90">
+  <durability max="60" />
+  <require level="66" strength="232" />
+  <sockets amount="4" />
+  <weight type="medium" />
+  <defense min="487" max="600" />
+ </type>
+</items>

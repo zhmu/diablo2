@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Boots" category="Boots" level="normal" tc="3">
+  <durability max="12" />
+  <defense min="2" max="3" />
+  <kick_damage min="3" max="8" />
+ </type>
+
+ <type name="Heavy Boots" category="Boots" level="normal" tc="9">
+  <durability max="14" />
+  <require strength="18" />
+  <defense min="5" max="6" />
+  <kick_damage min="4" max="10" />
+ </type>
+
+ <type name="Chain Boots" category="Boots" level="normal" tc="12">
+  <durability max="16" />
+  <require strength="30" />
+  <defense min="8" max="9" />
+  <kick_damage min="6" max="12" />
+ </type>
+
+ <type name="Light Plated Boots" category="Boots" level="normal" tc="21">
+  <durability max="18" />
+  <require strength="50" />
+  <defense min="9" max="11" />
+  <kick_damage min="8" max="16" />
+ </type>
+
+ <type name="Greaves" category="Boots" level="normal" tc="27">
+  <durability max="24" />
+  <require strength="70" />
+  <defense min="12" max="15" />
+  <kick_damage min="10" max="20" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Demonhide Boots" category="Boots" level="exceptional" tc="36">
+  <durability max="12" />
+  <require level="24" strength="20" />
+  <defense min="28" max="35" />
+  <kick_damage min="26" max="46" />
+ </type>
+
+ <type name="Sharkskin Boots" category="Boots" level="exceptional" tc="39">
+  <durability max="14" />
+  <require level="25" strength="47" />
+  <defense min="33" max="39" />
+  <kick_damage min="28" max="50" />
+ </type>
+
+ <type name="Mesh Boots" category="Boots" level="exceptional" tc="45">
+  <durability max="16" />
+  <require level="25" strength="65" />
+  <defense min="37" max="44" />
+  <kick_damage min="23" max="52" />
+ </type>
+
+ <type name="Battle Boots" category="Boots" level="exceptional" tc="51">
+  <durability max="18" />
+  <require level="25" strength="95" />
+  <defense min="39" max="47" />
+  <kick_damage min="37" max="64" />
+ </type>
+
+ <type name="War Boots" category="Boots" level="exceptional" tc="54">
+  <durability max="24" />
+  <require level="25" strength="125" />
+  <defense min="43" max="53" />
+  <kick_damage min="39" max="80" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Wyrmhide Boots" category="Boots" level="elite" tc="60">
+  <durability max="12" />
+  <require level="45" strength="50" />
+  <defense min="54" max="62" />
+  <kick_damage min="65" max="100" />
+ </type>
+
+ <type name="Scarabshell Boots" category="Boots" level="elite" tc="66">
+  <durability max="14" />
+  <require level="49" strength="91" />
+  <defense min="56" max="65" />
+  <kick_damage min="60" max="110" />
+ </type>
+
+ <type name="Boneweave Boots" category="Boots" level="elite" tc="72">
+  <durability max="16" />
+  <require level="65" strength="118" />
+  <defense min="59" max="67" />
+  <kick_damage min="69" max="118" />
+ </type>
+
+ <type name="Mirrored Boots" category="Boots" level="elite" tc="81">
+  <durability max="18" />
+  <require level="60" strength="163" />
+  <defense min="59" max="68" />
+  <kick_damage min="50" max="145" />
+ </type>
+
+ <type name="Myrmidon Greaves" category="Boots" level="elite" tc="87">
+  <durability max="24" />
+  <require level="65" strength="208" />
+  <defense min="62" max="71" />
+  <kick_damage min="83" max="149" />
+ </type>
+</items>

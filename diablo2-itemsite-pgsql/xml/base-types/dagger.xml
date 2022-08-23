@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Dagger" category="Dagger" level="normal" tc="3">
+  <durability max="16" />
+  <sockets amount="1" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="1" h1max="4" />
+ </type>
+
+ <type name="Dirk" category="Dagger" level="normal" tc="9">
+  <durability max="20" />
+  <sockets amount="1" />
+  <require dexterity="25" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage h1min="3" h1max="9" />
+ </type>
+
+ <type name="Kris" category="Dagger" level="normal" tc="18">
+  <durability max="24" />
+  <sockets amount="3" />
+  <require dexterity="45" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="2" h1max="11" />
+ </type>
+
+ <type name="Blade" category="Dagger" level="normal" tc="24">
+  <sockets amount="2" />
+  <durability max="24" />
+  <require strength="35" dexterity="51" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage h1min="4" h1max="15" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Poignard" category="Dagger" level="exceptional" tc="33">
+  <durability max="16" />
+  <sockets amount="1" />
+  <require level="19" strength="25" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="6" h1max="18" />
+ </type>
+
+ <type name="Rondel" category="Dagger" level="exceptional" tc="36">
+  <durability max="20" />
+  <sockets amount="1" />
+  <require level="24" strength="25" dexterity="58" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage h1min="10" h1max="26" />
+ </type>
+
+ <type name="Cinquedeas" category="Dagger" level="exceptional" tc="42">
+  <durability max="24" />
+  <sockets amount="3" />
+  <require level="25" strength="25" dexterity="88" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="15" h1max="31" />
+ </type>
+
+ <type name="Stiletto" category="Dagger" level="exceptional" tc="48">
+  <durability max="24" />
+  <sockets amount="2" />
+  <require level="25" strength="73" dexterity="97" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage h1min="19" h1max="36" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Bone Knife" category="Dagger" level="elite" tc="60">
+  <durability max="26" />
+  <sockets amount="1" />
+  <require level="43" strength="38" dexterity="75" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="23" h1max="49" />
+ </type>
+
+ <type name="Mithril Point" category="Dagger" level="elite" tc="72">
+  <durability max="55" />
+  <sockets amount="1" />
+  <require level="52" strength="55" dexterity="98" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage h1min="37" h1max="53" />
+ </type>
+
+ <type name="Fanged Knife" category="Dagger" level="elite" tc="84">
+  <durability max="36" />
+  <sockets amount="3" />
+  <require level="62" strength="52" dexterity="86" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h1min="15" h1max="57" />
+ </type>
+
+ <type name="Legend Spike" category="Dagger" level="elite" tc="90">
+  <durability max="47" />
+  <sockets amount="2" />
+  <require level="66" strength="65" dexterity="67" />
+  <speed ama="vf" asn="vf" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage h1min="31" h1max="47" />
+ </type>
+</items>

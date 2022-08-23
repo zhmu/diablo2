@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Light Crossbow" category="Crossbow" level="normal" tc="6">
+  <sockets amount="3" />
+  <require strength="21" dexterity="27" />
+  <speed ama="n" asn="n" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="6" h2max="9" />
+ </type>
+
+ <type name="Crossbow" category="Crossbow" level="normal" tc="15">
+  <sockets amount="4" />
+  <require strength="40" dexterity="33" />
+  <speed ama="s" asn="s" bar="s" dru="n" nec="n" pal="s" sor="n" />
+  <damage h2min="9" h2max="16" />
+ </type>
+
+ <type name="Heavy Crossbow" category="Crossbow" level="normal" tc="24">
+  <sockets amount="6" />
+  <require strength="60" dexterity="40" />
+  <speed ama="vs" asn="vs" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="14" h2max="26" />
+ </type>
+
+ <type name="Repeating Crossbow" category="Crossbow" level="normal" tc="33">
+  <sockets amount="5" />
+  <require strength="40" dexterity="50" />
+  <speed ama="f" asn="f" bar="f" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage h2min="6" h2max="12" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Arbalest" category="Crossbow" level="exceptional" tc="36">
+  <sockets amount="3" />
+  <require level="22" strength="52" dexterity="61" />
+  <speed ama="n" asn="n" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="14" h2max="27" />
+ </type>
+
+ <type name="Siege Crossbow" category="Crossbow" level="exceptional" tc="42">
+  <sockets amount="4" />
+  <require level="25" strength="80" dexterity="70" />
+  <speed ama="s" asn="s" bar="s" dru="n" nec="n" pal="s" sor="n" />
+  <damage h2min="20" h2max="42" />
+ </type>
+
+ <type name="Ballista" category="Crossbow" level="exceptional" tc="48">
+  <sockets amount="6" />
+  <require level="25" strength="110" dexterity="80" />
+  <speed ama="vs" asn="vs" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="33" h2max="55" />
+ </type>
+
+ <type name="Chu-Ko-Nu" category="Crossbow" level="exceptional" tc="54">
+  <sockets amount="5" />
+  <require level="25" strength="80" dexterity="95" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="vf" />
+  <damage h2min="14" h2max="32" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Pellet Bow" category="Crossbow" level="elite" tc="57">
+  <sockets amount="3" />
+  <require level="42" strength="83" dexterity="155" />
+  <speed ama="n" asn="n" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="28" h2max="73" />
+ </type>
+
+ <type name="Gorgon Crossbow" category="Crossbow" level="elite" tc="69">
+  <sockets amount="4" />
+  <require level="50" strength="117" dexterity="105" />
+  <speed ama="s" asn="s" bar="s" dru="n" nec="n" pal="s" sor="n" />
+  <damage h2min="25" h2max="87" />
+ </type>
+
+ <type name="Colossus Crossbow" category="Crossbow" level="elite" tc="75">
+  <sockets amount="6" />
+  <require level="56" strength="163" dexterity="77" />
+  <speed ama="vs" asn="vs" bar="s" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="32" h2max="91" />
+ </type>
+
+ <type name="Demon Crossbow" category="Crossbow" level="elite" tc="84">
+  <sockets amount="5" />
+  <require level="63" strength="141" dexterity="98" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="vf" />
+  <damage h2min="26" h2max="40" />
+ </type>
+</items>

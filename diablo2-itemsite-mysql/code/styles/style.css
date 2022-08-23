@@ -1,0 +1,64 @@
+BODY {
+   background: #234567;
+   color: #ffff00;
+   font-family: Verdana;
+   font-size: 12 px;
+   margin: 3px;
+}
+
+A.set_noitems {
+   color: #ff0000;
+   font-weight: bold;
+}
+
+A.set_items {
+   color: #c0c0c0;
+   font-weight: bold;
+}
+
+A.set_allitems {
+   color: #00ff00;
+   font-weight: bold;
+}
+
+A {
+    color: #ffff00;
+}
+
+A:hover {
+    text-decoration: none;
+}  
+
+A.setitem_notowner {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+A.setitem_owner {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+A.uniqitem_owner {
+    color: #00ff00;
+    text-decoration: none;
+}
+
+A.uniqitem_notowner {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+TABLE.toptab {
+    font-size: 12px;
+}
+
+TR.tabrow {
+    background: #234567;
+}
+
+TABLE.defaultab {
+    font-size: 12px;
+}
+
+TR.

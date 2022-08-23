@@ -1,0 +1,235 @@
+BODY {
+	background-color: #56789a;
+	margin: 0px 0px 0px 0px;
+}
+
+A {
+	color: #ffff00;
+}
+
+A:hover {
+	text-decoration: none;
+}
+
+IMG {
+	border: 0px;
+}
+
+DIV.logo {
+	margin: 0 auto;
+	width: 200px;
+}
+
+DIV.menubar { width: 100%; }
+TABLE.topmenucontainer { width: 100%; }
+TABLE.topmenucontainer TD.edge { width: 5%; }
+
+TABLE.topmenu {
+	/* The three lines below ensure we get the top menu centered */
+	margin: 0 auto;
+	width: 90%;
+	border: 1px solid #a0a0a0;
+	background-color: #000000;
+}
+
+TABLE.topmenu TD {
+	text-align: center;
+	width: 16%;
+}
+
+TABLE.topmenu A {
+	font-size: 16px;
+	color: #ffff00;
+}
+
+TD.maincontent {
+	color: #ffff00;
+}
+
+DIV.copyrightbar {
+	border-top: 1px #c0c0c0 dashed;
+	text-align: right;
+	padding: 4px;
+	font-size: 10px;
+}
+
+TABLE.itemtab {
+	width: 100%;
+	background-color: #c0c0c0;
+}
+
+TABLE.itemtab TD {
+	background-color: #000000;
+}
+
+TABLE.itemtab TD.iteminfo  {
+	width: 30%;
+	font-size: 12px;
+	text-align: center;
+}
+
+TABLE.itemtab TD.itemdescr {
+	font-family: "Tahoma","Verdana","Arial";
+	font-size: 14px;
+}
+BODY {
+	background-color: #56789a;
+	margin: 0px 0px 0px 0px;
+}
+
+DIV.logo {
+	margin: 0 auto;
+	width: 200px;
+}
+
+DIV.menubar { width: 100%; }
+TABLE.topmenucontainer { width: 100%; }
+TABLE.topmenucontainer TD.edge { width: 5%; }
+
+TABLE.topmenu {
+	/* The three lines below ensure we get the top menu centered */
+	margin: 0 auto;
+	width: 90%;
+	border: 1px solid #a0a0a0;
+	background-color: #000000;
+}
+
+TABLE.topmenu TD {
+	text-align: center;
+}
+
+TABLE.topmenu A {
+	font-size: 16px;
+	color: #ffff00;
+}
+
+TD.maincontent {
+	color: #ffff00;
+}
+
+DIV.copyrightbar {
+	border-top: 1px #c0c0c0 dashed;
+	text-align: right;
+	padding: 4px;
+	font-size: 10px;
+}
+
+TABLE.itemtab {
+	width: 100%;
+	font-family: "Tahoma","Verdana","Arial";
+	/* The two lines below are the CSS equivalent of CELLSPACING; they
+	 * are used to make the nice black background with tiny grayish
+	 * borders */
+	background-color: #404040;
+	border-spacing: 1px;
+}
+
+TABLE.itemtab TD {
+	background-color: #000000;
+	padding: 10px;
+}
+
+TABLE.itemtab TD.iteminfo  {
+	width: 30%;
+	font-size: 12px;
+	text-align: center;
+}
+
+TABLE.itemtab TD.itemdescr {
+	font-size: 12px;
+}
+
+TABLE.itemtab TD.iteminfo DIV.itemname {
+}
+
+TABLE.itemtab TD.iteminfo A.setitemlink {
+	font-weight: bold;
+	color: #00ff00;
+}
+
+TABLE.itemtab TD.iteminfo A.uniqueitemlink {
+	font-weight: bold;
+	color: #908858;
+}
+
+TABLE.itemtab TD.itemdescr DIV.itemprops {
+	color: #4870f8;
+}
+
+TABLE.itemtab TD.itemdescr B.itemprops {
+	color: #4870f8;
+}
+
+TABLE.itemtab TD.itemdescr B.itemowned {
+	color: #00ff00;
+}
+
+TABLE.itemtab TD.itemdescr B.noneowned {
+	color: #ff0000;
+}
+
+TABLE.itemtab TD.itemdescr B.etherowned {
+	color: #666666;
+}
+
+TABLE.itemtab TD.ownerinfo {
+	text-align: center;
+}
+
+A.set {
+	font-weight: bold;
+}
+
+A.setnone {
+	font-weight: bold;
+	color: #aaaaaa;
+}
+
+A.setcomplete {
+	color: #00ff00;
+	font-weight: bold;
+}
+
+A.setcomplete {
+	color: #00ff00;
+	font-weight: bold;
+}
+
+A.setnone {
+	color: #ff0000;
+	font-weight: bold;
+}
+
+A.setpartial {
+	color: #aaaaaa;
+	font-weight: bold;
+}
+
+TABLE.itemtab TD.header {
+	font-size: 16pt;
+	text-align: center;
+}
+
+TABLE.itemtab TR.overviewrow B.haveplenty {
+	color: #00ff00;
+}
+
+TABLE.itemtab TR.overviewrow B.havenone {
+	color: #ff0000;
+}
+
+TABLE.itemtab TR.overviewrow A.uniqueitem {
+	color: #908858;
+}
+
+TABLE.itemtab TR.overviewrow A.setitem {
+	color: #00ff00;
+}
+
+TABLE.itemtab TR.overviewrow DIV.itemtype {
+	font-size: 10px;
+}
+
+B.lowtc { color: #00ff00; }
+B.mediumtc { color: #aaaaaa; }
+B.hightc { color: #ff0000; }

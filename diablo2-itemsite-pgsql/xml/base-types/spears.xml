@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Spear" category="Spear" level="normal" tc="6">
+  <durability max="30" />
+  <range amount="4" />
+  <sockets amount="3" />
+  <speed ama="f" asn="s" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="3" h2max="15" />
+ </type>
+
+ <type name="Trident" category="Spear" level="normal" tc="9">
+  <durability max="35" />
+  <require strength="38" dexterity="24" />
+  <range amount="4" />
+  <sockets amount="4" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="9" h2max="15" />
+ </type>
+
+ <type name="Brandistock" category="Spear" level="normal" tc="18">
+  <durability max="28" />
+  <require strength="40" dexterity="50" />
+  <range amount="5" />
+  <sockets amount="5" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="7" h2max="17" />
+ </type>
+
+ <type name="Spetum" category="Spear" level="normal" tc="21">
+  <durability max="28" />
+  <require strength="54" dexterity="35" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="15" h2max="23" />
+ </type>
+
+ <type name="Pike" category="Spear" level="normal" tc="6">
+  <durability max="25" />
+  <require strength="60" dexterity="45" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="vs" bar="vs" dru="vs" nec="vs" pal="vs" sor="vs" />
+  <damage h2min="14" h2max="63" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="War Spear" category="Spear" level="exceptional" tc="33">
+  <durability max="30" />
+  <require level="21" strength="25" dexterity="25" />
+  <range amount="4" />
+  <sockets amount="3" />
+  <speed ama="f" asn="s" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="10" h2max="37" />
+ </type>
+
+ <type name="Fuscina" category="Spear" level="exceptional" tc="36">
+  <durability max="35" />
+  <require level="24" strength="77" dexterity="25" />
+  <range amount="4" />
+  <sockets amount="4" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="19" h2max="37" />
+ </type>
+
+ <type name="War Fork" category="Spear" level="exceptional" tc="42">
+  <durability max="28" />
+  <require level="25" strength="80" dexterity="95" />
+  <range amount="5" />
+  <sockets amount="5" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="16" h2max="40" />
+ </type>
+
+ <type name="Yari" category="Spear" level="exceptional" tc="45">
+  <durability max="28" />
+  <require level="25" strength="101" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="29" h2max="59" />
+ </type>
+
+ <type name="Lance" category="Spear" level="exceptional" tc="48">
+  <durability max="25" />
+  <require level="25" strength="110" dexterity="68" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="vs" bar="vs" dru="vs" nec="vs" pal="vs" sor="vs" />
+  <damage h2min="27" h2max="114" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Hyperion Spear" category="Spear" level="elite" tc="60">
+  <durability max="30" />
+  <require level="43" strength="155" dexterity="120" />
+  <range amount="4" />
+  <sockets amount="3" />
+  <speed ama="f" asn="s" bar="n" dru="n" nec="n" pal="n" sor="n" />
+  <damage h2min="35" h2max="119" />
+ </type>
+
+ <type name="Stygian Pike" category="Spear" level="elite" tc="66">
+  <durability max="35" />
+  <require level="49" strength="168" dexterity="97" />
+  <range amount="4" />
+  <sockets amount="4" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="29" h2max="144" />
+ </type>
+
+ <type name="Mancatcher" category="Spear" level="elite" tc="75">
+  <durability max="28" />
+  <require level="55" strength="132" dexterity="134" />
+  <range amount="5" />
+  <sockets amount="5" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="42" h2max="92" />
+ </type>
+
+ <type name="Ghost Spear" category="Spear" level="elite" tc="84">
+  <durability max="28" />
+  <require level="62" strength="122" dexterity="163" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="n" asn="vs" bar="n" dru="s" nec="s" pal="s" sor="s" />
+  <damage h2min="18" h2max="155" />
+ </type>
+
+ <type name="War Pike" category="Spear" level="elite" tc="90">
+  <durability max="25" />
+  <require level="66" strength="165" dexterity="106" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="vs" bar="vs" dru="vs" nec="vs" pal="vs" sor="vs" />
+  <damage h2min="33" h2max="178" />
+ </type>
+
+</items>

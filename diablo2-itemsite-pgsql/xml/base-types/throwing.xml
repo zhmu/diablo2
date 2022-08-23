@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Throwing Knife" category="Throwing" level="normal" tc="3">
+  <require dexterity="21" />
+  <stack max="160" />
+  <class type="Dagger" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="4" throwmax="9" min="2" max="3" />
+ </type>
+
+ <type name="Balanced Knife" category="Throwing" level="normal" tc="15">
+  <require dexterity="51" />
+  <stack max="160" />
+  <class type="Dagger" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage throwmin="6" throwmax="11" min="1" max="8" />
+ </type>
+
+ <type name="Throwing Axe" category="Throwing" level="normal" tc="9">
+  <require dexterity="40" />
+  <stack max="130" />
+  <class type="Axe" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage throwmin="8" throwmax="12" min="4" max="7" />
+ </type>
+
+ <type name="Balanced Axe" category="Throwing" level="normal" tc="18">
+  <require dexterity="57" />
+  <stack max="130" />
+  <class type="Axe" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage throwmin="12" throwmax="15" min="5" max="10" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Battle Dart" category="Throwing" level="exceptional" tc="33">
+  <require level="19" strength="25" dexterity="52" />
+  <stack max="160" />
+  <class type="Dagger" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="11" throwmax="24" min="8" max="16" />
+ </type>
+
+ <type name="War Dart" category="Throwing" level="exceptional" tc="39">
+  <require level="22" strength="25" dexterity="97" />
+  <stack max="160" />
+  <class type="Dagger" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage throwmin="14" throwmax="27" min="6" max="24" />
+ </type>
+
+ <type name="Francisca" category="Throwing" level="exceptional" tc="36">
+  <require level="25" strength="25" dexterity="80" />
+  <stack max="130" />
+  <class type="Axe" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage throwmin="18" throwmax="33" min="11" max="22" />
+ </type>
+
+ <type name="Hurlbat" category="Throwing" level="exceptional" tc="42">
+  <require level="25" strength="25" dexterity="106" />
+  <stack max="130" />
+  <class type="Axe" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage throwmin="24" throwmax="34" min="13" max="27" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Flying Knife" category="Throwing" level="elite" tc="66">
+  <require level="48" strength="48" dexterity="141" />
+  <stack max="200" />
+  <class type="Dagger" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="n" sor="f" />
+  <damage throwmin="23" throwmax="54" min="23" max="54" />
+ </type>
+
+ <type name="Winged Knife" category="Throwing" level="elite" tc="78">
+  <require level="57" strength="45" dexterity="142" />
+  <stack max="200" />
+  <class type="Dagger" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="f" sor="vf" />
+  <damage throwmin="23" throwmax="39" min="27" max="35" />
+ </type>
+
+ <type name="Flying Axe" category="Throwing" level="elite" tc="57">
+  <require level="42" strength="88" dexterity="108" />
+  <stack max="180" />
+  <class type="Axe" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage throwmin="15" throwmax="66" min="17" max="65" />
+ </type>
+
+ <type name="Winged Axe" category="Throwing" level="elite" tc="81">
+  <require level="60" strength="96" dexterity="122" />
+  <stack max="180" />
+  <class type="Axe" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage throwmin="7" throwmax="60" min="11" max="56" />
+ </type>
+
+</items>

@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Scepter" category="Scepter" level="normal" tc="3">
+  <durability max="50" />
+  <require strength="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed pal="f" />
+  <damage h1min="6" h1max="11" />
+ </type>
+
+ <type name="Grand Scepter" category="Scepter" level="normal" tc="15">
+  <durability max="60" />
+  <require strength="37" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed pal="f" />
+  <damage h1min="8" h1max="18" />
+ </type>
+
+ <type name="War Scepter" category="Scepter" level="normal" tc="21">
+  <durability max="70" />
+  <require strength="55" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed pal="vf" />
+  <damage h1min="10" h1max="17" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Rune Scepter" category="Scepter" level="exceptional" tc="33">
+  <durability max="50" />
+  <require level="19" strength="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed pal="f" />
+  <damage h1min="13" h1max="24" />
+ </type>
+
+ <type name="Holy Water Sprinkler" category="Scepter" level="exceptional" tc="42">
+  <durability max="60" />
+  <require level="25" strength="76" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed pal="f" />
+  <damage h1min="14" h1max="36" />
+ </type>
+
+ <type name="Divine Scepter" category="Scepter" level="exceptional" tc="45">
+  <durability max="70" />
+  <require level="25" strength="103" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed pal="vf" />
+  <damage h1min="10" h1max="17" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Mighty Scepter" category="Scepter" level="elite" tc="63">
+  <durability max="50" />
+  <require level="46" strength="125" dexterity="65" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed pal="f" />
+  <damage h1min="40" h1max="52" />
+ </type>
+
+ <type name="Seraph Rod" category="Scepter" level="elite" tc="75">
+  <durability max="60" />
+  <require level="57" strength="108" dexterity="69" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed pal="f" />
+  <damage h1min="45" h1max="54" />
+ </type>
+
+ <type name="Caduceus" category="Scepter" level="elite" tc="90">
+  <durability max="70" />
+  <require level="66" strength="97" dexterity="70" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed pal="vf" />
+  <damage h1min="37" h1max="43" />
+ </type>
+</items>

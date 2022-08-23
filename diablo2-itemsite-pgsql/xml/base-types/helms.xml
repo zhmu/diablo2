@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Cap" category="Helm" level="normal" tc="3">
+  <durability max="12" />
+  <sockets amount="2" />
+  <defense min="3" max="5" />
+ </type>
+
+ <type name="Skull Cap" category="Helm" level="normal" tc="6">
+  <require strength="15" />
+  <durability max="18" />
+  <sockets amount="2" />
+  <defense min="8" max="11" />
+ </type>
+
+ <type name="Helm" category="Helm" level="normal" tc="12">
+  <durability max="24" />
+  <require strength="26" />
+  <sockets amount="2" />
+  <defense min="15" max="18" />
+ </type>
+
+ <type name="Full Helm" category="Helm" level="normal" tc="15">
+  <durability max="30" />
+  <require strength="41" />
+  <sockets amount="2" />
+  <defense min="23" max="26" />
+ </type>
+
+ <type name="Great Helm" category="Helm" level="normal" tc="24">
+  <durability max="40" />
+  <require strength="63" />
+  <sockets amount="3" />
+  <defense min="30" max="35" />
+ </type>
+
+ <type name="Mask" category="Helm" level="normal" tc="21">
+  <durability max="20" />
+  <require strength="23" />
+  <sockets amount="3" />
+  <defense min="9" max="27" />
+ </type>
+
+ <type name="Crown" category="Helm" level="normal" tc="30">
+  <durability max="50" />
+  <require strength="55" />
+  <sockets amount="3" />
+  <defense min="25" max="45" />
+ </type>
+
+ <type name="Bone Helm" category="Helm" level="normal" tc="24">
+  <durability max="40" />
+  <require strength="25" />
+  <sockets amount="2" />
+  <defense min="33" max="36" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="War Hat" category="Helm" level="exceptional" tc="36">
+  <durability max="12" />
+  <require level="22" strength="25" />
+  <sockets amount="2" />
+  <defense min="45" max="53" />
+ </type>
+
+ <type name="Sallet" category="Helm" level="exceptional" tc="39">
+  <durability max="18" />
+  <require level="25" strength="43" />
+  <sockets amount="2" />
+  <defense min="52" max="62" />
+ </type>
+
+ <type name="Casque" category="Helm" level="exceptional" tc="42">
+  <durability max="24" />
+  <require level="25" strength="59" />
+  <sockets amount="2" />
+  <defense min="63" max="72" />
+ </type>
+
+ <type name="Basinet" category="Helm" level="exceptional" tc="45">
+  <durability max="30" />
+  <require level="25" strength="82" />
+  <sockets amount="2" />
+  <defense min="75" max="84" />
+ </type>
+
+ <type name="Winged Helm" category="Helm" level="exceptional" tc="51">
+  <durability max="40" />
+  <require level="25" strength="115" />
+  <sockets amount="3" />
+  <defense min="85" max="98" />
+ </type>
+
+ <type name="Death Mask" category="Helm" level="exceptional" tc="48">
+  <durability max="20" />
+  <require level="25" strength="55" />
+  <sockets amount="3" />
+  <defense min="54" max="86" />
+ </type>
+
+ <type name="Grand Crown" category="Helm" level="exceptional" tc="57">
+  <durability max="50" />
+  <require level="25" strength="103" />
+  <sockets amount="3" />
+  <defense min="78" max="113" />
+ </type>
+
+ <type name="Grim Helm" category="Helm" level="exceptional" tc="51">
+  <durability max="40" />
+  <require level="25" strength="58" />
+  <sockets amount="2" />
+  <defense min="60" max="125" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Shako" category="Helm" level="elite" tc="60">
+  <durability max="12" />
+  <require level="43" strength="50" />
+  <sockets amount="2" />
+  <defense min="98" max="141" />
+ </type>
+
+ <type name="Hydraskull" category="Helm" level="elite" tc="63">
+  <durability max="18" />
+  <require level="47" strength="84" />
+  <sockets amount="2" />
+  <defense min="101" max="145" />
+ </type>
+
+ <type name="Armet" category="Helm" level="elite" tc="69">
+  <durability max="24" />
+  <require level="51" strength="109" />
+  <sockets amount="2" />
+  <defense min="105" max="149" />
+ </type>
+
+ <type name="Giant Conch" category="Helm" level="elite" tc="54">
+  <durability max="30" />
+  <require level="40" strength="142" />
+  <sockets amount="2" />
+  <defense min="110" max="145" />
+ </type>
+
+ <type name="Spired Helm" category="Helm" level="elite" tc="81">
+  <durability max="40" />
+  <require level="59" strength="192" />
+  <sockets amount="3" />
+  <defense min="114" max="159" />
+ </type>
+
+ <type name="Demonhead" category="Helm" level="elite" tc="75">
+  <durability max="20" />
+  <require level="55" strength="102" />
+  <sockets amount="3" />
+  <defense min="101" max="154" />
+ </type>
+
+ <type name="Corona" category="Helm" level="elite" tc="90">
+  <durability max="20" />
+  <require level="66" strength="174" />
+  <sockets amount="3" />
+  <defense min="111" max="165" />
+ </type>
+
+ <type name="Bone Visage" category="Helm" level="elite" tc="84">
+  <durability max="40" />
+  <require level="63" strength="106" />
+  <sockets amount="3" />
+  <defense min="100" max="157" />
+ </type>
+
+</items>

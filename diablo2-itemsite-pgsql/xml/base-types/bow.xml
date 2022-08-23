@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Short Bow" category="Bow" level="normal" tc="3">
+  <sockets amount="3" />
+  <require dexterity="15" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="1" h2max="4" />
+ </type>
+
+ <type name="Hunter's Bow" category="Bow" level="normal" tc="6">
+  <sockets amount="4" />
+  <require dexterity="28" />
+  <speed ama="vf" asn="f" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="2" h2max="6" />
+ </type>
+
+ <type name="Long Bow" category="Bow" level="normal" tc="9">
+  <sockets amount="5" />
+  <require strength="22" dexterity="19" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="3" h2max="10" />
+ </type>
+
+ <type name="Composite Bow" category="Bow" level="normal" tc="12">
+  <sockets amount="4" />
+  <require strength="22" dexterity="19" />
+  <speed ama="vf" asn="f" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="4" h2max="8" />
+ </type>
+
+ <type name="Short Battle Bow" category="Bow" level="normal" tc="18">
+  <sockets amount="5" />
+  <require strength="30" dexterity="40" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="5" h2max="11" />
+ </type>
+
+ <type name="Long Battle Bow" category="Bow" level="normal" tc="24">
+  <sockets amount="6" />
+  <require strength="40" dexterity="50" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="3" h2max="18" />
+ </type>
+
+ <type name="Short War Bow" category="Bow" level="normal" tc="27">
+  <sockets amount="5" />
+  <require strength="35" dexterity="55" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="6" h2max="14" />
+ </type>
+
+ <type name="Long War Bow" category="Bow" level="normal" tc="33">
+  <sockets amount="6" />
+  <require strength="50" dexterity="65" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="3" h2max="23" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Edge Bow" category="Bow" level="exceptional" tc="30">
+  <sockets amount="3" />
+  <require level="18" strength="25" dexterity="43" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="6" h2max="19" />
+ </type>
+
+ <type name="Razor Bow" category="Bow" level="exceptional" tc="33">
+  <sockets amount="4" />
+  <require level="21" strength="25" dexterity="62" />
+  <speed ama="vf" asn="f" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="8" h2max="22" />
+ </type>
+
+ <type name="Cedar Bow" category="Bow" level="exceptional" tc="36">
+  <sockets amount="5" />
+  <require level="23" strength="53" dexterity="49" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="10" h2max="29" />
+ </type>
+
+ <type name="Double Bow" category="Bow" level="exceptional" tc="39">
+  <sockets amount="4" />
+  <require level="25" strength="58" dexterity="73" />
+  <speed ama="vf" asn="f" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="11" h2max="26" />
+ </type>
+
+ <type name="Short Siege Bow" category="Bow" level="exceptional" tc="45">
+  <sockets amount="5" />
+  <require level="25" strength="65" dexterity="80" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="13" h2max="30" />
+ </type>
+
+ <!-- TC is unlisted; this is a guess... -->
+ <type name="Large Siege Bow" category="Bow" level="exceptional" tc="42">
+  <sockets amount="6" />
+  <require level="25" strength="80" dexterity="95" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="10" h2max="42" />
+ </type>
+
+ <type name="Rune Bow" category="Bow" level="exceptional" tc="51">
+  <sockets amount="5" />
+  <require level="25" strength="73" dexterity="103" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="14" h2max="35" />
+ </type>
+
+ <type name="Gothic Bow" category="Bow" level="exceptional" tc="54">
+  <sockets amount="6" />
+  <require level="25" strength="95" dexterity="118" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="10" h2max="50" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Spider Bow" category="Bow" level="elite" tc="57">
+  <sockets amount="3" />
+  <require level="41" strength="64" dexterity="143" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="23" h2max="50" />
+ </type>
+
+ <type name="Blade Bow" category="Bow" level="elite" tc="60">
+  <sockets amount="4" />
+  <require level="45" strength="76" dexterity="119" />
+  <speed ama="vf" asn="n" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="21" h2max="41" />
+ </type>
+
+ <type name="Shadow Bow" category="Bow" level="elite" tc="63">
+  <sockets amount="5" />
+  <require level="47" strength="52" dexterity="188" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="15" h2max="59" />
+ </type>
+
+ <type name="Great Bow" category="Bow" level="elite" tc="69">
+  <sockets amount="4" />
+  <require level="51" strength="121" dexterity="107" />
+  <speed ama="vf" asn="f" bar="vf" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="12" h2max="52" />
+ </type>
+
+ <type name="Diamond Bow" category="Bow" level="elite" tc="72">
+  <sockets amount="5" />
+  <require level="54" strength="89" dexterity="132" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="33" h2max="40" />
+ </type>
+
+ <type name="Crusader Bow" category="Bow" level="elite" tc="78">
+  <sockets amount="6" />
+  <require level="57" strength="97" dexterity="121" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="15" h2max="63" />
+ </type>
+
+ <type name="Ward Bow" category="Bow" level="elite" tc="81">
+  <sockets amount="5" />
+  <require level="60" strength="72" dexterity="146" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="n" pal="f" sor="f" />
+  <damage h2min="20" h2max="53" />
+ </type>
+
+ <type name="Hydra Bow" category="Bow" level="elite" tc="87">
+  <sockets amount="6" />
+  <require level="63" strength="134" dexterity="167" />
+  <speed ama="f" asn="n" bar="f" dru="f" nec="n" pal="n" sor="n" />
+  <damage h2min="10" h2max="68" />
+ </type>
+</items>

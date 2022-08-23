@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL, ONE HAND -->
+ <type name="Short Sword" category="Sword" level="normal" tc="3">
+  <durability max="24" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="2" h1max="7" />
+ </type>
+
+ <type name="Scimitar" category="Sword" level="normal" tc="6">
+  <durability max="22" />
+  <require dexterity="21" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="f" />
+  <damage h1min="2" h1max="6" />
+ </type>
+
+ <type name="Sabre" category="Sword" level="normal" tc="9">
+  <durability max="32" />
+  <require strength="25" dexterity="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="3" h1max="8" />
+ </type>
+
+ <type name="Falchion" category="Sword" level="normal" tc="12">
+  <durability max="32" />
+  <require strength="33" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="s" asn="n" bar="s" dru="s" nec="s" pal="n" sor="s" />
+  <damage h1min="9" h1max="17" />
+ </type>
+
+ <type name="Crystal Sword" category="Sword" level="normal" tc="12">
+  <durability max="20" />
+  <require strength="43" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="5" h1max="15" />
+ </type>
+
+ <type name="Broad Sword" category="Sword" level="normal" tc="15">
+  <durability max="32" />
+  <require strength="48" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="7" h1max="14" />
+ </type>
+
+ <type name="Long Sword" category="Sword" level="normal" tc="21">
+  <durability max="44" />
+  <require strength="55" dexterity="39" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="3" h1max="19" />
+ </type>
+
+ <type name="War Sword" category="Sword" level="normal" tc="27">
+  <durability max="44" />
+  <require strength="71" dexterity="45" />
+  <range amount="1" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="8" h1max="20" />
+ </type>
+
+ <!-- NORMAL, TWO HAND -->
+ <type name="Two-handed Sword" category="Sword" level="normal" tc="12">
+  <durability max="44" />
+  <require strength="33" dexterity="27" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="2" h1max="9" h2min="8" h2max="17" />
+ </type>
+
+ <type name="Claymore" category="Sword" level="normal" tc="18">
+  <durability max="50" />
+  <require strength="47" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="5" h1max="12" h2min="13" h2max="30" />
+ </type>
+
+ <type name="Giant Sword" category="Sword" level="normal" tc="21">
+  <durability max="50" />
+  <require strength="56" dexterity="34" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="3" h1max="16" h2min="9" h2max="28" />
+ </type>
+
+ <type name="Bastard Sword" category="Sword" level="normal" tc="24">
+  <durability max="40" />
+  <require strength="62" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="7" h1max="19" h2min="20" h2max="28" />
+ </type>
+
+ <type name="Flamberge" category="Sword" level="normal" tc="27">
+  <durability max="50" />
+  <require strength="70" dexterity="49" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="9" h1max="15" h2min="13" h2max="26" />
+ </type>
+
+ <type name="Great Sword" category="Sword" level="normal" tc="33">
+  <durability max="50" />
+  <require strength="100" dexterity="60" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="12" h1max="20" h2min="25" h2max="42" />
+ </type>
+
+ <!-- EXCEPTIONAL, ONE HAND -->
+ <type name="Gladius" category="Sword" level="exceptional" tc="30">
+  <durability max="24" />
+  <require level="18" strength="25" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="8" h1max="22" />
+ </type>
+
+ <type name="Cutlass" category="Sword" level="exceptional" tc="45">
+  <durability max="22" />
+  <require level="25" strength="25" dexterity="52" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="f" />
+  <damage h1min="8" h1max="21" />
+ </type>
+
+ <type name="Shamshir" category="Sword" level="exceptional" tc="36">
+  <durability max="32" />
+  <require level="23" strength="58" dexterity="58" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="10" h1max="24" />
+ </type>
+
+ <type name="Tulwar" category="Sword" level="exceptional" tc="39">
+  <durability max="32" />
+  <require level="25" strength="70" dexterity="42" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="s" asn="n" bar="s" dru="s" nec="s" pal="n" sor="s" />
+  <damage h1min="16" h1max="35" />
+ </type>
+
+ <type name="Dimensional Blade" category="Sword" level="exceptional" tc="39">
+  <durability max="20" />
+  <require level="25" strength="85" dexterity="60" />
+  <range amount="1" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="13" h1max="35" />
+ </type>
+
+ <type name="Battle Sword" category="Sword" level="exceptional" tc="42">
+  <durability max="32" />
+  <require level="25" strength="92" dexterity="43" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="16" h1max="34" />
+ </type>
+
+ <type name="Rune Sword" category="Sword" level="exceptional" tc="45">
+  <durability max="44" />
+  <require level="25" strength="103" dexterity="79" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="10" h1max="42" />
+ </type>
+
+ <type name="Ancient Sword" category="Sword" level="exceptional" tc="51">
+  <durability max="44" />
+  <require level="25" strength="127" dexterity="88" />
+  <range amount="1" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="18" h1max="43" />
+ </type>
+
+ <!-- EXCEPTIONAL, TWO HAND -->
+ <type name="Espandon" category="Sword" level="exceptional" tc="39">
+  <durability max="44" />
+  <require level="25" strength="73" dexterity="61" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="8" h1max="26" h2min="18" h2max="40" />
+ </type>
+
+ <type name="Dacian Falx" category="Sword" level="exceptional" tc="42">
+  <durability max="50" />
+  <require level="25" strength="91" dexterity="20" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="13" h1max="30" h2min="26" h2max="61" />
+ </type>
+
+ <type name="Tusk Sword" category="Sword" level="exceptional" tc="45">
+  <durability max="50" />
+  <require level="25" strength="104" dexterity="71" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="10" h1max="37" h2min="19" h2max="58" />
+ </type>
+
+ <type name="Gothic Sword" category="Sword" level="exceptional" tc="48">
+  <durability max="40" />
+  <require level="25" strength="113" dexterity="20" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="14" h1max="40" h2min="39" h2max="60" />
+ </type>
+
+ <type name="Zweihander" category="Sword" level="exceptional" tc="51">
+  <durability max="50" />
+  <require level="25" strength="125" dexterity="94" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="19" h1max="35" h2min="29" h2max="54" />
+ </type>
+
+ <type name="Executioner Sword" category="Sword" level="exceptional" tc="54">
+  <durability max="50" />
+  <require level="25" strength="170" dexterity="110" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="24" h1max="40" h2min="47" h2max="80" />
+ </type>
+
+ <!-- ELITE, ONE HAND -->
+ <type name="Falcata" category="Sword" level="elite" tc="57">
+  <durability max="24" />
+  <require level="42" strength="150" dexterity="88" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="31" h1max="59" />
+ </type>
+
+ <type name="Ataghan" category="Sword" level="elite" tc="63">
+  <durability max="22" />
+  <require level="45" strength="135" dexterity="95" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="f" />
+  <damage h1min="26" h1max="46" />
+ </type>
+
+ <type name="Elegant Blade" category="Sword" level="elite" tc="63">
+  <durability max="32" />
+  <require level="47" strength="109" dexterity="122" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="33" h1max="45" />
+ </type>
+
+ <type name="Hydra Edge" category="Sword" level="elite" tc="69">
+  <durability max="32" />
+  <require level="51" strength="142" dexterity="105" />
+  <range amount="1" />
+  <sockets amount="2" />
+  <speed ama="f" asn="n" bar="s" dru="s" nec="s" pal="f" sor="n" />
+  <damage h1min="28" h1max="68" />
+ </type>
+
+ <type name="Phase Blade" category="Sword" level="elite" tc="75">
+  <durability />
+  <require level="54" strength="25" dexterity="136" />
+  <range amount="2" />
+  <sockets amount="6" />
+  <speed ama="vf" asn="vf" bar="vf" dru="vf" nec="vf" pal="vf" sor="vf" />
+  <damage h1min="31" h1max="35" />
+ </type>
+
+ <type name="Conquest Sword" category="Sword" level="elite" tc="78">
+  <durability max="32" />
+  <require level="58" strength="142" dexterity="112" />
+  <range amount="1" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="37" h1max="53" />
+ </type>
+
+ <type name="Cryptic Sword" category="Sword" level="elite" tc="84">
+  <durability max="44" />
+  <require level="61" strength="99" dexterity="109" />
+  <range amount="2" />
+  <sockets amount="4" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="5" h1max="77" />
+ </type>
+
+ <type name="Mythical Sword" category="Sword" level="elite" tc="90">
+  <durability max="44" />
+  <require level="66" strength="147" dexterity="124" />
+  <range amount="2" />
+  <sockets amount="3" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="40" h1max="50" />
+ </type>
+
+ <!-- ELITE, TWO HAND -->
+ <type name="Legend Sword" category="Sword" level="elite" tc="60">
+  <durability max="44" />
+  <require level="44" strength="175" dexterity="100" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="vf" asn="vf" bar="vf" dru="f" nec="f" pal="vf" sor="n" />
+  <damage h1min="20" h1max="56" h2min="50" h2max="94" />
+ </type>
+
+ <type name="Highland Blade" category="Sword" level="elite" tc="66">
+  <durability max="100" />
+  <require level="49" strength="171" dexterity="104" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="f" />
+  <damage h1min="22" h1max="62" h2min="67" h2max="96" />
+ </type>
+
+ <type name="Balrog Blade" category="Sword" level="elite" tc="72">
+  <durability max="50" />
+  <require level="53" strength="185" dexterity="87" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="f" asn="f" bar="f" dru="f" nec="f" pal="f" sor="n" />
+  <damage h1min="15" h1max="75" h2min="55" h2max="118" />
+ </type>
+
+ <type name="Champion Sword" category="Sword" level="elite" tc="78">
+  <durability max="40" />
+  <require level="57" strength="163" dexterity="103" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="f" asn="vf" bar="f" dru="f" nec="f" pal="vf" sor="f" />
+  <damage h1min="24" h1max="54" h2min="71" h2max="83" />
+ </type>
+
+ <type name="Colossus Sword" category="Sword" level="elite" tc="81">
+  <durability max="50" />
+  <require level="60" strength="182" dexterity="95" />
+  <range amount="3" />
+  <sockets amount="5" />
+  <speed ama="n" asn="f" bar="n" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="26" h1max="70" h2min="61" h2max="121" />
+ </type>
+
+ <type name="Colossus Blade" category="Sword" level="elite" tc="87">
+  <durability max="50" />
+  <require level="63" strength="189" dexterity="110" />
+  <range amount="3" />
+  <sockets amount="6" />
+  <speed ama="f" asn="f" bar="f" dru="n" nec="n" pal="f" sor="n" />
+  <damage h1min="25" h1max="65" h2min="58" h2max="115" />
+ </type>
+</items>

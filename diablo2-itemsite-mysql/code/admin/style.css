@@ -1,0 +1,70 @@
+BODY {
+    margin: 0px 0px 0px 0px;
+}
+
+TABLE.toptab {
+    background: #ffffff;
+}
+
+TR.toprow {
+    background: #ff5050;
+}
+
+TR.toprow2 {
+    background: #8080ff;
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 12px;
+}
+
+TD.topcell1 {
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 20px;
+    color: #ffff00;
+}
+
+TD.topcell2 {
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 10px;
+    color: #ffff00;
+    font-weight: bold;
+}
+
+A.toplink {
+    color: #ffff00;
+    font-weight: bold;
+}
+
+A.toplink:HOVER {
+    text-decoration: none;
+}
+
+TD.topcell3 {
+    font-family: Verdana, Tahoma, Arial;
+    font-size: 12px;
+    color: #ffff00;
+    font-weight: bold;
+}
+
+TABLE.overtab {
+    background: #6060ff;
+    color: #ffff00;
+    font-size: 13px;
+}
+
+TR.overrow {
+    background: #ffffff;
+    color: #000000;
+} 
+
+A.overlink {
+    color: #ffff00;
+}
+
+TABLE.content_tab {
+    background: #6060ff;
+}
+
+TR.content_row {
+    background: #ffffff;
+    color: #000000;
+} 

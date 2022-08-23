@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<items>
+ <type name="Ring" category="Ring" level="normal" tc="x" />
+ <type name="Amulet" category="Amulet" level="normal" tc="x" />
+</items>

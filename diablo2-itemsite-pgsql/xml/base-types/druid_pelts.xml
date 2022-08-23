@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Wolf Head" category="Druid" level="normal" tc="6">
+  <durability max="20" />
+  <require level="3" strength="16" />
+  <sockets amount="3" />
+  <defense min="8" max="11" />
+ </type>
+
+ <type name="Hawk Helm" category="Druid" level="normal" tc="9">
+  <durability max="20" />
+  <require level="6" strength="20" />
+  <sockets amount="3" />
+  <defense min="4" max="15" />
+ </type>
+
+ <type name="Antlers" category="Druid" level="normal" tc="18">
+  <durability max="20" />
+  <require level="12" strength="24" />
+  <sockets amount="3" />
+  <defense min="18" max="24" />
+ </type>
+
+ <type name="Falcon Mask" category="Druid" level="normal" tc="21">
+  <durability max="20" />
+  <require level="15" strength="28" />
+  <sockets amount="3" />
+  <defense min="12" max="28" />
+ </type>
+
+ <type name="Spirit Mask" category="Druid" level="normal" tc="24">
+  <durability max="20" />
+  <require level="18" strength="30" />
+  <sockets amount="3" />
+  <defense min="22" max="35" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Alpha Helm" category="Druid" level="exceptional" tc="36">
+  <durability max="20" />
+  <require level="26" strength="44" />
+  <sockets amount="3" />
+  <defense min="52" max="62" />
+ </type>
+
+ <type name="Griffon Headdress" category="Druid" level="exceptional" tc="42">
+  <durability max="20" />
+  <require level="30" strength="50" />
+  <sockets amount="3" />
+  <defense min="46" max="68" />
+ </type>
+
+ <type name="Hunter's Guise" category="Druid" level="exceptional" tc="48">
+  <durability max="20" />
+  <require level="29" strength="56" />
+  <sockets amount="3" />
+  <defense min="67" max="81" />
+ </type>
+
+ <type name="Sacred Feathers" category="Druid" level="exceptional" tc="51">
+  <durability max="20" />
+  <require level="32" strength="62" />
+  <sockets amount="3" />
+  <defense min="58" max="87" />
+ </type>
+
+ <type name="Totemic Mask" category="Druid" level="exceptional" tc="57">
+  <durability max="20" />
+  <require level="41" strength="65" />
+  <sockets amount="3" />
+  <defense min="73" max="98" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Blood Spirit" category="Druid" level="elite" tc="63">
+  <durability max="20" />
+  <require level="46" strength="86" />
+  <sockets amount="3" />
+  <defense min="101" max="145" />
+ </type>
+
+ <type name="Sun Spirit" category="Druid" level="elite" tc="69">
+  <durability max="20" />
+  <require level="51" strength="95" />
+  <sockets amount="3" />
+  <defense min="98" max="147" />
+ </type>
+
+ <type name="Earth Spirit" category="Druid" level="elite" tc="78">
+  <durability max="20" />
+  <require level="57" strength="104" />
+  <sockets amount="3" />
+  <defense min="107" max="152" />
+ </type>
+
+ <type name="Sky Spirit" category="Druid" level="elite" tc="84">
+  <durability max="20" />
+  <require level="62" strength="113" />
+  <sockets amount="3" />
+  <defense min="103" max="155" />
+ </type>
+
+ <type name="Dream Spirit" category="Druid" level="elite" tc="90">
+  <durability max="20" />
+  <require level="66" strength="118" />
+  <sockets amount="3" />
+  <defense min="109" max="159" />
+ </type>
+</items>

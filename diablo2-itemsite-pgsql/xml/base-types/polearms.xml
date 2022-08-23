@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Bardiche" category="Polearm" level="normal" tc="6">
+  <durability max="50" />
+  <require strength="40" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="1" h2max="27" />
+ </type>
+
+ <type name="Voulge" category="Polearm" level="normal" tc="12">
+  <durability max="50" />
+  <require strength="50" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="6" h2max="21" />
+ </type>
+
+ <type name="Scythe" category="Polearm" level="normal" tc="15">
+  <durability max="65" />
+  <require strength="41" dexterity="41" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="8" h2max="20" />
+ </type>
+
+ <type name="Poleaxe" category="Polearm" level="normal" tc="21">
+  <durability max="65" />
+  <require strength="62" />
+  <range amount="4" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="18" h2max="39" />
+ </type>
+
+ <type name="Halberd" category="Polearm" level="normal" tc="30">
+  <durability max="55" />
+  <require strength="75" dexterity="47"/>
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="12" h2max="45" />
+ </type>
+
+ <type name="War Scythe" category="Polearm" level="normal" tc="21">
+  <durability max="55" />
+  <require strength="80" dexterity="80"/>
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="15" h2max="36" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Lochaber Axe" category="Polearm" level="elite" tc="33">
+  <durability max="50" />
+  <require level="21" strength="80" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="6" h2max="58" />
+ </type>
+
+ <type name="Bill" category="Polearm" level="elite" tc="39">
+  <durability max="50" />
+  <require level="25" strength="95" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="14" h2max="53" />
+ </type>
+
+ <type name="Battle Scythe" category="Polearm" level="elite" tc="42">
+  <durability max="65" />
+  <require level="23" strength="82" dexterity="82" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="18" h2max="45" />
+ </type>
+
+ <type name="Partizan" category="Polearm" level="elite" tc="36">
+  <durability max="65" />
+  <require level="23" strength="113" dexterity="67" />
+  <range amount="4" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="34" h2max="75" />
+ </type>
+
+ <type name="Bec-De-Corbin" category="Polearm" level="elite" tc="51">
+  <durability max="55" />
+  <require level="25" strength="133" dexterity="91" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="13" h2max="85" />
+ </type>
+
+ <type name="Grim Scythe" category="Polearm" level="elite" tc="48">
+  <durability max="55" />
+  <require level="25" strength="140" dexterity="140 "/>
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="30" h2max="70" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Ogre Axe" category="Polearm" level="elite" tc="60">
+  <durability max="50" />
+  <require level="45" strength="195" dexterity="75" />
+  <range amount="3" />
+  <sockets amount="3" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="28" h2max="145" />
+ </type>
+
+ <type name="Colossus Voulge" category="Polearm" level="elite" tc="66">
+  <durability max="50" />
+  <require level="48" strength="210" dexterity="55" />
+  <range amount="3" />
+  <sockets amount="4" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="17" h2max="165" />
+ </type>
+
+ <type name="Thresher" category="Polearm" level="elite" tc="72">
+  <durability max="65" />
+  <require level="53" strength="153" dexterity="118" />
+  <range amount="2" />
+  <sockets amount="5" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="12" h2max="141" />
+ </type>
+
+ <type name="Cryptic Axe" category="Polearm" level="elite" tc="81">
+  <durability max="65" />
+  <require level="59" strength="165" dexterity="103" />
+  <range amount="4" />
+  <sockets amount="5" />
+  <speed ama="s" asn="s" bar="s" dru="f" nec="n" pal="s" sor="n" />
+  <damage h2min="33" h2max="150" />
+ </type>
+
+ <type name="Great Poleaxe" category="Polearm" level="elite" tc="84">
+  <durability max="55" />
+  <require level="63" strength="179" dexterity="99" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="s" asn="n" bar="n" dru="f" nec="n" pal="n" sor="f" />
+  <damage h2min="46" h2max="127" />
+ </type>
+ 
+ <type name="Giant Thresher" category="Polearm" level="elite" tc="90">
+  <durability max="55" />
+  <require level="66" strength="188" dexterity="140" />
+  <range amount="5" />
+  <sockets amount="6" />
+  <speed ama="n" asn="n" bar="n" dru="vf" nec="f" pal="f" sor="f" />
+  <damage h2min="46" h2max="127" />
+ </type>
+</items>

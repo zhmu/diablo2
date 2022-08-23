@@ -1,0 +1,12 @@
+This is my attempt to write an usuable library for interfacing with Diablo2
+1.09/1.10+ saved games. It was designed to be used from my new Diablo2 item
+website, so that I could easily import characters without having to figure out
+manually which items they exactly had. 
+
+The library seems to work well; it's capable of reading all D2S file I have,
+from any version. Futhermore, it can also read D2I/D2X files as well.
+
+However, once the library and site were done, I decided that my Diablo2 days
+were finally over - so I never properly integrated them. As I feel it's a
+shame to just let these things be unused, I'm releasing this code using
+the GPLv2 license.

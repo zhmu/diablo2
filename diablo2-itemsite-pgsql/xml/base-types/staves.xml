@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Short Staff" category="Staves" level="normal" tc="3">
+  <durability max="20" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h2min="1" h2max="5" />
+ </type>
+
+ <type name="Long Staff" category="Staves" level="normal" tc="9">
+  <durability max="30" />
+  <sockets amount="3" />
+  <speed sor="f" />
+  <damage h2min="2" h2max="8" />
+ </type>
+
+ <type name="Gnarled Staff" category="Staves" level="normal" tc="12">
+  <durability max="35" />
+  <sockets amount="4" />
+  <speed sor="n" />
+  <damage h2min="4" h2max="12" />
+ </type>
+
+ <type name="Battle Staff" category="Staves" level="normal" tc="18">
+  <durability max="40" />
+  <sockets amount="4" />
+  <speed sor="f" />
+  <damage h2min="6" h2max="13" />
+ </type>
+
+ <type name="War Staff" category="Staves" level="normal" tc="24">
+  <durability max="50" />
+  <sockets amount="6" />
+  <speed sor="n" />
+  <damage h2min="12" h2max="28" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Jo Staff" category="Staves" level="exceptional" tc="30">
+  <durability max="20" />
+  <require level="18" strength="25" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h2min="6" h2max="21" />
+ </type>
+
+ <type name="Quarterstaff" category="Staves" level="exceptional" tc="36">
+  <durability max="30" />
+  <require level="23" strength="25" />
+  <sockets amount="3" />
+  <speed sor="f" />
+  <damage h2min="8" h2max="26" />
+ </type>
+
+ <type name="Cedar Staff" category="Staves" level="exceptional" tc="39">
+  <durability max="35" />
+  <require level="25" strength="25" />
+  <sockets amount="4" />
+  <speed sor="n" />
+  <damage h2min="11" h2max="32" />
+ </type>
+
+ <type name="Gothic Staff" category="Staves" level="exceptional" tc="42">
+  <durability max="40" />
+  <require level="25" strength="25" />
+  <sockets amount="4" />
+  <speed sor="f" />
+  <damage h2min="14" h2max="34" />
+ </type>
+
+ <type name="Rune Staff" category="Staves" level="exceptional" tc="48">
+  <durability max="50" />
+  <require level="25" strength="25" />
+  <sockets amount="6" />
+  <speed sor="n" />
+  <damage h2min="24" h2max="58" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Walking Stick" category="Staves" level="elite" tc="60">
+  <durability max="20" />
+  <require level="43" strength="25" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h2min="69" h2max="85" />
+ </type>
+
+ <type name="Stalagmite" category="Staves" level="elite" tc="66">
+  <durability max="30" />
+  <require level="49" strength="63" dexterity="35" />
+  <sockets amount="3" />
+  <speed sor="f" />
+  <damage h2min="75" h2max="107" />
+ </type>
+
+ <type name="Elder Staff" category="Staves" level="elite" tc="75">
+  <durability max="35" />
+  <require level="25" strength="44" dexterity="37" />
+  <sockets amount="4" />
+  <speed sor="n" />
+  <damage h2min="80" h2max="93" />
+ </type>
+
+ <type name="Shillelagh" category="Staves" level="elite" tc="84">
+  <durability max="40" />
+  <require level="62" strength="52" dexterity="27" />
+  <sockets amount="4" />
+  <speed sor="f" />
+  <damage h2min="65" h2max="108" />
+ </type>
+
+ <type name="Archon Staff" category="Staves" level="elite" tc="90">
+  <durability max="50" />
+  <require level="66" strength="34" />
+  <sockets amount="6" />
+  <speed sor="n" />
+  <damage h2min="83" h2max="99" />
+ </type>
+</items>

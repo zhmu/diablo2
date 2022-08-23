@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Eagle Orb" category="Sorceress" level="normal" tc="3">
+  <durability max="20" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="2" h1max="5" />
+ </type>
+
+ <type name="Scared Globe" category="Sorceress" level="normal" tc="9">
+  <durability max="30" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="3" h1max="8" />
+ </type>
+
+ <type name="Smoked Sphere" category="Sorceress" level="normal" tc="12">
+  <durability max="35" />
+  <require level="8" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="4" h1max="10" />
+ </type>
+
+ <type name="Clasped Orb" category="Sorceress" level="normal" tc="18">
+  <durability max="40" />
+  <require level="13" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="5" h1max="12" />
+ </type>
+
+ <type name="Jared's Stone" category="Sorceress" level="normal" tc="24">
+  <durability max="50" />
+  <require level="18" />
+  <sockets amount="3" />
+  <speed sor="n" />
+  <damage h1min="8" h1max="18" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Glowing Orb" category="Sorceress" level="exceptional" tc="33">
+  <durability max="20" />
+  <require level="24" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="8" h1max="21" />
+ </type>
+
+ <type name="Crystalline Globe" category="Sorceress" level="exceptional" tc="39">
+  <durability max="30" />
+  <require level="27" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="10" h1max="26" />
+ </type>
+
+ <type name="Cloudy Sphere" category="Sorceress" level="exceptional" tc="42">
+  <durability max="35" />
+  <require level="30" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="11" h1max="29" />
+ </type>
+
+ <type name="Sparkling Ball" category="Sorceress" level="exceptional" tc="48">
+  <durability max="40" />
+  <require level="34" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="13" h1max="32" />
+ </type>
+
+ <type name="Swirling Crystal" category="Sorceress" level="exceptional" tc="51">
+  <durability max="50" />
+  <require level="37" />
+  <sockets amount="3" />
+  <speed sor="n" />
+  <damage h1min="18" h1max="42" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Heavenly Stone" category="Sorceress" level="elite" tc="60">
+  <durability max="20" />
+  <require level="44" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="21" h1max="46" />
+ </type>
+
+ <type name="Eldritch Orb" category="Sorceress" level="elite" tc="69">
+  <durability max="30" />
+  <require level="50" />
+  <sockets amount="2" />
+  <speed sor="f" />
+  <damage h1min="18" h1max="50" />
+ </type>
+
+ <type name="Demon Heart" category="Sorceress" level="elite" tc="75">
+  <durability max="35" />
+  <require level="56" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="23" h1max="55" />
+ </type>
+
+ <type name="Vortex Orb" category="Sorceress" level="elite" tc="84">
+  <durability max="40" />
+  <require level="63" />
+  <sockets amount="2" />
+  <speed sor="n" />
+  <damage h1min="12" h1max="66" />
+ </type>
+
+ <type name="Dimensional Shard" category="Sorceress" level="elite" tc="90">
+  <durability max="50" />
+  <require level="66" />
+  <sockets amount="3" />
+  <speed sor="n" />
+  <damage h1min="30" h1max="53" />
+ </type>
+
+</items>

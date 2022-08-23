@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<items>
+ <!-- NORMAL -->
+ <type name="Preserved Head" category="Necromancer" level="normal" tc="6">
+  <durability max="20" />
+  <require level="3" strength="12" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="2" max="4" />
+  <block nec="23" />
+ </type>
+
+ <type name="Zombie Head" category="Necromancer" level="normal" tc="9">
+  <durability max="20" />
+  <require level="6" strength="14" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="4" max="8" />
+  <block nec="25" />
+ </type>
+
+ <type name="Unraveller Head" category="Necromancer" level="normal" tc="18">
+  <durability max="20" />
+  <require level="12" strength="18" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="6" max="10" />
+  <block nec="28" />
+ </type>
+
+ <type name="Gargoyle Head" category="Necromancer" level="normal" tc="21">
+  <durability max="20" />
+  <require level="15" strength="20" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="10" max="16" />
+  <block nec="30" />
+ </type>
+
+ <type name="Demon Head" category="Necromancer" level="normal" tc="24">
+  <durability max="20" />
+  <require level="18" strength="25" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="15" max="20" />
+  <block nec="32" />
+ </type>
+
+ <!-- EXCEPTIONAL -->
+ <type name="Mummified Trophy" category="Necromancer" level="exceptional" tc="33">
+  <durability max="20" />
+  <require level="24" strength="38" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="38" max="48" />
+  <block nec="23" />
+ </type>
+
+ <type name="Fetish Trophy" category="Necromancer" level="exceptional" tc="39">
+  <durability max="20" />
+  <require level="29" strength="41" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="41" max="52" />
+  <block nec="25" />
+ </type>
+
+ <type name="Sexton Trophy" category="Necromancer" level="exceptional" tc="45">
+  <durability max="20" />
+  <require level="33" strength="47" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="44" max="55" />
+  <block nec="28" />
+ </type>
+
+ <type name="Cantor Trophy" category="Necromancer" level="exceptional" tc="51">
+  <durability max="20" />
+  <require level="36" strength="50" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="50" max="64" />
+  <block nec="30" />
+ </type>
+
+ <type name="Hierophant Trophy" category="Necromancer" level="exceptional" tc="54">
+  <durability max="20" />
+  <require level="40" strength="58" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="58" max="70" />
+  <block nec="32" />
+ </type>
+
+ <!-- ELITE -->
+ <type name="Minion Skull" category="Necromancer" level="elite" tc="60">
+  <durability max="20" />
+  <require level="44" strength="77" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="95" max="139" />
+  <block nec="23" />
+ </type>
+
+ <type name="Hellspawn Skull" category="Necromancer" level="elite" tc="69">
+  <durability max="20" />
+  <require level="50" strength="82" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="96" max="141" />
+  <block nec="25" />
+ </type>
+
+ <type name="Overseer Skull" category="Necromancer" level="elite" tc="66">
+  <durability max="20" />
+  <require level="49" strength="91" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="98" max="142" />
+  <block nec="28" />
+ </type>
+
+ <type name="Succubus Skull" category="Necromancer" level="elite" tc="81">
+  <durability max="20" />
+  <require level="60" strength="95" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="100" max="146" />
+  <block nec="30" />
+ </type>
+
+ <type name="Bloodlord Skull" category="Necromancer" level="elite" tc="87">
+  <durability max="20" />
+  <require level="65" strength="106" />
+  <sockets amount="2" />
+  <weight type="light" />
+  <defense min="103" max="148" />
+  <block nec="32" />
+ </type>
+</items>
